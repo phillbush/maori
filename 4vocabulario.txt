@@ -1,0 +1,1175 @@
+                                 TE REO MĀORI
+
+Os vocábulos são escritos na ortografia moderna.  A realização fonética
+(pronúncia e acento) não é listada, pois pode ser inferida da ortografia.
+• Vocábulos são separados morfologicamente            (ex' “kai-whaka-rere”).
+• Homônimos são diferenciados por número superescrito (ex' “waka¹” e “waka²”).
+• Variação dialetal entre “h” e “wh” é escrita “(w)h” (ex' “pō(w)hiri”).
+• Demais variações dialetais são separadas por “/”    (ex' “kei/kai”).
+
+O uso de modificadores é intensivo em Māori.  Termos expressas noutras línguas
+por poucas palavras, em Māori são expressos por uma cadeia de modificadores
+após uma base.  Ex' “kaimātai koiora moana” (“biólogo marinho”, literalmente
+“cientista [da] vida marinha”).  Cada modificador modifica a base que o
+antecede; portanto “kaimātai koiora moana” é “cientista da vida, tal que a
+vida é marinha”, e não “cientista da vida, tal que o cientista é marinho”.
+
+Glossas.
+• (DIN):    Base dinâmica (transitiva, intransitiva ou ambitransitiva).
+• (MED):    Base média
+• (NEUT):   Base neutra
+• (ADJ):    Base adjetiva
+• (COM):    Base locativa
+• (PERS):   Base pessoal
+• (LOC):    Base locativa
+• (INTERJ): Interjeição
+
+§ Correlativos, pro-formas, dêiticos, interrogativos
+
+Correlativos.
+┌──────────────────┬───────────────┬────────────────────────────────────────────┬──────────────────────────────────┐
+│                  │               │              Demonstrativo                 │           Quantificador          │
+│ Classe           │ Interrogativo ├──────────┬──────────┬──────────┬───────────├───────────┬──────────┬───────────┤
+│                  │               │ Proximal │ Medial   │ Distal   │ Anafórico │ Negativo  │          │ Universal │
+╞══════════════════╪═══════════════╪══════════╪══════════╪══════════╪═══════════╪═══════════╪══════════╪═══════════╡
+│ Determinante     │ (t)ēhea       │ (t)ēnei  │ (t)ēnā   │ (t)ērā   │ (t)aua    │           │          │           │
+├───────┬──────────┼───────────────┼──────────┼──────────┼──────────┼───────────┼───────────┼──────────┼───────────┤
+│       │ Comum    │ aha           │ (t)ēnei  │ (t)ēnā   │ (t)ērā   │ (t)aua    │           │          │ katoa     │
+│       ├──────────┼───────────────┼──────────┼──────────┼──────────┼───────────┼───────────┼──────────┼───────────┤
+│ Nome  │ Locativo │ hea           │ konei    │ konā     │ korā     │ reira     │           │          │           │
+│       ├──────────┼───────────────┼──────────┼──────────┼──────────┼───────────┼───────────┼──────────┼───────────┤
+│       │ Pessoal  │ wai           │ au(-ku)  │ koe(-u)  │ ia(-na)  │           │           │          │ katoa     │
+│       │          │               │ tāua     │ kōrua    │ rāua     │           │           │          │           │
+│       │          │               │ tātou    │ koutou   │ rātou    │           │           │          │           │
+│       │          │               │ māua     │          │          │           │           │          │           │
+│       │          │               │ mātou    │          │          │           │           │          │           │
+├───────┴──────────┼───────────────┼──────────┼──────────┼──────────┼───────────┼───────────┼──────────┼───────────┤
+│ Modificador      │               │ nei      │ nā       │ rā       │           │           │          │ katoa     │
+├───────┬──────────┼───────────────┼──────────┼──────────┼──────────┼───────────┼───────────┼──────────┼───────────┤
+│       │ Dinâmico │ aha(-tia)     │          │          │          │           │           │          │           │
+│       ├──────────┼───────────────┼──────────┼──────────┼──────────┼───────────┼───────────┼──────────┼───────────┤
+│ Verbo │ Adjetivo │ pēhea(-tia)   │ pēnei    │ pēnā     │ pērā     │           │           │          │           │
+│       ├──────────┼───────────────┼──────────┼──────────┼──────────┼───────────┼───────────┼──────────┼───────────┤
+│       │ Numeral  │ hia           │          │          │          │           │           │          │           │
+└───────┴──────────┴───────────────┴──────────┴──────────┴──────────┴───────────┴───────────┴──────────┴───────────┘
+
+Pronome pessoais.
+Alguns dos pronomes possuem alomorfos cliticos (listados em parênteses),
+usados para compor contrações (“nā + au → nāku”).  Há variações dialetais
+para os pronomes da segunda pessoa: “kourua” é usado no norte de Auckland;
+“kōtou” é usado na costa Leste.  “au” é pronunciado ‘/wau/’ após vogais
+posteriores.
+┌─────────────────────╥───────────────┬───────────────┬───────────────┐
+│                     ║ Singular      │ Dual          │ Plural        │
+╞═════════════════════╬═══════════════╪═══════════════╪═══════════════╡
+│ 1ª pessoa inclusivo ║               │ tāua          │ tātou         │
+├─────────────────────╢ au (-ku)      ├───────────────┼───────────────┤
+│ 1ª pessoa exclusivo ║               │ māua          │ mātou         │
+├─────────────────────╫───────────────┼───────────────┼───────────────┤
+│ 2ª pessoa           ║ koe (-u)      │ kōrua, kourua │ koutou, kōtou │
+├─────────────────────╫───────────────┼───────────────┼───────────────┤
+│ 3ª pessoa           ║ ia (-na)      │ rāua          │ rātou         │
+├─────────────────────╫───────────────┴───────────────┴───────────────┤
+│ Interrogativo       ║                      wai                      │
+└─────────────────────╨───────────────────────────────────────────────┘
+
+Pro-formas pessoais.
+Pro-formas derivadas dos pronomes pessoais são irregulares para os pronomes
+singulares (pois usam suas formas clíticas), mas regulares para os demais
+pronomes.
+┌─────────────────────────────────────╥────────┬────────┬────────┬───────────────────────────┐
+│                                     ║ 1s     │ 2s     │ 3s     │ Plural                    │
+╞═════════════════════════════════════╬════════╪════════╪════════╪═══════════════════════════╡
+│ Pronome                             ║ au     │ koe    │ ia     │ …                         │
+├─────────────────────────────────────╫────────┼────────┼────────┼───────────────────────────┤
+│ Determinante possessivo alienável   ║ tāku   │ tāu    │ tāna   │ tā …                      │
+├─────────────────────────────────────╫────────┼────────┼────────┼───────────────────────────┤
+│ Determinante possessivo inalienável ║ tōku   │ tōu    │ tōna   │ tō …                      │
+├─────────────────────────────────────╫────────┼────────┼────────┼───────────────────────────┤
+│ Determinante possessivo neutro      ║ taku   │ tō     │ tana   │ (não existe)              │
+└─────────────────────────────────────╨────────┴────────┴────────┴───────────────────────────┘
+
+Constituintes interrogativos.
+• “ki hea” (aonde, para onde).
+• “i hea” (donde, desde onde).
+• “kei hea” (onde fica/está): “Kei hea koe e noho ana” (Onde estás morando?).
+• “i hea” (onde ficava/esteve): “I hea koe inapō?” (Onde estaves noite passada?).
+• “nō hea?” (de onde, qual a origem): “No hea tō hoa?” (De onde seu amigo é?).
+• “ā hea” (quando, no futuro): “Ā hea koe hoki ai?” (Quando vocês vão voltar?).
+• “ko hea” (que lugar, qual o nome):  “Ko hea tērā?” (Que lugar é aquele?);
+“Ko hea tērā maunga?” (Que montanha é aquela?).
+• “mā hea?” (como, por onde):
+“Mā hea mai koutou ki Otepoti? Mā runga waka rererangi” (“Como vocês vieram
+para Dunedin? De avião.”); “Mā hea mai to koutou ara? Mā te ara ki
+Waiotapu.” (“Por qual rota vocês vieram? Pela estrada para Waiotapu.”).
+
+
+§ Espaço, direção, tempo
+
+Espaço-tempo.
+• wā:     (COM) vez, período, intervalo, área, região, espaço definido.
+• takiwā: (COM) espaço, tempo, área, período, território.
+
+Pro-locativos (demonstrativos, indefinidos e interrogativos).
+• hea/whea:   (LOC) interrogativo, onde.
+• kō:         (LOC) definitivo, o lugar ou época.
+• konei:      (LOC) demonstrativo proximal, este lugar, aqui.
+• konā:       (LOC) demonstrativo medial, esse lugar, ai.
+• korā:       (LOC) demonstrativo distal, aquele lugar, ali.
+• reira:      (LOC) demonstrativo anafórico, lá, tal lugar ou circunstância.
+
+Posição vertical.
+• runga:      (LOC) superior, topo, cima, acima.
+• raro:       (LOC) inferior, baixo, fundo, abaixo.
+
+Posição inessivo.
+• roto:       (LOC) interior, dentro.
+• waho:       (LOC) exterior, fora.
+
+Posição linear (também aplicaveis ao tempo).
+• mua:         (LOC) anterior, frente, antes, diante, no passado, anteriormente.
+• mua noa atu: (LOC) há muito tempo atrás.
+• muri:        (LOC) posterior, após, depois, no futuro, posteriormente.
+• muri iho:    (LOC) logo depois.
+• waenganui:   (LOC) meio, entre, no meio (do tempo).
+
+Posição lateral.
+• tua:        (LOC) contralateral, do outro lado, além, parte de trás, costas.
+• tahaki:     (LOC) lateral, lado, do lado, à parte.
+• matau:      (LOC, MOD, COM) direita, lado direito.
+• mauī:       (LOC, MOD, COM) esquerdo, lado esquerdo.
+
+Locais.
+• rohe(-a):   (DIN) [definir] fronteira; região, área.
+• wāhi(-a):   (DIN) [definir] partiçao, subdivisão.
+• tūnga:      (COM) posição, local, rank, status.
+• papa:       (COM) plano, chão.
+
+Expressões locativas.
+Em maori não há palavras alativas ou ablativas como “acima” ou “abaixo”
+indicando ao mesmo tempo local e direção.  Tais sentidos são expressos
+usando preposições.
+• ki runga:   acima, para cima.
+• ki roto:    adentro, para dentro.
+• i roto:     afora, de dentro.
+
+Modificadores locativos.
+Muitos modificadores podem ser usados modificando um locativo.
+• iho:        (MOD) logo, como em “muri iho” (logo depois).
+• noa atu:    (MOD) muito mais, como em “mua noa atu” (há muito tempo atrás).
+• tonu:       (MOD) exatamente, bem, como em “konei tonu” (bem aqui).
+
+Alativos.
+Nomes prefixados com “whaka” formam modificadores indicando direção.
+• whakarunga:     (MOD) para cima.  Ex' “titiro whakarunga” (Olhe para cima).
+• whaka te whare: (MOD) para casa.  Ex' “Haere whaka te whare” (Vá para casa).
+
+
+§ Tempo
+
+Tempo passado.
+Usa-se as preposições verbais “i” ou “nō” para introduzir frases com o sentido
+de “foi em”, “foi durante”, etc, e formar advérbios temporais passado.
+• i nāianei:     agora pouco, agora.
+• i napō:        na noite passada.
+• i nanahi:      ontem.
+• i tētahi rā:   anteontem.
+• i tērā Tūrei:  terça passada.
+• i tērā wiki:   semana passada.
+• i tērā marama: més passado.
+• i tērā tau:    ano passado.
+• i te ata:      manhã passada.
+• i te ahiahi:   tarde passada.
+• i mua …:       antes do … passado (ex' "i mua i te Kirihimete", antes do natal passado).
+• i muri …:      após o … passado.
+• i muri iho:    logo após, então.
+• i te ono ō ng rā:       no sexto dia.
+• i te ono karaka:        às seis horas.
+• i mua tata ake nei:     num passado bem recente
+• i nehe rā:              nos tempos idos.
+
+Tempo futuro.
+Usa-se a partícula “ā” para introduzir frases com o sentido de “será em”,
+“será durante”, etc.
+• āpōpō:         amanhã, depois, no futuro.
+• ākuanei:       em breve.
+• ā tēnei pō:    próxima noite.
+• ā tētahi rā:   depois de amanhã.
+• ā tērā Tūrei:  próxima Terça.
+• ā tērā wiki:   próxima semana.
+• ā tērā marama: próximo més.
+• ā tērā tau:    próximo ano.
+• ā te ata:      próxima manhã.
+• ā te ahiahi:   próxima tarde.
+• ā mua …:       antes do proximo … (e.g., "ā mua i te Kirihimete", antes do próximo natal).
+• ā muri <nome>: após o proximo ….
+• ā mua ake:     logo após evento futuro.
+• ā te ono ō ngā rā:           no sexto dia.
+• ā te ono karaka:             às seis horas.
+• ā ngā rā e tata mai nei:     nos proximos dias.
+• ā te mutunga o tēnei rautau: no fim deste século.
+
+Expressões espaciais e temporais.
+• Konei tonu:      Bem aqui (lit. "aqui mesmo).
+• Ki roto:         Adentro.
+• I roto:          Afora (lit "desde dentro")
+• Waenganui pō:    Meio da noite (lit. "meio [de] noite")
+• Muri iho:        "Depoisinho" (logo depois).
+
+
+§ Número, quantidade
+
+Indefinidos.
+• maha:       (ADJ) [que tem] abundância, número, maioria.
+• katoa:      (ADJ) todo, totalmente, inteiro
+• katoa:      (COM) tudo, todos, todo mundo.
+
+Numerais.
+Numerais entre 11 e 19 têm a forma “tekau mā Y”.
+Múltiplos de dez têm a forma “e X tekau”.
+Outros números de 21 a 99 têm a forma “e X tekau mā Y”
+• tahi:               (ADJ) um.
+• rua:                (ADJ) dois.
+• toru:               (ADJ) três.
+• whā:                (ADJ) quatro.
+• rima:               (ADJ) cinco.
+• ono:                (ADJ) seis.
+• whitu:              (ADJ) sete.
+• waru:               (ADJ) oito.
+• iwa:                (ADJ) nove.
+• tekau:              (ADJ) dez.
+• tekau mā ono:       (ADJ) dezesseis.
+• whā tekau mā ono:   (ADJ) quarenta e seis.
+• kotahi rau:         (ADJ) cem.
+• kotahi rau mā tahi: (ADJ) cento e um.
+• kotahi rau e rua tekau mā tahi: (ADJ) cento e vinte e um.
+• mano:               (ADJ) mil.
+
+Exemplos.
+• “Ng whare e rua” (“As duas casas”, literalmente “as casas são duas”).
+• “E rua ōku whare” (“Eu tenho duas casas”, lit' “minhas casas são duas”).
+• “Hōmai kia rua ngā pukapuka” (“Me dê dois livros”)
+
+Ordinais são formados para os números de 1 a 9 pela prefixação de “tua-” ao
+cardinal.  Demais ordinais são usados como a forma cardinal.  A palavra
+resultante é usada como um atributivo A ou como um nome.
+• “Te rā tuatahi” (O primeiro dia).
+• “Te tuatahi o ngā r” (O primeiro dos dias).
+• “Te tekau mā rua o ngā rā o Tīhema” (O décimo segundo dia de Dezembro).
+
+Outrem.
+• mā:     (MOD) “et al”, pluralizador de pessoais.  Ex' “Mere mā!” (Maria e outros).
+• wai mā: (PERS) “quem? (plural)” plural do interrogativo pessoal.
+• mea mā: (PERS) eles, os tais.
+
+
+§ Coisas, ações, materiais, ferramentas
+
+Coisas e materiais.
+• mea:        coisa.
+• matū:       (COM) Material, matéria, substância; (COM) essência, ponto.
+• kiko:       Corpo, substancia, conteludo, sujeito
+• pūnaha:     sistema (“pūnaha tekau”: sistema decimal; “pūnaha hauropi”: ecossistema).
+• ahi:        (COM) fogo.
+• auahi:      (COM) fumaça.  De “au” (corrente) e “ahi” (fogo).
+• kōhatu:     (COM) rocha, pedra.
+• pounamu:    (COM) pedra preciosa verde de origem neozelandesa.
+• hanga(-a,-ia): (DIN) [fazer] construção, coisa, produto; construir, fazer, executar.
+
+Ferramentas.
+• taura:  (COM) corda.
+
+Partes das coisas.
+• mata:       (COM) superfície, canto, tela (computador), ponta.
+• tara:       (COM) pico, ponta, espinho, chifre.
+• taha:       (COM) parte, lado, margem, canto, beira (ver “tahaki”).
+• kakau:      (COM) cabo, haste, talo, caule.
+• au:         (COM) corrente (de correnteza).
+
+Qualidades espaciais das coisas.
+• riki:   (MOD) pequeno, pouco.
+• roa:    (ADJ) [ser] longo, alto, comprido, demorado.
+• iti:    (ADJ) [ser] pequeno, trivial, insignificante, pouco, mínimo.
+• nui:    (ADJ) [ser] largo, grande, numeroso, abundante.
+• nuinui: (ADJ) plural/distributivo de “nui”.
+• teitei: (ADJ) [ser] alto, comprido.
+• ō:      (ADJ) ter espaço, caber.
+• kī:     (ADJ) [estar] cheio, preenchido.
+
+Estado de conservação das coisas.
+• paru:       (ADJ) [estar com] sujeira, terra, lama.
+• poke:       (ADJ) [estar] sujo, imundo.
+
+Qualidade operacional das coisas.
+• whēuaua:    (ADJ) [ser] difícil; dificuldade.
+• pakeke:     (ADJ) [ser] duro, difícil.
+
+Comparação.
+• rite(-a):   (MED) [ser] igual, parecido; [ter] similaridade, igualdade.
+
+§ Manipulação, busca e posicionamento de objetos
+
+Estado/posição do objeto.
+• mānu:          (ADJ) [estar] flutuando, alagado, inundado, transbordando.
+• hinga(-ia):    (NEUT) [ser/estar] caído, derrubado.
+• riro:          (NEUT) [ser] levado, retirado, ganhado, herdado, adquirido, obtido.
+• mau:           (NEUT) [ser] pego, carregado, levado.
+• mahue(-tia):   (NEUT) [ser] deixado, esquecido, posto de lado, abandonado, omitido.
+• tū(-ria):      (NEUT) [ser] colocado, posicionado, de pé; ficar, permanecer; posição, postura.
+• tū ake:        (NEUT) [ser] levantado, pôsto em pé; levantar-se, ficar de pé.
+• ara(-hia,-ia): (NEUT) erger, surgir, ascender, aparecer, levantar.
+• takoto(-ria):  (NEUT) [estar] deitado.
+• marara:        (NEUT) [ser/estar] disperso, separado, espalhado.
+• maringi:       (NEUT) [ser/estar] despejado, entornado, espalhado (de líquido).
+• motu:          (NEUT) [ser] livre, separado, isolado; (COM) ilha.
+• ngaro(-mia):   (NEUT) [estar] escondido, desaparecido, fora de vista, perdido.
+• tahuri:        (NEUT) [estar] afundado, capotado.
+• toremi:        (NEUT) [estar] afogado, submerso.
+• ū:             (NEUT) [estar] firme, fixo, fixado, inflexível.
+• wareware:      (NEUT) [ser] esquecido, esquecimento.
+• maru:          (ADJ) [estar sob] cobertura, proteção, escudo.
+• marumaru:      (ADJ) [estar sob] sombra, refúgio.
+• pau:           (ADJ) [estar] gasto, consumido, exaurido, acabado.
+• kaha           (ADJ) [que] [tem] força, energia, intensidade, magnitude, volume (som).
+• tere:          (ADJ) [ser] rápido; velocidade.
+• oti:           (NEUT) [estar] completo, chegado ao fim.
+• mutu:          (NEUT) [estar] encerrado, parado, acabado, posto um fim.
+• ea:            (NEUT) [estar] satisfeito, completo.
+• whakamarumaru(-tia):    (ADJ) [fazer] sombra, refúgio.
+• rironga:        (COM) obtenção, aquisição, abdução.
+• wera:          (ADJ) [estar] quente, queimando; calor.
+• tātari(-tia):   (DIN) [fazer] análise, filtragem, coagem, separação.
+
+Pôr.
+• maka(-ia):      (DIN) pôr, botar, jogar.
+
+Transporte e carga.
+• kawe(-a):       (DIN) [fazer] carregamento; carregar.
+• hari(-a):       (DIN) [fazer] transporte; levar, mover.
+• hari mai:       (DIN) [fazer] retorno; retornar.
+• tiki(tīkina):   (DIN) buscar, ir pegar.
+• tiki atu:       (DIN) trazer.
+• uta(-ina):      (DIN) [fazer] carregamento; carregar sobre.
+• mau(-ria):      (DIN) pegar, levar.
+• kukume(kūmea):  (DIN) puxar, arrastar, rebocar.
+• huhuti(hūtia):  (DIN) içar, remover; tirar (penas, depenar).
+• maranga:        (DIN) levantar, erguer-se.
+
+Soltura e atadura.
+• tuku(-a,-na):   (DIN) soltar, liberar, passar, ceder, baixar (computador).
+• motu(-hia):     (DIN) separar, isolar, cortar, liberar.
+• here(-a,-ngia): (DIN) [fazer] laço, nó, atadura. (COM) restrição, limite.
+
+Projétil.
+• piu(-a):        (DIN) jogar, brandir, atirar.
+• pupuhi(pūhia):  (DIN) [fazer] tiro, disparo; atirar, disparar.
+
+Dano e corte.
+• marū:           (NEUT) [ser] machucado, amassado.
+• motu:           (NEUT) [ser] cortado.
+• pakaru:         (NEUT) [ser] esmagado, estilhaçado, quebrado, desmantelado.
+• whati(-a):      (NEUT) [estar] quebrado; fraturado, quebrado.
+• tapahi(-a):     (DIN) [fazer] corte; cortar.
+• wera(-hia):     (DIN) queimar.
+
+Estica e puxa.
+• piko:           (NEUT) [estar] dobrado, curvado; dobra, curva.
+• totoro(tōrona): (DIN) esticar.
+
+Busca.
+• whai(whāia):    (DIN) [fazer] busca, perseguição; correr atrás.
+• tatari(tāria):  (DIN) [fazer] espera; esperar por.
+• hopu(-a,-kia):  (DIN) [fazer] captura; capturar.
+
+Abertura, ativação e fechamento.
+• whakapuare(-ngia,-tia): (DIN) [fazer] abertura; abrir.
+
+Outros.
+• muru(-a):       (DIN) esfregar, raspar, friccionar, espalhar, untar.
+
+
+§ Ida, estada, partida, chegada, viagem
+
+Ida.
+• haere(-a,-hia): (DIN) [Fazer] ida, viagem, progresso.
+• haere:          (MOD) Ao andar, enquanto anda, andando.
+• haere:          (INTERJ) Boa viagem.
+• haere rā:       (INTERJ) Adeus, tchau.
+• haere mai:      (INTERJ) Olá, bem vindo.
+• tae(-a):        (DIN) chegar, alcançar, extender-se.
+• hoki(-a):       (DIN) voltar, retornar.
+• tomo(-kia):     (DIN) entrar.
+• puta(-ina):     (DIN) sair.
+• hoake(-tia):    (DIN) partir, ir.
+
+Andar.
+• oma(-kia):      (DIN) [Fazer] corrida, escapada.
+• hīkoi(-tia):    (DIN) [Fazer] passo, marcha, caminhada.
+
+Ficar.
+• noho(nōhia):    (DIN) ficar, permanecer, ficar, ocupar, viver, estar, sentar.
+
+§ Sentidos, percepção, visão, cores
+
+Cores.
+• kakano:     (COM) Cor, textura.
+• mā:         (ADJ) [ser] branco, limpo, pálido.
+• whero:      (ADJ) [ser] vermelho, avermelhado.
+• kākāriki:   (ADJ) [ser] verde.
+
+Sentidos (visual).
+• kite(-a):           (MED) [dirigir] descobrimento, percepção, detecção.
+• tiro(-hia):         (MED) [dirigir] olhar, observação, inspeção.
+• titiro(-hia):       (MED) [dirigir] olhar minucioso, inspeção, contemplar.
+• tiro mākutu(-tia):  (MED) Fitar, encarar (de "mākutu", sobrenatural).
+• tiro whānui:        (MED) [Dirigir] visão geral, overview (de "whānui", amplo).
+• tiro korotaha:      (MED) Olhar torto, com desaprovação (de "korotaha", torto)
+
+Sentidos (não visual).
+• whakarongo(-na)      (MED) Ouvir, obedecer, escutar, prestar atenção; [Dirigir] atenção, obediência.
+• rongo (rangona):     (MED) Sentir, ouvir, cheirar; [Dirigir] sentido, sensação, percepção não visual.
+• kakara:              (ADJ) [ter] cheiro, aroma, fragrância.
+• tāwara:              (COM) sabor, essência.
+• whakapā(-kia,-ngia): (DIN) tocar, fazer contato.
+• rongo kakara:        (COM) olfato.
+• rongo tāwara:        (COM) paladar.
+• rongo whakapā:       (COM) tato.
+• tairongo:            (COM) Sentido
+
+Busca.
+• rapu(-a)        (MED) [dirigir] busca, procura.
+• kimi(-hia):     (DIN) [fazer] busca, caçada, procura.
+
+
+§ Pessoas, indivíduo, idade
+
+Caracteristicas pessoais:
+• ingoa:      Nome
+• rā whānau:  (COM) aniversario (lit' dia [de] nascimento).
+• whānau(-a)  (NEUT) nascer, [sofrer] nascimento.
+
+Origem.
+• māori:      (ADJ) [ser] nativo.
+• pākehā:     (ADJ) [ser] neozelandês de descendência europeia.
+
+Idade e gênero:
+• tāne:               (COM) macho, homem, esposo.
+• wahine:             (COM) fêmea, mulher, esposa.
+• kuia:               (COM) senhora, idosa, avó, vovó, anciã.
+• puhi:               (COM) virge, mulher pura, mulher de status elevado.
+• pēpi:               (ADJ) [ser] bebê, infante.
+• tamaiti/tamariki:   (ADJ) [ser] jovem/criança.
+• taitama:            (ADJ) [ser] moço, homem jovem.
+• kōtiro:             (ADJ) [ser] menina, garota, filha.
+• pakeke/pākeke:      (ADJ) [ser] adulto/maduro ~ maturidade
+• koroua:             (ADJ) [ser] velho, idoso, ancião.
+• kaumātua:           (ADJ) [ser] ancião, velho
+• kaumātua(-tia):     (DIN) [ficar] adulto, crescido; envelhecer.
+
+Derivados com gênero.  As palavras "Tāne" (homem, masculino) e "Wāhine"
+(mulher, feminino) quando usados como modificadores, determinam o genero
+de uma base:
+• Tamatāne:         [Ser] garoto, filho homem
+• Tamariki tāne:    Garotos
+• Tipuna tāne:      Ancestral homem, avô.
+• Tipuna wahine:    Ancestral mulher, avó.
+• Hoa tāne:         (NOM) Namorado (lit' “amigo”, “amigo homem”).
+• Hoa wahine:       (NOM) Namorada (lit' “amiga”, “amiga mulher”).
+
+Lar.
+• kāinga:      Lar.
+• kāinga kore: Sem teto.
+• iwi kāinga:  Povo de casa.
+• papa kāinga: Povo do marae.
+• kāinga tupu: Terra natal.
+• kāinga noho: Endereço.
+
+Qualidade do indivíduo.
+• ātāhua:         bonito.
+
+Propriedade.
+• taonga:     (COM) bens, posses, objeto.
+
+
+§ Sociedade, família, cultura, povo, tradução
+
+Cultura.
+• Ahurea:             (COM) Cultura.
+• Ahurea tuakiri:     (COM) Identidade cultural.
+• Ahurea o te marea:  (COM) Cultura popular.
+• tikanga:            costume, tradição, hábito, convenção, técnica, método, regra.
+• karakia:    (DIN) [fazer] prece, oração, cântic, ritual, encanto, feitiço.
+• tapu:       (COM) sagrado, tabu.
+
+Povo e família.
+• pori:       (COM) Povo, tribo, clã, filo.
+• taura here: (COM) Laços interpessoais (lit' corda [de] laço).
+• whenua:     (COM) Terra, dominio, nação, chão (geralmente poetico).
+• whānau:     (COM) família extendida (tios, ancestrais, amigos, agregados, etc).
+• whanaunga:  (COM) parente, relação sanguínea.
+• hapū:       (COM) gente, clã (conjunto de whānau com ancestral comum).
+• iwi:        (COM) tribo, povo, raça (conjunto de hapū adjacentes).
+• whakapapa:  (COM) genealogia, linhagem, descendência.
+• tangata whenua(-tia): (NEUT) ser de casa, naturalizado, adaptado; (COM) povo local.
+
+Vila e tribo.
+• marae:      (COM) Área de encontros e discursos na tribo.
+• pā:         (COM) vila fortificada, forte, cidade fortificada.
+
+Criação.
+• whāngai(-a):    (DIN) alimentar, cuidar, criar, adotar; (MOD) adotivo, criado.
+
+Casal:
+• Moe¹:             [Fazer] união co-domiciliar, casar
+• Moe²:             [Ter] sono/sonho (dormir).
+• Mārena(-hia/tia): [Fazer] Matrimonio (do inglês "marrying").
+• Rāngia:           [Ser] casado (passivo somente, "rā" não existe)
+• Tāne:             Homem, esposo
+• Wahine/wāhine:    Mulher, esposa
+
+Termos infantis:
+• pāpā:             Papai
+• māmā:             Mamai
+• pēpē:             Bebê
+
+Patriarcas e matriarcas:
+• matua/mātua:    (COM) [ser] adulto/chefe/principal (os chefes família)
+• pāpara:         (COM) pai/tio
+• whaea:          (COM) mãe/tia (plural: “whāea”).
+
+Ancestralidade e descendencia:
+• tipuna/tīpuna:  (ADJ) [Ser] ancestral, avô/avó (no dialeto oriental).
+• tupuna/tūpuna:  (ADJ) [Ser] ancestral, avô/avó (no dialeto ocidental).
+• mokopuna:       (ADJ) [Ser] descendente, neto(a)
+• moko:           (COM) netinho.  Forma carinhosa de “mokopuna” (neto).
+
+Fraternidade:
+• hāmua:            Irmão(a) mais velho (independente do sexo)
+• tuakana/tuākana:  Irmão(a)/primo(a) mais velho do mesmo sexo.
+• teina/tēina:      Irmão(a)/primo(a) mais novo do mesmo sexo.
+• tuahine/tuāhine:  Irmãa/prima de um homem.
+• tungāne:          Irmão/primo de uma mulher.
+
+Filiação e infancia:
+• Tama:             Garoto, filho    (pode ser usado como apelido)
+• Kōtiro:           [Ser] garota, filha.
+• Hine:             Garota, filha    (ou "tamāhine" ou "tamawāhine").
+• Pōtiki:           Filho(a) junior (mais novo)
+• Muanga:           Filho(a) senior (mais velho)
+• Mātāmua:          [Ser] primeiro   (na familia familiar: o primeiro filho)
+• Irāmutu:          Sobrinho(a)
+
+Lendas.
+• pūrākau:    (ADJ) mítico, lendário; (nom) mito, lenda, história.
+• hara:       (COM) pecado.
+
+
+§ Transporte, veículos, exploração, náutica
+
+Via.
+• ara:            (COM) via, caminho, estrada, rua, rota, trilha.
+• ara matua:      (COM) via principal.
+
+Condução.
+• tia(-ina):      (DIN) [fazer] condução, direção; dirigir.
+
+Veículos.
+• waka:            (COM) carro, veículo, canoa.
+• rererangi:       (COM) avião (de "rangi" (voo) + "rangi" (céu)).
+• paihikara:       (COM) bicicleta (do inglés "bicycle")
+• pahi:            (COM) onibus (do inglés "bus")
+• motopaika:       (COM) moto (do inglés "motobyke")
+• tereina:         (COM) trem (do inglés "train")
+• takahī:          (COM) taxi (do inglés "taxi")
+• kaitaraiwa:      (COM) piloto (de "taraiwa", dirigir/pilotar).
+
+Marinha.
+• kāpene:         (COM) capitão.
+• kaumoana:       (COM) marinheiro, marujo (sinônimo: “heramana”).
+• haika(-tia):    (COM) [baixar] âncora; ancorar.
+• kaipuke:        (COM) navio (abreviação: “puke”).
+• poti:           (COM) bote.
+
+
+§ Comunicação, escrita, discurso, fato, ideia, pensamento
+
+Língua.
+• waha:   (COM) voz.
+• reo:    (COM) língua, idioma, voz, som, fala.
+• kupu:   (DIN) [dizer] palavra, vocabulário, messagem, letra.
+
+Vocalização.
+• hāmama:                 (DIN) [dar] grito; gritar.
+• whio(-nga,-tia):        (DIN) [dar] assobio.
+
+Conversa.
+• mea(meinga):             (DIN) fazer, dizer, pensar.
+• kī(-a,-ia):              (DIN) dizer, falar.
+• karanga(-hia,-tia):      (DIN) [fazer] chamada, ligação; chamar, ligar, gritar.
+• kōrero(-hia,-ngia,-tia): (DIN) [fazer] conversa, fala, leitura, discussão, notícia.
+• whaikōrero(-tia):        (DIN) [fazer] discurso, discurso formal.
+
+Escrita.
+• tuhi(-a,-ngia): (DIN) [fazer] escrita, registro; escrever.
+
+Pensamento
+• maumahara(-tia):        (MED) lembrar, recordar.
+• aro(-hia,-ngia,-tia):   (MED) considerar, perceber, compreender; foco, percepção.
+• whakaaro(-a,-hia,-tia): (MED) [ter] ideia, pensamento, plano, opinião, entendimento, decisão.
+• huatau:                 (DIN) [ter] ideia, noção.
+
+Qualidade do fato.
+• tika:   (ADJ) [ser] correto, verdade, direito, acurado, fato, justo, direto ao ponto.
+• hē:     (ADJ) [ser] incorreto, falso, de forma errada; erro, falácia, culpa.
+
+Texto.
+• upoko:  (COM) capítulo, cabeçalho, título, parágrafo.
+• kōwae:  (COM) seção, parágrafo, parte.
+• whiti:  (COM) verso, estrofe.
+
+
+§ Hospedaria, quarto, sono, manutenção doméstica, hotel
+
+Hospitalidade.
+• Wharenui:          Casa de hospedes do hapū (clã) ou whānau (familia).
+• Marae¹:            Quintal do wharenui onde as visitas são recebidas.
+• Marae²:            [Ser] generoso, hospitaleiro.
+• Pō(w)hiri (-ngia): [Fazer] recepção/boas-vindas.
+• Haka pōhiri:       Haka (dança cerimonial) de pōhiri (boas-vindas).
+• manuhiri:          (COM) hóspede, visitante.
+
+Origem.
+• tūārangi:       (MOD) distantes, de longe.
+• tūārangi:       (COM) forasteiros, visitantes vindos de longe.
+
+Casa.
+• rūma:           (COM) área, quarto, sala (do inglês “room”).
+• rūma moe:       (COM) quarto (lit' “quarto de dormir”).
+• rūma kaukau:    (COM) banheiro (lit' “quarto de banho”).
+• rūma noho:      (COM) sala (lit' “sala de estar”).
+• kītini:         (COM) cozinha (do inglês “kitchen”).
+• arapiki:        (COM) escada (lit' “caminho de subida”).
+• iāri(-tia):     (DIN) [fazer, cuidar do] jardim, quintal.
+• mataaho:        (COM) janela.
+
+Descanço.
+• moe:            (DIN) [Fazer] sono, sonho, descanço.
+• ara(-hia,-ia):  (DIN) levantar, acordar.
+• oho(-kia):      (DIN) acordar.
+
+Móveis.
+• tūru:       (COM) cadeira.
+• tēpu:       (COM) mesa.
+
+Limpeza doméstica.
+• akuaku(-na,-tia):   (DIN) [fazer] limpeza, higiene.
+• puruma(-tia):       (DIN) varrer, [usar] vassoura.
+
+Cama.
+• moenga:     (COM) cama.
+• paraikete:  (COM) cobertor, coberta.  Do inglês “blanket”.
+
+§ Corpo, beleza, vestimenta
+
+Ações do corpo.
+• hāmama:     (DIN) abrir a boca.
+
+Corpo.
+• tinana:     (COM) tronco (do corpo ou árvore), parte principal, torso.
+• puku:       (COM) barriga, bucho.
+
+Cabeça.
+• upoko:      (COM) cabeça.
+• mātenga:    (COM) cabeça.
+• kanohi:     (COM) face, olho, visão, vista.
+• karu:       (COM) olho.
+• taringa:    (COM) ouvido.
+• ihu:        (COM) nariz, focinho, proa (de uma canoa).
+• waha:       (COM) boca, abertura (figurativo).
+
+Membros.
+• kēkē:   (COM) axila, sovaco.
+• ringa:  (COM) braço, mão.
+• wae:    (COM) perna, pé.
+
+Camiseira.
+• koti:   (COM) casaco.  Do inglês “coat”.
+• piupiu: (COM) saia maori.
+
+Chapeleira.
+• piki:   (COM) cocar, penacho.
+• pōtae:  (DIN) pôr sobre a cabeça;
+• pōtae:  (COM) chapéu, boné, capuz.
+
+Calçadeira.
+• hū:     (COM) sapato.
+
+
+
+§ Comércio, dinheiro, bens
+
+Comércio.
+• hoko(-a,-na):    (DIN) [Fazer] compra, venda, comércio; mercado.
+• hoko tāhae:      [Fazer] comércio ilegal.
+• hoko ā-ipurangi: [Fazer] comércio online.
+• hokonga:         Negócio, compra, venda.
+• hokohoko(-na):   Trocar, cambiar, exportar.
+
+Preço.
+• ea:     (NEUT) [estar] pago, quitado.
+• utu hoko:        Preço.   Lit' "valor [de] mercado".
+
+
+§ Alimentação, alimentos, preparo, restaurante, cozinha, caça
+
+Consumir.
+• Kai(-nga):      (DIN) [Comer, consumir] alimento, comida, refeição.
+• Inu(-mia):      (DIN) [Consumir] bebida.
+• Inu mirumiru:   Refrigerante, soda.  Lit. "bebida [de] bolha"
+• Wai-inu:        Agua potavel.
+• Wai:            Agua; rio, lagrima (figurativamente)
+
+Fome.
+• hia-:       (PREFIX) prefixo indicando desejo ou vontade.
+• hiakai:     (ADJ) [estar com] fome.
+• hiainu:     (ADJ) [estar com] sede.
+• mākona:     (NEUT) [estar] saciado, satisfeito o apetite.
+
+Alimentos.
+• huka:           (COM) açúcar.
+• miraka(-tia):   (DIN) ordenhar. (COM) leite.
+• parāoa:         (COM) pão, massa.
+• kānga:          (COM) milho.
+• kūmara:         (COM) batata-doce.
+• ārani:          (COM) laranja.
+
+Caça.
+• hī(-a, -ia, -tia):  [fazer] emergir, pescaria.
+• rapu(-a, -hia):     [fazer] caça, busca.
+• whaiwhai(-tia):     [fazer] caça, persegução.
+
+Utensilhos.
+• Taputapu tao:   Itens de cozinha
+• Pēnā:           Panela
+• Hōpane:         Caçarola.
+
+Louça.
+• rīhi:       (COM) louça.
+• pereti:     (COM) prato.
+• kapu:       (COM) copo.
+• kāpata:     (COM) armario.
+• naihi:      (COM) faca.
+• paoka:      (COM) garfo.
+• pune:       (COM) colher.
+
+Qualidade dos alimentos.
+• pirau:      podre; cru.
+• reka:       (ADJ) [ser] saboroso, gostoso, doce; sabor, doce.
+
+Armazenamento.
+• kete:       (COM) cesta.
+• tahā:       (COM) cabaça, cuia.
+
+
+§ Saúde, doença, hospital, medicamento
+
+Saúde.
+• ora:     (ADJ) [estar] bem, vivo, saudável, curado; saúde, vida, vitalidade.
+• mate:    (ADJ) [estar] mal, morto, doente, abatido; morte, doença, mal.
+• matenga: (COM) morte.
+• kaha     (DIN) [ter] força, capacidade, coragem, energia, fôlego.
+
+Enfermidades.
+• toto:           (NEUT) [estar com] sangue; sangrando.
+• tū:             (NEUT) [estar] machucado.
+• whara:          (NEUT) [estar] ferido, lesionado; lesão, ferimento.
+• marū:           (NEUT) [estar] machucado, roxo, com hematoma.
+• toremi:         (NEUT) [estar] afogado, sufocado.
+
+Remédio.
+• rongoā(-tia):    (DIN) [aplicar] tratamento, medicamento, remédio, cura
+• rongoā māori:    (COM) remedio natural, tratamento tradicional (lit.)
+• rongoā āraimate: (COM) vacina           (lit. "medicamento imunológico")
+• rongoā paturopi: (COM) antibiotico      (lit. "medicamento de anticorpo")
+• rongoā whakamoe: (COM) anestesico       (lit. "medicamento sonífero")
+• whakahau rongoā: (COM) prescrição       (lit. "comando médico")
+• whare rongoā:    (COM) farmacia         (lit. "casa [de] remédio")
+• mātai rongoā:    (COM) medicina         (lit. "ciencia médica")
+
+Higienização.
+• kaukau(-ria):   (DIN) [dar/tomar] banho, nado.
+• horoi(-a):      (DIN) [fazer] lavação, limpeza; sabão.
+
+
+§ Diversão, esportes, entretenimento
+
+Música.
+• puoro:          (V) Cantar; (N) Música.
+• waiata:         [Fazer] canto, canção.
+• waiata tangi:   Lamento tocado no Tangihanga (velorio tradicional).
+• waiata arohi:   Canção de amor
+• waiata ngahau:  Canção de entretenimento, música.
+
+
+§ Ambiente, chão e céu, dia, noite, clima, hora
+
+Ambiente.
+• rangi:          (COM) dia, céu, clima.
+• rangi takō:     (COM) dia claro, céu limpo.
+• rangi whakangā: (COM) dia de descanço, final de semana.
+• ao:             nuvem.
+• ao:             planeta.
+• pae:            horizonte.
+• whenua:         (COM) chão.
+• papa:           (COM) plano, chão.
+
+Horas do dia.
+• ao:     (DIN) [fazer-se] dia, manhã, luz solar; (MOD) claro; (COM) luz solar.
+• ahiahi: (DIN) [fazer-se] ocaso, pôr-do-sol, tardinha, noitinha.
+• ata:    (COM) manhã.
+• atapō:  (COM) madrugada.
+
+Céu.
+• rā:             (COM) sol, dia.
+• marama:         (COM) lua.
+
+Temperatura.
+• makariri:       (ADJ) estar frio.
+
+§ Rua, endereço, cidade, estabelecimentos, estruturas, construções
+
+Espaço urbano.
+• tāone”:          cidade, área urbana; estabelecer/fundar cidade.
+• papa rēhia:      parque,          lit. "area recreacional"
+• papa rererangi:  aeroporto,       lit. "area [de] aeroplanos"
+• papawaka:        estacionamento,  lit. "area [de] carro"
+• tūnga pahi:      parada,          lit. "ponto [de] onibus"
+
+Casas e estabelecimentos.
+• whare:           (COM) casa, estabelecimento, construção.
+• whare pikitia:   (COM) cinema           (lit. "casa [de] cinema").
+• whare kanikani:  (COM) danceteria       (lit. "casa [de] dança").
+• whare pukapuka:  (COM) biblioteca       (lit. "casa [de] livro").
+• whare karakia:   (COM) igreja/templo    (lit. "casa [de] oração").
+• whare tongarewa: (COM) museu            (lit. "casa [de] preciosidades").
+• whare hokomaha:  (COM) supermercado     (lit. "casa [de] compra abundante").
+• whare wānanga:   (COM) universidade     (lit. "casa [de] conhecimento").
+• wharekura:       (COM) escola           (lit. "casa [de] aprendizado").
+• pēke:            banco,           do inglés "bank"
+• toa:             loja,            do inglés "store"
+• hōhipera:        hospital,        do inglês "hospital"
+• wāhi kai:        restaurante,     lit. "segmento [de] comer"
+
+Ruas.
+• ara:             (COM) via, rota, caminho
+• ara tereina:     (COM) ferrovia       (lit. "via de trem").
+• ara matua:       (COM) via principal  (literalmente).
+• arawhata:        (COM) ponte          (lit. "via elevada")
+• rori:            (COM) rua
+• huarahi:         (COM) rota
+• huanui:          (COM) rodovia
+
+§ Natureza, animais, roça, fazenda
+
+Ambiente.
+• taiao:              (COM) Ambiente, meio ambiente, mundo, natureza.
+• māori:              (MOD) Nativo, natural, normal, comum, sem cerimônias.
+• wai māori:          (COM) Água potável
+• rawa taiao:         Recurso natural.
+• manatū mō te Taiao: Ministério do meio ambiente.
+• koiora:             (COM) Vida.
+• mātai koiora:       Biologia.
+• mātai koiora moana: Biologia marinha.
+
+Água.
+• wai māori:  (COM) água potável.
+• puna:       (DIN) fluir, minar. (COM) fonte, poço.
+
+Biomas.
+• roto:    (COM) lago; pântano.
+• ngahere: (COM) mato; floresta.
+• wao:     (COM) floresta.
+
+Bestas.
+• kararehe:   (COM) animal, besta (especialmente quadrúpedes).
+• kurī:       (COM) cão.
+• hōiho:      (COM) cavalo.
+• ngeru:      (COM) gato.
+• kāwhi:      (COM) bezerro.
+• poaka:      (COM) porco.
+• hipi:       (COM) ovelha.  Do inglês “sheep”.
+
+Peixes, moluscos e crustáceos.
+• ika:        (COM) peixe.
+• ururoa:     (COM) tubarão branco.
+• pāpaka:     (COM) carangueijo.
+• kōura:      (COM) lagosta, lagostim.
+• wheke:      (COM) polvo.
+
+Insetos.
+• mū:     (COM) inseto.
+• pī:     (COM) abelha.
+• ngaro:  (COM) mosca, varejeira.
+
+Aves.
+• manu:   (COM) ave.
+• kererū: (COM) pomba.
+• kōtuku: (COM) garça branca.
+
+Plantas.
+• rākau:      (COM) árvore, pau.
+• pua:        (DIN) [produzir] flor; florecer.
+
+Criação.
+• pāmu(-tia):     (DIN) cultivar, lavrar; fazenda.
+• kaimahi pāmu:   (COM) fazendeiro (lit' “trabalhador [da] fazenda”).
+
+Acidentes geograficos.
+• mānia:           (ADJ) [Que][é] plano, aberto, nivelado; planicie.
+• kōraha:          (ADJ) [Que][é] amplo, aberto, deserto, vago.
+• maunga:          (COM) montanha.
+• puke:            (COM) morro, desfiladeiro, barranco.
+• hāroto:          (COM) piscina, laguinho.
+• awa:             (COM) rio.
+• motu(-hia,-kia): (DIN) separar. (ADJ) [ser] livre, isolado; (COM) ilha.
+
+Mar.
+• moana:          (COM) mar.
+• moana waiwai:   (COM) mar aberto, oceano.
+• tātahi:         (LOC) praia, orla, margem (da perspectiva da terra).
+• tahaki:         (LOC) praia, orla, margem (da perspectiva do mar).
+• uta:            (LOC) em terra, em solo, terra firme.
+• tai:            (LOC) em mar, em aguas, alto-mar.
+• tāwāhi:         (LOC) outro lado do vale/rio/mar, Além mar, ultramarinho.
+• taha moana:     (COM) beira do mar (ver “taha”).
+
+
+§ Educação, escola, livros, ciência
+
+Conhecimento.
+• mātauranga:     (COM) conhecimento, habilidade, educação.
+
+Ensino.
+• ako(ākona):     estudar, aprender.
+• kai-ako:        (NOM) professor, instrutor.
+• whaka-ako(-na): [Que] [dá] educação, instrução, ensino.
+• kai-whaka-ako:  Professor, educador.
+
+Exemplos de professores:
+• "Kaiako Whaiarr" (professor particular);
+• "Kaiako reo Māori" (professor [de] lingua Māori);
+• "Kaiako reo Pākehā" (professor [de] lingua Inglesa).
+
+Ciencias:
+• Mātai(-a,-hia,-tia,TRANS):  [Fazer] pesquisa, estudo, investigação.
+• Mātai, te:                  Campo de pesquisa, ciência, “-ologia”.
+• Mātai kararehe, te:         Zooologia (lit' ciência [de] animal).
+• Mātai koiora, te:           Biologia (lit' ciência [da] vida).
+• Kai-mātai, te:              Cientista, pesquisador.
+• Kai-mātai koiora, te:       Biólogo.
+• Mātai koiora moana, te:     Biologia marinha.
+• Kai-mātai koiora moana, te: Biólogo marinho.
+
+Escola:
+• Kura(-ina,-ngia): [Ter] educação, escolaridade; escola, ensino formal.
+• Te Kōhanga Reo:   Pré-escola māori (lit.:"berço da lingua")
+• Whāre wānanga:   Universidade   (lit. "casa [de] conhecimento").
+• Wharekura:       Escola         (lit. "casa [de] aprendizado").
+
+Escrita.
+• pene:       (COM) caneta.
+
+
+§ Guerra, estado, governo, cidade, arma
+
+Guerra.
+• toa:    (ADJ) [ser] vitorioso, guerreiro, bravo, competente, capaz, campeão.
+• taua:   (COM) tropa, exército.
+
+Povo.
+• rangatira:  (ADJ) [que é] chefe, líder, cacique.
+• ware:       (ADJ) [que é] plebeu, comum.
+
+Arma.
+• oka(-ina):  (DIN) furar, perfurar, apunhalar, esfaquear, cortar.
+• oka:        (COM) faca, adaga, cutelo, faca de açogueiro.
+• mere:       (COM) tacape, clava.
+
+Cárcere.
+• herehere:   (COM) prisioneiro, cativo, acusado.
+
+Lei.
+• tika:   (COM) corretude, justiça, direito (como em “tika tangata”, “direitos humanos”).
+• hara:   (COM) pecado, crime, ofensa, problema.
+
+
+§ Tecnologia, computador, internet, mídia, notícia
+
+Mídia
+• pāpāho:             (DIN) [Fazer] transmissão.
+• hui pāpaho:         Coletiva de imprensa (ver "hui":"encontro").
+• hunga pāpāho:       Midia.
+• ao pāpāho:          Imprensa.
+• pae pāpāho pāpori:  Midia social (lit. "espaço de midia social")
+• pae tīhau:          Twitter (lit. "espaço do pio", calque do inglês "tweet")
+• nūpepa ou pepa:     Jornal (do inglês "newspaper, paper")
+• pukapuka rātaka:    Jornal (de pukapuka:"livreto" e rātaka:"diario").
+• te ipurangi:        (COM) Internet.
+
+Notícias.
+• Rongorongo:        Noticia
+• Rongo:             [Ter] noticia; [ter] percepção.
+• Rīpoata:           Reportar
+• Kairīpoata:        Reporter
+• Kairīpoata Pepa:   Jornalista (lit. "reporter [de] noticia").
+
+Meios de comunicação.
+• waea(-tia):     (DIN) [mandar] telefone, telegrama; telefonar.
+
+
+§ Trabalho, serviços, emprego, conquistas
+
+Trabalho.
+• mahi(-a,-ngia):     (DIN) [Fazer] trabalho, tarefa, atividade.
+• ratonga:            Serviço,     de "rato" (servir).
+• wini:               (NEUT) [ter] ganhado, ganhar; vitória.
+
+Profissões.
+• kaimahi:              Trabalhador.
+• kaimahi pāmu:         Fazendeiro,  lit. "trabalhador [de] fazenda"
+• kaimahi kōrere:       Encanador,   lit. "trabalhador [de] encanamento"
+• kaimahi raka:         Chaveiro,    lit. "trabalhador [de] tranca"
+• kaimahi hiko:         Eletricista, lit. "trabalhador [de] eletronico"
+• kaihoko putiputi:     Florista,    lit. "vendedor [de] flor"
+• kaihoko waenga:       Atacadista,  lit. "vendedor intermediario".
+• kaiwhakarere:         Aeropiloto (lit."quem-faz-voar, decolador").
+• kaitaraiwa rerehenua: Maquinista (lit."piloto ferroviario").
+• tūmau waka rererangi: Comissario (lit."atendente veicular aereo").
+
+Gerência.
+• whakahaere(-a,-hia,-ngia,-tia): [Fazer] organização, controle, adminstração.
+• kaiwhakahaere kaupapa:          Gerente de projetos.
+• kaiwhakahaere matua:            Gerente Chefe (CEO).
+• kaihautū:      Lider, guia, produtor.
+• kaihoahoa:     Designer, projetista.
+• kaihoko:       Comerciante, vendedor.
+• kaipānui:      Anunciante.
+• kaitohu:       Diretor.
+• kaitohutohu:   Instrutor.
+• kaiwhakahaere: Coordenador, gerente.
+• kaiāwhina:     Assistente.
+
+Escritorio, logistica, governo...
+• kaikaute pūtea:           Contador (lit' "contador financeiro").
+• āpiha Whaka-haere Manene: "Oficial [de] gerenciamento [de] imigração"
+• kaikawe karere:           Office-boy (lit' "levador [de] mensagem").
+• rōia:                     Advogado.
+
+§ Sentimentos, emoções, comportamentos, desejo
+
+Vontade.
+• pīrangi(-hia,tia):  (MED) [dirigir] desejo, vontade, esperança, fé.
+• hiahia(-tia):       (MED) [dirigir] necessidade, querer, desejo, vontade.
+
+Sentimentos.
+• aroha(-ina/-tia): (MED) [Dirigir] amor, simpatia, piedade, empatia, carinho; compadecer.
+• aroha nui:        (INTER) "Com muito amor", expressão usada no fim de cartas.
+
+Estado de vontade.
+• ngenge:         (ADJ) [sentir] cansaço, exaustão, fadiga.
+
+Estado de espírito.
+• koa(-ia,-ina):  (ADJ) [sentir] felicidade, alegria, euforia.
+• mataku:         (ADJ) [sentir] medo, pavor, terror, temor.
+• pōuri:          (ADJ) [ser] triste, arrependido, desolado, deprimido, com remorso.
+• pūhaehae:       (ADJ) [ser] invejoso, ciumento; [sentir] inveja, ciúme, má vontade.
+• whakamā:        (ADJ) [estar com] vergonha, timidez.
+
+Comportamento.
+• kata(-ina):     (INTR, TRANS) [fazer] riso, gargalhada.
+• tangi(-hia):    (INTR) [fazer] choro, pio, lamento, soado.
+
+Coisas que geram sentimentos.
+• hōhā:           (ADJ) [ser] chato, pé-no-saco, tédio, incômodo.
+• riri(rīria):    (ADJ) [ser] irritante.
+
+
+§ Relações, amizade, inimizade, briga, duelo, competição
+
+Grupos.
+• ope:            (COM) grupo, parte, tropa, bando, contingente.
+• hui(-a):        (DIN) [fazer] encontro, congregação, seminário, conferência.
+
+Briga.
+• patu(-a):       (DIN) [fazer] briga, assalto, homicídio.
+• mate:           (ADJ) [ser] derrotado, vencido, ultrapassado, superado, conquistado
+• whawhai(-tia):  (INTR) [fazer] briga, conflito, disputa, duelo, rixa.
+• hinga(-ia):     (NEUT) [sofrer] perda, derrota, queda.
+• patunga:        (COM) assassinato, morte.
+• ea:             (NEUT) [estar] vingado, quite.
+• muru(-a):       (DIN) perdoar, absolver.
+
+Socialização.
+• haka pōwhiri:       (COM) cerimônia de boas-vindas.
+• tūtaki(-na):        (DIN) [fazer] encontro; encontrar-se com alguém.
+• pōwhiri(-a,-tia):   (DIN) [dar] boas-vindas; convidar.
+• papaki(pākia):      (DIN) [dar] tapa, tabefe.
+• (w)harirū:          (MED, DIN) [fazer] aperto-de-mão.
+• koha:               (COM) presente, contribuição, doação, oferta.
+
+Ajuda.
+• āwhina(-tia):   (DIN) [fazer] ajuda, assistência, auxílio, socorro.
+• kupu āwhina:    (COM) dica, conselho (lit' “palavra de ajuda”).
+• moni āwhina:    (COM) subsídio (lit' “dinheiro de ajuda”).
+
+Ritos.
+• tangihanga:     (COM) funeral, ritos fúnebres.
+
+Amigos.
+Note que, na cultura Māori, amigos são considerados agregados e parte do
+whānau (família).
+• hoa:                (NOM) Amigo, parceiro, aliado.
+• hoa tāpui:          (NOM) Amigo próximo, chegado.
+• hoahoa:             (ADJ) [Ter] amizade.
+• whakahoahoa(-ina):  (V) [Fazer] amizade.
+• takatāpui:          Amigo intimo do mesmo sexo, gay.
+• kare:               Amigo intimo (também usado como apelido)
+
+Inimigos.
+• hoariri:        (ADJ) [ser] inimigo.  De “hoa” (amigo) + “riri” (raiva, violência).
+
+Apelidos.
+• Hoa: (PERS) Meu chapa (apelido).
+• Mea: (PERS) cara, rapaz; apelido genérico para quando não se sabe o nome de alguém.
+
+
+§ Expressões, interjeições e idiomas
+
+Interjeições.
+• taihoa:     (INTERJ) Espere, ainda não.
+
+Expressões.
+• “Ka nui te pai!”:   “Bom demais!” (lit' “A bondade é grande”).
+• “Ka kata a Kae.”:   Dito de uma pessoa difícil de se fazer rir (lit' “Kae ri”).
+• “Nō hea hoki tāu?”: “De onde tiraste isso?”, usado quando não se acredita no que foi dito.
+
+Expressões idiomáticas (constituintes).
+• “Mā raro”:      A pé. Literalmente “pelo chão”.
+
+Expressões idiomáticas (frases).
+• “katoa, katoa”:             (IDI) tudo tudo. Reenforça noção de universalidade.
+• “mō taku hē, mō taku hē”:   (IDI) desculpa.  Lit' “erro meu, erro meu”.
+• “Kei a … mō te”:    Ser bom em algo. “Kei a ia mō te whakatangitangi i te
+pūtōrino” (Ela é boa em tocar flauta).
+
+Ditados
+• “Ka mate ururoa, kei mate tarakihi” (“Morra lutando”, lit' “Morra como um
+tubarão, não como uma cigarra”).
+
+
+§ Aotearoa
+
+Ilhas
+• Te Waipounamu: Ilha Sul.  De “wāhi pounamu” (terra do pounamu).
+
+

@@ -1,0 +1,1241 @@
+                        TE REO MĀORI: Morfologia
+
+Māori é uma língua analítica, tendo pouca inflexão.
+Relações gramaticais (como tempo, aspecto, caso, topicalização, etc)
+são expressas principalmente por meio de partículas gramaticais e do
+contexto, em vez de por meio de inflexão.    As únicas inflexões que
+ocorrem na língua são a voz verbal e, para um pequeno grupo de nomes,
+o número gramatical.
+
+Em contraste com a escassez de morfologia inflexional, Māori tem uma
+morfologia derivacional ampla e produtiva e que usa um grande número
+de mecanismos, principalmente prefixação, reduplicação, conversão e
+composição.  Radicais normalmente são compostos por duas moras; aqueles
+com 3 ou mais moras são normalmente complexos e formados por derivações
+morfologicas (há exceções, como “tangata” e “wahine”).  Algumas dessas
+derivações não são mais produtivas; por exemplo, as bases predicativas
+“takahi” (andar) e “ārahi” (liderar) possuem etimologicamente radicais
+bimoraicos afixados pelo sufixo proto-polinesio /*-Ci/, não mais
+produtivo em Māori.
+
+Há dois grupos de categorias léxicas: as bases e as partículas.  Bases
+(“kupu kiko”) são palavras dotadas de conteúdo léxico e que ocorrem como
+núcleo de um constituinte; incluem nomes e verbos.  Partículas (“kupu
+punga”) são palavras que expressam relações gramaticais ou delimitam o
+sentido de bases; incluem determinantes, modificadores, preverbos,
+preposições e genitivadores.  Seguem a seguir as categorias léxicas
+da língua Māori.
+
+§ Nomes (tūingoa)
+
+Nome é uma categoria de palavras que não podem ser usadas como núcleo de
+constituintes verbais.  Nomes são classificados em três subcategorias
+(comuns, locativos e pessoais) quanto a se ocorrem após o artigo próprio
+“a”.  Há ainda dois tipos de pronomes, os pronomes pessoais (que são,
+semanticamente, um tipo de nome pessoal) e os pronomes determinantes.
+A tabela a seguir mostra quais determinantes são disponíveis para cada
+tipo de nome dependendo da preposição após a qual ocorre (após nenhuma
+preposição (∅), após preposição locativa, ou após outra preposição)
+
+┌─────────────┬───────────────────────┬───────────────────────┬───────────────────────┐
+│ Nome        │ Determinante após ∅   │ Após prep' locativa   │ Após outra preposição │
+╞═════════════╪═══════════════════════╪═══════════════════════╪═══════════════════════╡
+│ Comum       │ Qualquer um menos “a” │ Qualquer um menos “a” │ Qualquer um menos “a” │
+├─────────────┼───────────────────────┼───────────────────────┼───────────────────────┤
+│ Locativo    │ Artigo próprio (“a”)  │ Nenhum                │ Artigo próprio (“a”)  │
+├─────────────┼───────────────────────┼───────────────────────┼───────────────────────┤
+│ Pessoal     │ Varia com dialeto     │ Artigo próprio (“a”)  │ Nenhum                │
+├─────────────┼───────────────────────┼───────────────────────┼───────────────────────┤
+│ Pronome     │ Nenhum                │ Artigo próprio (“a”)  │ Nenhum                │
+│ pessoal     │                       │                       │                       │
+├─────────────┼───────────────────────┼───────────────────────┼───────────────────────┤
+│ Pronome     │ Nenhum                │ Nenhum                │ Nenhum                │
+│ determinado │                       │                       │                       │
+└─────────────┴───────────────────────┴───────────────────────┴───────────────────────┘
+
+.Inflexão nominal.
+Oito nomes comuns apenas (um deles com duas variantes, todos denotando
+pessoas ou relações de parentesco) têm forma plural.  Os demais nomes
+são invariantes em número.  Sete destes oito formam o plural alongando a
+vogal da antepenúltima mora.  Um destes nomes tem duas formas dependendo
+do dialeto.  Os nomes e seus plurais são os seguintes.
+• “tamaiti” (filho/criança)     e “tamariki” (filhos/crianças).
+• “tangata” (homem, pessoa)     e “tāngata” (homens/pessoas).
+• “wahine” (mulher, esposa)     e “wāhine” (mulheres/esposas).
+• “matua” (pai)                 e “mātua” (pais).
+• “tuahine” (irmã de um homem)  e “tuāhine” (irmãs de homem).
+• “tuakana” (irmão mais velho)  e “tuākana” (irmãos mais velhos).
+• “teina” (irmão mais novo)     e “tēina” (irmãos mais novos).
+• “tipuna” (avô ou avó)         e “tīpuna” (avós), no dialeto oriental.
+• “tupuna” (avô ou avó)         e “tūpuna” (avós), no dialeto oriental.
+
+§§ Nomes comuns (tūingoa noa)
+
+Nomes comuns são nomes que podem ocorrer após qualquer determinante
+exceto após o artigo próprio “a”.  Nomes comuns incluem a maioria
+dos nomes:
+• “ika” (peixe).
+• “rākau” (árvore).
+• “ngā whare” (as casas).
+• “tōku ingoa” (meu nome).
+• O interrogativo “aha” (“quê”), por exemplo, “ki te aha” (“ao quê”).
+
+.Derivação nula de verbos dinâmicos.
+Um verbo dinâmico pode ser usado como nome comum, sem nenhuma derivação
+morfológica, denotando ou o objeto de sua ação ou o processo de sua
+ação.
+• “Ka puoro” (cantar) → “te puoro” (o canto, ou o cantar).
+• “Ka mahi” (trabalhar) → “te mahi” (o trabalho).
+
+.Derivação nula de verbos adjetivos.
+Um verbo adjetivo pode ser usado como nome comum, sem nenhuma derivação
+morfológica, denotando um nome abstrato ou a qualidade desse adjetivo.
+• “Ka nui” (ser grande) → “te nui” (o tamanho).
+• “Ka pai” (ser bom/apropriado/certo) → “te pai” (a qualidade).
+
+.Derivação agentiva.
+Um verbo dinâmico acrescido do prefixo agentivo “kai-” produz um nome
+comum denotando o agente de uma ação.
+• “Ka mahi” (trabalhar) → “te kaimahi” (o trabalhador).
+• “Ka kōrero” (falar) → “te kaikōrero” (o orador).
+
+.Derivação nominalizadora.
+Um nome ou verbo acrescido do sufixo nominalizador “-Canga” produz um
+nome comum que pode denotar desde uma única ocorrência de um evento
+verbal, ou o resultado desse evento, ou o local onde normalmente ocorre,
+ou um nome abstrato.
+• “Ka patu” (bater) → “te patunga” (a batida, assalto).
+• “Ka moe” (dormir) → “te moenga” (a cama).
+• “Ka tae” (chegar) → “te taenga” (a chegada).
+• “Ka tuhi” (escrever) → “te tuhinga” (o texto).
+• “Ka tika” (ser próprio/correto) → “te tikanga” (o costume/procedimento).
+• “Ka koroua” (ser velho) → “te korouatanga” (a maioridade).
+
+.Derivação por composição.
+Vários nomes comuns são formados por composição de outros nomes.  Muitas
+composições resultam num significado que nã oé diretamente evidente da
+mera adposição.
+• “Te whare nui” (a casa grande) → “Te wharenui” (a casa de encontro)
+• “Te rā horoi” (o dia de limpeza) → “Te Rāhoroi” (Sábado).
+
+
+§§ Nomes locativos (tūwāhi).
+
+Nomes locativos são nomes que, quando complementando uma preposição
+locativa (“ki”, “i”, “kei” ou “hei”), usam nenhum determinante; mas
+usam o artigo próprio “a” noutras situações.  Locativos denotam posições
+no espaço e/ou no tempo.
+• Posições relativas, como “raro” (baixo), e “muri” (atrás/depois), etc.
+• Topônimos, como “Itāria” (Italia), “Aotearoa” (Nova Zelândia), etc.
+• Cronômios, como “ahiahi” (tarde), “nāianei” (agora).
+• Há dois interrogativos locativos: “hea” (onde/quando, presente ou futuro) e
+  “nahea” (quando, no passado).
+
+
+§§ Nomes pessoais (tūmoko)
+
+Nomes pessoais são nomes que, quando complementando uma preposição
+locativa (“ki”, “i”, “kei” ou “hei”) ou uma preposição nula, usam o
+artigo próprio “a”; e usam nenhum determinante noutras situações.
+Porém, em Auckland há a prática informal de não usar artigo próprio
+após preposição nominal.  Dentre os nomes próprios incluem antropônimos,
+apelidos, etnômios, objetos personificados, nomes de meses, pronomes
+pessoais, etc.
+• “mama” (mamãe).
+• “koe” (tu, você).
+• “rātou” (eles).
+• “Mere” (Maria).
+• “Tamahae” (Tamahae, antropônimo maori)
+• O interrogativo pessoal “wai” (quem).
+
+
+§§ Pronomes pessoais
+
+Pronomes pessoais são um grupo particular de nomes pessoais.  Pronomes
+pessoais seguem as mesmas regras de determinantes que nomes pessoais,
+com as seguintes exceções:
+• Pronomes pessoais não recebem artigo próprio após a preposição nula.
+• Informalmente, usa-se artigo próprio antes do pronome "ia" quando
+  usado como sujeito (essa pratica era rara em documentos antigos, mas
+  hoje tornou-se popular no Māori coloquial).
+• O pronome pessoal dialetal "ahau" não recebe determinante proprio em
+  qualquer contexto.
+
+Pronomes pessoais distinguém em número singular, dual e plural; com
+distinção de clusividade nas primeiras pessoas dual e plural; mas sem
+distinção de gẽnero.  Alguns dos pronomes possuem alomorfos cliticos
+(listados em parênteses), usados para compor contrações (“nā + au →
+nāku”).
+
+┌─────────────────────┬──────────────────┬───────────────┬───────────────┐
+│ Pessoa              │ Singular         │ Dual          │ Plural        │
+╞═════════════════════╪══════════════════╪═══════════════╪═══════════════╡
+│ 1ª pessoa inclusivo │ au ou ahau (-ku) │ tāua          │ tātou         │
+├─────────────────────┼──────────────────┼───────────────┼───────────────┤
+│ 1ª pessoa exclusivo │ au ou ahau (-ku) │ māua          │ mātou         │
+├─────────────────────┼──────────────────┼───────────────┼───────────────┤
+│ 2ª pessoa           │ koe (-u)         │ kōrua, kourua │ koutou, kōtou │
+├─────────────────────┼──────────────────┼───────────────┼───────────────┤
+│ 3ª pessoa           │ ia (-na)         │ rāua          │ rātou         │
+└─────────────────────┴──────────────────┴───────────────┴───────────────┘
+
+
+§§ Pronomes determinados
+
+Os determinantes demonstrativos, possessivos e interrogativos podem ser
+usados no núcleo de um constituinte nominal como um pronome.  Isto é, em
+vez de precederem o núcleo do constituinte nominal, estes determinantes
+tornam-se o próprio núcleo.
+• “Nō tēhea iwi koe?” (De que iwi/tribo você é?) → “Nō tēhea?” (De qual?).
+• “He aha tērā mea?” (O que é aquela coisa) → “He aha tērā” (O que é
+  aquilo?).
+• “Tāku kurī” (o meu cachorro) → “tāku.” (O meu).
+
+
+§ Verbos (tūmahi)
+
+Verbo é uma categoria de palavras que podem ser usadas como núcleo de
+constituintes verbais.  Verbos são classificados em três subcategorias
+quanto a se pode sofrer apassivação e que preverbo é usado em frases
+imperativas.  Māori possui ordem VSO.
+
+┌──────────┬──────────────────────┬────────────────────────────────────┐
+│ Verbo    │ Pode ser apassivado? │ Preverbo usado quando imperativo   │
+╞══════════╪══════════════════════╪════════════════════════════════════╡
+│ Dinâmico │ Sim                  │ Nenhum (exceto partícula rítmica)  │
+├──────────┼──────────────────────┼────────────────────────────────────┤
+│ Médio    │ Sim                  │ “kia”                              │
+├──────────┼──────────────────────┼────────────────────────────────────┤
+│ Estativo │ Não                  │ “kia”                              │
+└──────────┴──────────────────────┴────────────────────────────────────┘
+
+.Inflexão verbal.
+Verbos dinâmicos e médios podem ser conjugados por voz em formas ativa e
+passiva.  A forma ativa é a forma canônica.  A forma passiva é obtida
+afixando à sua forma canônica uma das diferentes desinências passivas
+(“-a, -ia, -hia, -ina, -kia, -mia, -na, -nga, -ngia, -ria, -tia,
+-whia”); ou (para certos verbos) alterando a sua raiz além de afixá-la.
+Cada verbo requer uma dessas desinências para sua forma passiva; não há
+como determinar qual delas um dado verbo usa; algumas não são mais
+produtivas, outras só ocorrem em contextos fonológicos específicos.
+• Para radicais com reduplicação na primeira mora, a forma passiva perde
+  a reduplicação; geralmente alongando a vogal resultante (“titiro →
+  tirohia”, “tatari → tāria”).
+• Para alguns radicais, a forma passiva tem a primeira vogal alongada,
+  especialmente se for parte de ditongo (“whai → whāia”, “ako → ākona”).
+• Na maioria dos dialetos, a desinência produtiva e favorecida é “-tia”,
+  usado principalmente em verbos com mais de duas moras, incluindo
+  empréstimos.  Também é usado em modificadores para concordância
+  passiva.  Nos dialetos de Tūhoe e de Ngāti as desinências produtivas
+  favorecidas são “-hia” e “-ngia”, respectivamente, geralmente usados
+  onde “-tia” é usado nos demais dialetos.
+• A desinência “-a” é usado principalmente em verbos de uma ou duas
+  moras, incluindo alguns empréstimos do inglês.  Ex' “patu → patua”.
+• As desinências “-mia”, “-ngia” e “-ina” são restritas a bases terminadas
+  em vogal fechada (“-o/u”), em “-ai”, ou em “-a”, respectivamente.  Por
+  exemplo, “inu → inumia”, “kai → kainga”, “aroha → arohaina”.
+
+§§ Verbos dinâmicos (tūmahi whiti, tūmahi poro)
+
+Verbos dinâmicos (ou “universais”) são verbos que podem ser apassivados,
+e que podem formar imperativo sem usar preverbo (exceto pela partícula
+rítmica “e”).  Verbos dinâmicos têm um argumento agente e podem ter um
+argumento paciente.  Verbos dinâmicos podem ser transitivos,
+intransitivos ou ambitransitivos.
+• “Kua patu ia i te kurī.” (Ele bateu no cachorro).
+• “I oma atu rātou.” (Eles correram embora).
+• “Kai” (comer) e “inu” (beber) são ambitransitivos, o objeto é opcional.
+• “Noho” (estar/ficar) é ambitransitivo dependendo do grau de
+  afetividade do objeto.  Ex' “ka noho au i tōku hoiho” (“estou em meu
+  cavalo”, transitivo) vs “ka noho au ko te toa” (“estou na loja”,
+  intransitivo).
+• “Moe” (dormir) pode ser transitivo, como uma figura de linguagem.
+  Ex' “kua moe ia i te moenga roa” (ele dormiu o sono profundo (morreu)).
+• “Aha” pode ser usado como interrogativo verbal dinâmico.  Por exemplo, “Kei te
+  aha koe?” (O que ele está fazendo) e “Kua ahatia te kurī?” (O que aconteceu
+  com o cachorro?)?
+
+.Forma ativa.
+Numa frase com um verbo transitivo na forma ativa, o agente é sujeito e
+o paciente é objeto causativo (marcado com a preposição “i”).  Quando
+nominalizada, o sujeito da frase, por ser o argumento de maior agência,
+é transformado em possessivo do tipo A.
+• “Kei te aha koe?” (O que ele está fazendo?).
+• “Ka hoko te matua i ngā tīkiti” (O pai compra os ingressos).
+• “Te hokonga a te matua i nga tīkiti” (A compra do pai aos ingressos),
+  nominalização da frase do exemplo anterior.
+
+.Forma passiva.
+Numa frase com um verbo transitivo na forma passiva, o paciente é
+sujeito e o agente é um adjunto agentivo (marcado com a preposição “e”).
+Quando nominalizado, o sujeito da frase, por ser o argumento de menor
+agência, é transformado em possessivo do tipo O.
+• “Kua ahatia te kurī?” (O que aconteceu com o cachorro?).
+• “Ka hokona ngā tīkiti e te matua” (Os ingressos são comprados pelo pai).
+• “Te hokonga o nga tīkiti e te matua” (A compra dos ingressos pelo pai),
+  nominalização da frase do exemplo anterior.
+
+.Derivação causativa.
+Uma base, como um nome ou um adjetivo, acrescida do prefixo causativo
+“whaka-” produz um verbo dinâmico denotando “tornar-se” ou “fazer-de”.
+• “pau” (estar gasto) → “whakapau” (gastar),
+• “tika” (ser correto) → “whakatika” (corrigir).
+• “tangata (homem/humano) • “whakatangata” (tornar humano, humanizar).
+
+.Derivação por reduplicação parcial.
+A reduplicação parcial de verbos dinâmicos pode denotar uma ação
+recíproca ou uma ocorrência forçada de uma ação.
+• “tohe” (argumentar) → “totohe” (debater).
+• “kimo” (piscar) → “kikimo” (fechar os olhos).
+
+.Derivação por reduplicação total.
+A reduplicação total de verbos dinâmicos denota pluralidade de algum
+tipo, seja da ação, dos sujeitos individualmente, ou dos sujeitos em
+conjunto.
+• “kimokimo” (piscar frequentemente), pluralidade da ação.
+• “hokihoki” (retornar cada um a um lugar), pluralidade dos sujeitos
+  individualmente.
+• “kurukuru” (jogar várias coisas a um lugar), pluralidade dos sujeitos
+  em conjunto.
+
+
+§§ Verbos médios (tūmahi wheako)
+
+Verbos médios (ou “experienciais”) são verbos que podem ser apassivados
+e que formar imperativo com o preverbo subjuntivo “kia”.  Verbos médios
+têm dois argumentos, um experienciador e um estímulo.  Verbos mediais
+normalmente denotam ações de percepção ou atitude mental.  O argumento
+estímulo é considerado ter mais agência do que o argumento experienciador.
+
+.Forma ativa.
+Numa frase com um verbo médio na forma ativa, o experienciador é sujeito e o
+estímulo é objeto alvo (marcado com a preposição “ki”).  Quando nominalizada,
+o sujeito da frase, por ser o argumento de menor agência, é transformado em
+possessivo inalienável (do tipo O), enquanto que o estímulo mantém a
+preposição “ki”.
+• “Ka tiro te matua ki ngā tīkiti” (O pai observa os ingressos).
+• “Te tiro o te matua ki ngā tīkiti” (A observação do pai aos ingressos),
+  nominalização da frase do exemplo anterior.
+
+.Forma passiva.
+Numa frase com um verbo médio na forma passiva, o estímulo é sujeito e
+o experienciador é um adjunto agentivo (marcado com a preposição “e”).
+Quando nominalizado, o sujeito da frase, por ser o argumento de maior
+agência, é transformado em possessivo alienável (do tipo A), enquanto
+que o experienciador mantêm a preposição “e”.
+• “Ka tiro ngā tīkiti e te matua” (Os ingressos são observados pelo pai).
+• “Te tiro a ngā tīkiti e te matua” (A observação dos ingressos pelo pai),
+  nominalização da frase do exemplo anterior.
+
+.Derivação nula.
+Certos verbos estativos podem ser usados como médios adaptando a estrutura
+da frase onde se encontra.  Ex' o estativo “Kua wareware tōna ingoa i a au”
+vs o médio “kua wareware au ki tōna ingoa”, ambos expressando “eu esqueci do
+seu nome”.
+
+
+§§ Verbos estativos (tūmahi oti)
+
+Verbos estativos são verbos que não podem ser apassivados e que podem
+formar imperativo usando o preverbo subjuntivo “kia”.  Quando
+nominalizado, seu sujeito é transformado em possessivo de tipo O.
+Verbos estativos são divididos em dois grupos (verbos neutros e
+adjetivos), dependendo de se podem ser ou não nominalizados.
+
+.Verbos neutros.
+Verbos neutros são verbos estativos que têm um argumento paciente.
+Verbos neutros podem ocorrer somente como verbo, não podem ser usados
+como nomes.  Verbos neutros também não podem ser usados para modificar
+um adjetivo.  Verbos neutros podem ter um adjunto causativo, marcado
+pela preposição causativa “i”.
+• “Ka wera te whare i te ahi.” (A casa é destruída pelo fogo).
+• “Kua tū te toa” (O guerreiro se feriu).
+• “E wareware ana ngā kōrero ō mua.” (Os contos do passado estão sendo esquecidos).
+• “I riro te kurī i te tama.” (O cachorro foi carregado pelo rapaz).
+• “Kua kī tonu tāku puku.” (Minha barriga encheu-se bastante).
+• “Ka toto aku taringa.” (Minhas orelhas sangram).
+• “Kua mahue ahau i ōku hoa.” (Fui abandonado pelos meus colegas).
+• A frase “I mahue mokemoke te kuia” (A senhora saiu sozinha) é possível pois o
+  neutro “mahue” (sair) está sendo modificado pelo adjetivo “mokemoke” (sozinho).
+• A frase “*I mākū ea te māra” (*O jardim foi molhado suficientemente) não é
+  possível pois o adjetivo “mākū” (molhado) está sendo modificado pelo neutro
+  “ea” (suficiente).
+
+Adjetivos.
+Verbos adjetivos são verbos estativos que têm um argumento tema.
+Adjetivos podem ocorrer tanto como verbo quanto como nome.  Adjetivos
+também podem ser usados atributivamente (como adjetivo ou advérbio) ou
+predicativamente.  Adjetivos podem ter um adjunto causativo, marcado
+pela preposição causativa “i”.
+• “He tangata pai” (A pessoa boa), exemplo de uso adjetivo.
+• “Hoki pai atu!” (Volte bem), exemplo de uso adverbial.
+• “He pai te whakaaro” (A ideia é boa), exemplo de uso predicativo.
+• “Kua pau ōku moni.” (Meu dinheiro acabou), exemplo de uso verbal.
+• “Kua ora ahau i tēnei rongoa.” (Fiquei bom por causa deste remédio).
+• “Ka makariri haere a waho.” (Lá fora está esfriando).
+• “Ka mataku ngā tamariki i te kōrero kēhua.” (As crianças estão com medo da
+  história de fantasmas).
+• O adjetivo interrogativo “pehea” (como) é mais usado predicativamente e
+  atributivamente. “Me pēhea rātou e mōhio ai?” (Como eles sabiam?).
+
+.Derivação nula.
+Um nome comum usado como estativo pode denotar tornar-se ou ser algo.
+• “Tangata whenua” (nativo) → “Ka tangata whenua” (ser natural, naturalizar-se).
+
+.Derivação causativa.
+Um nome locativo acrescido do prefixo causativo “whaka-” produz um
+adjetivo de direção.  Diferente dos demais adjetivos, palavras derivadas
+assim podem ser usasdas somente atributivamente, nunca predicativamente.
+• “runga” (cima) → “whakarunga” (acima).
+• “te moana” (a praia) → “whaka-te-moana” (para a praia).
+
+.Derivação modal.
+Um nome acrescido do prefixo modal “ā” deriva adjetivo de modo.
+Palavras derivadas assim podem ser usadas apenas atributivamente.  Esse
+prefixo é escrito com um hífen antes do nome e após o modificando.
+• “Tinana” (corpo físico) → “tae-ā-tinana” (estar fisicamente).
+• “Rorohiko” (computador) → “taku-ā-rorohiko” (enviado digitalmente).
+
+.Derivação por reduplicação parcial.
+Vários adjetivos admitem formas parcialmente reduplicadas como um plural
+opcional, como distributivo, ou como intensivo.
+• “ka pai” (ser bom) → “ka papai” (serem bons).
+• “ka whero” (ser vermelho) → “ka whewhero” (ser avermelhado).
+
+
+§ Modificadores (tūāhua)
+
+Modificadores são uma categoria de palavras usadas para restringir
+ou qualificar o sentido de uma base (nome ou verbo).  Normalmente os
+modificadores sucedem o núcleo léxico, mas há modificadores que o
+precedem, como “āta” (cuidadosamente) em "āta haere" (“ir com cuidado”).
+Há seis paradigmas de modificadores pospostos (isto é, que ocorrem após
+uma base).
+
+.Derivação nominal.
+Um nome comum pode ser usado como modificador, sem nenhuma derivação
+morfológica, denotando sentido adjetivo quando aplicado a um nome, ou
+denotando argumento incorporado quando aplicado a um verbo (geralmente
+verbo dinâmico).
+• “Te moana” (o mar) → “Tauā moana” (exército marinho, marinha).
+• “te whakaaro” (o pensamento) → “whakaputa whakaaro” (expressar pensamento).
+
+.Derivação verbal dinâmica.
+Um verbo dinâmico pode ser usado como modificador, sem nenhuma derivação
+morfológica, denotando sentido adjetivo ator quando aplicado a um noome.
+• “Ka waiata” (cantar) → “te tangata waiata” (pessoa cantora, cantor).
+
+.Derivação verbal neutra.
+Um verbo neutro pode ser usado como modificador, sem nenhuma derivação
+morfológica, denotando advérbio quando aplicado a um verbo.
+• “ka wawe” (ser rápido, primeiro) → “ka tae wawe” (sair rapidamente).
+
+.Derivação verbal motora.
+Um verbo denotando movimento pode ser usado como modificador, sem
+nenhuma derivação morfológica, denotando sentido de movimento quando
+aplicado a um verbo.
+• “Ka haere” (ir) → “Ka tangi haere” (ir chorando, literalmente “chorar
+  indo”).
+
+
+§§ Modificadores de modo
+
+Modificadores de modo são modificadores que aparecem logo após um nome
+ou verbo.  Alguns modificadores de modo são listados a seguir.
+
+• Tonu:    Modificador estritivo e estabilizante        ("ainda", "mesmo");
+• Kē:      Outro.
+• Rawa:    Intensivo.
+
+.Modificador de modo estritivo (“tonu”).
+O modificador de modo “Tonu” modifica uma base realçando sua precisão e
+exatidão, e/ou sua continuidade e estabilidade.  Pode ser traduzido por
+"ainda", "mesmo", "de fato" e derivados; também é usado para enfatizar,
+podendo ser traduzido de varias formas, de acordo com o contexto.
+• “E ora tonu ia” (“ele ainda vive”).
+• “Ahakoa tonu” (“apesar de que”, literalmente “embora ainda”).
+• “Ināianei tonu” (“ainda agora”).
+• “Au tonu” (“eu mesmo”).
+• “Ko wai? Ko koe tonu!” (“Quem? Você mesmo!”).
+• “Tika tonu” (“Ainda certo, de fato certo”).
+• “Haere tonu” (“continuar”, literalmente “ainda ir”).
+• “E hia āu kurī? Kotahi tonu.” (“Quantos cachorros tens? Só um.”).
+• “Kei te māuiui tonu a Mere.” (“Mere ainda está doente.”).
+
+.Modificador de modo alternativo (“kē”).
+TODO.
+
+.Modificador de modo intensivo (“rawa”).
+TODO.
+
+.Modificador de modo irrestrito (“noa”).
+TODO.
+
+.Modificador de modo solitário (“kau”).
+TODO.
+
+
+§§ Modificadores direcionais
+
+Modificadores direcionais são modificadores que aparecem logo após um
+modificado de modo, se houver.  Tais modificadores indicam uma posição
+ou direção aplicada a uma base; mas não se limitam ao uso direcional,
+também são usadas para fins superlativos e comparativos.  Alguns
+modificadores direcionais são listados a seguir.
+
+.Modificador direcional de proximidade (“mai”).
+O modificador direcional “mai” modifica uma base adicionando o fato
+de que seu sentido é aplicado em direção ao locutor ou em posição do
+locutor.
+• “Haere mai!” (“Venha aqui!”).
+• “Titiro mai” (“Venha ver!”).
+• “Tomo mai” (“Entre aqui!”), neste caso “mai” é redundante, pois “tomo”
+  significa entrar, mas o modificador adiciona um sentido convidativo à
+  frase.
+• “Titiro ki te maunga e tū mai ana.” (“Veja a montanha daqui”,
+  literalmente “veja a montanha ficando aqui”).
+• “Kua tae mai ngā manuhiri” (“Os convidados já chegaram aqui”).
+
+.Modificador direcional de distância (“atu”).
+O modificador direcional “atu” modifica uma base adicionando o fato de
+que seu sentido é aplicado para longe do locutor ou em posição distante
+do locutor.  O modificador “atu” pode significar também “outro” ou
+“além”, principalmente na expressão “tētahi atu”.  Este modificador
+também pode ser usada para implementar sentido comparativo.
+• “Haere atu” (“Vá embora!”).
+• “Hoki atu ki tōu kāinga” (“Volte lá para sua casa!”).
+• “Kawea atu he wai mō mātou” (“Pega lá uma água para nós”).
+• “Ka haere atu koe ki te kanikani?“ (“Você vai lá dançar?”).
+• “Kua noho atu ngā tamariki i te kāinga” (“As crianças ficaram lá em
+  casa”), aqui “atu” é redundante assim como o advérbio “lá” é na
+  tradução, reenforçando o fato de que as crianças estão noutro lugar.
+• “Hōmai tētahi atu pune” (“Me passe outra colher”).
+• “Erā waka atu” (“outras canoas”).
+• “Te pūhā, te wāta kirīhi, me ērā atu kai a te Māori” (“Puha, agrião e
+  outras comidas Maoris”).
+• “Tokowhā ngā kaiako, ā, i tēnei tau kua whiwhi te kura i tētahi atu.”
+  (“Haviam quatro professores, e nesse ano a escola tem outro”).
+• “Te mea pai rawa atu” (“A melhor coisa”).
+
+.Modificador direcional superior (“ake”).
+O modificador direcional “ake” modifica uma base adicionando o sentido
+de superioridade.  Este modificador também é usado para implementar
+sentido superlativo.
+• “He pai ake tēnei i tēnā” (“Este é melhor do que esse”).
+• TODO.
+
+.Modificador direcional inferior (“iho”).
+O modificador direcional “iho” modifica uma base adicionando o sentido
+de inferioridade.
+• TODO.
+
+
+§§ Modificadores dêiticas
+
+Modificadores dêiticos são modificadores que aparecem logo após um
+modificador direcional, se houver.  Tais modificadores indicam a posição
+da base que modificam em relação a um referencial dêitico.
+Modificadores dêiticos podem ser prefixados por “tē” e “ē” para compor
+determinantes dêiticos singular e plural, respectivamente (por example
+“tērā” e “ēnei”).
+
+.Modificador dêitico proximal (“nei”).
+O modificador dêitico “nei” modifica uma base adicionando o sentido de
+proximidade ao locutor.
+• “Te tēpu nei” (“a mesa aqui” ou “esta mesa”).
+• “Ngā tēpu nei” (“as mesa aqui” ou “estas mesas”).
+
+.Modificador dêitico medial (“nā”).
+O modificador dêitico “nā” modifica uma base adicionando o sentido de
+proximidade ao ouvinte.
+• “Te naihi nā” (“a faca ai” ou “essa faca”).
+• “Ngā naihi nā” (“as facas ai” ou “essas facas”).
+
+.Modificador dêitico distal (“rā”).
+O modificador dêitico “rā” modifica uma base adicionando o sentido de
+distância de ambos o locutor e o ouvinte.
+• “Te paoka rā” (“o garfo ali” ou “aquele garfo”).
+• “Ngā paoka rā” (“os garfos ali” ou “aqueles garfos”).
+
+
+§§ Modificadores aspectuais
+
+Modificadores aspectuais são modificadores que aparecem logo após um
+modificador dêitico, se houver.  Tais modificadores qualificam o aspecto
+temporal de um verbo.  Alguns modificadores direcionais são listados a
+seguir.  Estes modificadores são normalmente usados com verbos marcados
+pelos preverbos pretérito (“é”) e impretérito (“i”).
+
+.Modificador aspectual progressivo (“ana”).
+O modificador aspectual “ana” modifica um verbo adicionando sentido
+progressivo ou continuativo.
+• “E mātakitaki atu ana ngā tūroro i te whutupōro” (“Os pacientes estão
+  assistindo o rugby”).
+
+.Modificador aspectual habitual (“ai”).
+O modificador aspectual “ai” modifica um verbo adicionando sentido
+habitual.  Este modificador também pode tem uso gramatical, sendo usado
+após verbos para indicar que algum argumento ou adjunto foi movido ou
+deletado (seja por foco ou relativização).
+• “Haere ai rātou ki te mahi ia rā ia rā” (“Eles vão pro trabalho todo dia”).
+• “Nō nanahi nei rātou i tae mai ai” (“Foi ontem que eles chegaram”).
+• “Ko Tōrere te marae e tū ai te hui” (“Tōrere é o marae onde o encontro
+  acontecerá”).
+
+
+§§ Modificadores iterativos
+
+Modificadores iterativos são modificadores que aparecem logo após um
+modificador dêitico, se houver.  Tais modificadores indicam repetição
+ou iteração de um evento e também são usados em construções reflexivas.
+
+.Modificador iterativo aditivo (“anō”).
+O modificador iterativo “anō” indica repetição, adição, “outro”, ou
+“mesmo modo”.  “Anō” também pode indicar “também”, geralmente com
+“hoki”.
+• “Me hoki mai anō ia” (“Ela veio novamente”).
+• “He tiakarete anō māu?” (“Quer um outro chocolate?”).
+• “Kei te pēhea koe? Heoi anō, ko taua āhua anō.”
+  (“Como você está? Ah bem, apenas o mesmo”).
+• “Nō rātou anō hoki rǣ tērā urupā.” (“O cemitério é também deles”).
+
+.Modificador iterativo negativo (“anake”).
+O modificador iterativo “anake” indica “apenas”, ou “nada mais”.  Tal
+modificador é usado para mostrar que apenas certos membros de um grupo
+e nenhum outro, ou para indicar que apenas um tipo de coisa é presente.
+• “Ko māua anake ko taku tuahine kei te ora.” (“Only my sister and I are
+  still alive”).
+
+
+§§ Outros modificadores
+
+TODO (“hoki”, “pea”).
+
+
+
+§ Determinantes (pūmau)
+
+Determinantes são uma categoria de palavras que identificam no contexto
+o referente de um nome sem descrevê-lo ou modificá-lo.  Com exceção do
+artigo indefinido “he”, os determinantes indicam número gramatical; a
+maioria por meio da inicial “t-” para indicar singular; e inicial “∅-”
+para plural.  Todos os determinantes precedem a palavra que determinam.
+Veja a seção «§ Nomes» mais informações sobre que tipo de determinante
+pode ocorrer antes de cada tipo de nome.  Determinantes podem ser usados
+como pronomes, veja a seção «§ Pronomes Determinantes» para mais
+informações.
+
+┌───────────────────┬────────────────────────┬────────────────────────┐
+│ Determinante      │ Formas singulares      │ Formas plurais         │
+╞═══════════════════╪════════════════════════╪════════════════════════╡
+│ Artigo nulo       │ ∅                      │ ∅                      │
+├───────────────────┼────────────────────────┼────────────────────────┤
+│ Artigo próprio    │ a                      │ (Não existe)           │
+├───────────────────┼────────────────────────┼────────────────────────┤
+│ Artigo indefinido │ he                     │ he                     │
+├───────────────────┼────────────────────────┼────────────────────────┤
+│ Artigo definido   │ te                     │ ngā                    │
+├───────────────────┼────────────────────────┼────────────────────────┤
+│ Artigo anafórico  │ taua                   │ aua                    │
+├───────────────────┼────────────────────────┼────────────────────────┤
+│ Artigo específico │ tētahi                 │ ētahi                  │
+├───────────────────┼────────────────────────┼────────────────────────┤
+│ Interrogativo     │ tēhea                  │ ehea                   │
+├───────────────────┼────────────────────────┼────────────────────────┤
+│ Demonstrativo     │ tēnei, tēnā, tērā      │ ēnei, ēnā, ērā         │
+├───────────────────┼────────────────────────┼────────────────────────┤
+│ Possessivo        │ tā-, tō-               │ ā-, ō-                 │
+└───────────────────┴────────────────────────┴────────────────────────┘
+
+
+§§ Artigos
+
+Artigos são determinantes que não podem ocorrer como pronomes.  Os
+artigos são os seguintes.
+
+.Artigo nulo.
+O artigo nulo (“∅”) é usado quando não se usa outro determinante.
+
+.Artigo próprio.
+O artigo próprio (“a”) é usado com nomes próprios e topônimos.  Ele
+possui uma distribuição bastante característica dependendo do tipo
+do nome que o segue.
+
+.Artigo indefinido.
+O artigo indefinido (“he”) é usado antes de nomes comuns indefinidos,
+tanto no singular quanto no plural.  Este artigo tem distribuição
+bastante limitada; ele nunca é usado após preposição, e portanto,
+constituintes nominais usando artigo indefinido são sujeitos ou
+predicativos apenas, nunca objetos ou oblíquos.
+
+.Artigos definidos.
+Os artigos definidos singular (“te”) e plural (“ngā”) são usados antes
+de nomes comuns em diversos contextos gramaticais.  O artigo definido
+singular “te” é usado em contextos onde, em português, se usam artigo
+definido, o artigo indefinido, ou nenhum artigo.  Ele é aplicado quando
+um nome é usado em seu sentido mais amplo, denotando qualquer item duma
+classe; e também como complemento de predicados neutros.  Por exemplo:
+• “He kino te tutu” (“[A] desobediência é um pecado”).
+• “Ko te rangi mo te whenua e paheno” (“[Os]” céus e [a] Terra passarão”).
+
+.Artigos anafóricos.
+Os artigos anafóricos singular (“taua”) e plural (“aua”) indicam algo
+anteriormente mencionado.  São muito frequentes em todo tipo de discurso
+para determinar um nome cujo referente já fora introduzido.  Em
+conjunção com o modificador “anō”, os artigos anafóricos provêm a
+tradução mais comum para “o mesmo”:
+• “I taua wā anō” (Ao mesmo tempo).
+
+.Artigos específicos.
+Os artigos específicos singular (“tētahi”) e plural (“ētahi”) expressam
+uma quantidade específica, particular ou indefinida.  Como este artigo é
+compatível com preposições (diferente do artigo indefinido), ele pode
+ser usado em constituintes no lugar de “he”.
+
+§§ Interrogativo
+
+Os determinantes interrogativos singular (“tēhea”) e plural (“ēhea”)
+determinam algo questionado, podendo ser traduzido como “qual”.  Alguns
+falantes usam as variações “tēwhea” e “ēwhea” (com /wh/ em vez de /h/)
+para os interrogativos.
+• “Nō tēhea iwi koe?” (De que iwi/tribo você é?).
+
+Interrogativos podem ser usados como pronomes, isto é, podem ser usados
+no núcleo de um constituinte nominal.
+• “Nō tēhea?” (De qual?).
+
+
+§§ Demonstrativos
+
+Os determinantes demonstrativos se dividem em três referenciais
+dêiticos.  Eles são derivados dos modificadores dêiticos “nei”,
+“nā” e “rā”.  As formas singulares começam com /t-/, enquanto as
+plurais começam com vogal.
+• Determinante demonstrativo proximal (este/estes): “tēnei/ēnei”.
+• Determinante demonstrativo medial (esse/esses): “tēnā/ēnā”.
+• Determinante demonstrativo distal (aquele/aqueles): “tērā/ērā”.
+
+Os determinantes demonstrativos podem ser usados como pronomes, isto é,
+podem ser usados no núcleo de um constituinte nominal.
+• “He aha tērā mea?” (O que é aquela coisa) → “He aha tērā” (O que é
+  aquilo?).
+
+Os determinantes demonstrativos podem ser decompostos em um artigo
+definido e o adjunto dêitico correspondente.
+• “Tēnei tāone” (esta cidade) é equivalente a “te tāone nei”.
+
+Além de seu sentido literal, “tēnā/ēnā” quando repetido tem função
+distributiva.
+• “ki tēnā, ki tēnā o koutou” (para cada um de vocês).
+• “i tēnā marae, i tēnā marae” (on cada marae).
+
+
+§§ Possessivos
+
+Os determinantes possessivos são um grupo aberto de determinantes
+formados pelas particulas “tā/ā” ou “tō/ō”, dependendo do tipo de
+possessão, e por um nome, que torna-se genitivo.
+• “Tā Heni kurī” (o cachorro de Heni), equivalente a “Te kurī a Heni”.
+• “Tā mātou kurī” (o nosso cachorro), equivalente a “Te kurī a mātou”.
+
+Note que quando o possessor é um pronome pessoal singular (“au, koe,
+ia”), os determinantes possessivos são irregulares, e usam a forma
+clítica desses pronomes (“-ku, -u, -na”).
+• “Tāku kurī” (o meu cachorro).
+
+Os determinantes posessivos podem ser usados como pronomes, isto é,
+podem ser usados no núcleo de um constituinte nominal.
+• “Tāku.” (O meu).
+
+
+§ Preverbos (pūmahi)
+
+Preverbos, ou partículas verbais, são uma categoria fechada de palavras
+usadas antes de um verbo para marcar seu modo e aspecto (e, usualmente,
+seu tempo), formando um constituinte verbal.  Outros detalhes mais
+finos, como noções aspectuais específicas, são indicados pela construção
+sintática ou por modificadores (por exemplo, o modificador “ana”
+expressa noção contínua ou progressiva).
+
+§§ Preverbo imperativo (“∅”)
+
+A ausência de preverbo (também chamada de preverbo nulo, ou “∅”)
+indica modo imperativo.  Tal uso imperativo ocorre apenas para
+verbos dinâmicos.
+• “Haere atu!” (Vá embora!).
+• “Whakarongo!” (Escute!).
+• “Tirohia!” (Veja isso!).
+• “Kainga!” (Coma!).
+• “Whakapaitia te tēpu, e Mere!” (Arrume a mesa, Maria!).
+• “Whāia te mātauranga!” (Busque conhecimento!).
+• “Murua ō mātou hara!” (Perdoe nossos pecados!).
+• “Tīkina atu he wai mōku!” (Busque uma água para mim!).
+• “Tapahia te parāoa!” (Corte o pão!).
+
+Note que a partícula rítmica “e” deve ser usada
+em constituintes curtos (com duas moras ou menos), de modo a tornar
+o constituinte próprio para a dinâmica rítmica da língua Māori.
+• “E tū!” (Fique de pé!).
+• “E tū tātou!” (Fiquemos de pé!).
+• “E moe!” (Durma!).
+
+
+§§ Preverbo pretérito (“i”)
+
+O preverbo pretérito “i” expressa aspecto imperfectivo no tempo
+pretérito do modo indicativo.
+• “I kitea e wai tēnei motu?” (Esta ilha foi descoberta por quem?).
+• “I tonoa mai he tangata e te Atua.” (Um homem foi enviado por Deus).
+
+
+§§ Preverbo impretérito (“e”)
+
+O preverbo impretérito “e” expressa aspecto imperfectivo no tempo
+impretérito (presente ou futuro) do modo indicativo.  É geralmente
+usado combinado com o modificador progressivo “ana”.
+• “E haere ana te wahine ki te moana” (A mulher está indo para o mar).
+• “E pīrangi ana a Mere kia mutu te patu wēra” (Mere quer que a matança
+  de baleias pare).
+
+
+§§ Preverbo gnômico (“ka”)
+
+O preverbo gnômico “ka” expressa aspecto imperfectivo do modo
+indicativo, sem expressar tempo de forma precisa.  O tempo é inferido
+pelo contexto ou é um tempo neutro e genérico.  Em uma sequência de
+predicados, um predicado marcado por “ka” copia o aspecto e tempo do
+predicado ao lado.
+• “Ka takoto te tamaiti, ka moe” (A criança deita e dorme).
+• “Kia tūpato kei hinga ka whara.” (Tenha cuidado, senão cairá e se
+  machucará).
+
+
+§§ Preverbo perfectivo (“kua”)
+
+O preverbo perfectivo “kua” expressa aspecto perfectivo do modo
+indicativo, sem indicação temporal precisa (mas em geral no pretérito).
+• “Kua tae atu te waka rā ki te Hawaiki” (Aquela canoa chegou ao Havai).
+• “Me i konei koe kua kite koe i a ia” (Se você estivesse aqui, você
+  teria o visto).
+
+
+§§ Preverbo subjuntivo (“kia”)
+
+O preverbo subjuntivo “kia” expressa modo subjuntivo e, quando usado de
+forma não subordinada, expressa modo jussivo ou desiderativo.
+• “E pīrangi ana a Mere kia mutu te patu wēra.” (Mere quer que a matança
+  de baleias pare).
+
+Uso jussivo.
+O preverbo subjuntivo pode expressar modo imperativo (também chamado
+de ‘jussivo’ neste caso).  Tal uso ocorre somente com verbos médios e
+verbos estativos.
+• “Kia ora!” (“Salve!”, lit' “Tenha saúde!”).
+• “Kia toru ngā ika” (Sejam três peixes).
+• “Kia tapu tōu ingoa” (Santificado seja teu nome).
+• “Kia tere!” (Seja rápido).
+
+Uso adverbial.
+O preverbo subjuntivo pode ser usado para formar adjunto temporal
+expressando condição ou quando algo ocorre, ou para expressar orações
+finais.
+• “Kia oti te mahi ka hoki tātou.” (Quando o trabalho estiver feito, nós
+  iremos para casa).
+• “Kia mutu te mahi, ka kai māua.” (Quando acabarmos o trabalho, comeremos).
+• “Tatari, kia tae mai a Tame.” (Espere que Tame chegue aqui).
+• “Kua haere mai rātou kia whakaakona ai ki te reo Māori” (Eles vieram
+  para aprender a língua Maori).
+
+
+§§ Preverbo prescritivo (“me”)
+
+O preverbo prescritivo “me” expressa modo prescriptivo, isto é, expressa
+que algo deve ou deveria ser feito.  O modo prescritivo é normalmente
+chamado de “imperativo fraco” em gramáticas Māori.
+• “Me horoi ngā rīhi” (Deveriam lavar as louças).
+• “Me karanga au.” (É melhor eu ligar).
+• “Me kawe koe i taku kete.” (Você poderia carregar minha cesta).
+• “Me hoki te tamaiti ki te kainga.” (A criança deveria voltar para casa).
+• “Me horoi ngā rīhi” (Deveriam lavar a louça), lit' “A louça deveria ser lavada”.
+
+
+§§ Preverbo condicional (“ina/ana”)
+
+O preverbo condicional “ina” (também chamado “ana” em certos dialetos)
+expressa modo condicional e é usada em proposições subordinadas para
+expressar quando algo ocorre, caso ocorra.  Tal preverbo normalmente
+traduz-se como “se”, “caso” ou “quando”.
+• “Ina tae ia ki te whare, ka mate ia” (Quando/caso chegar em casa, ele
+  morrerá).
+
+
+§§ Preverbo intentivo (“hei”)
+
+O preverbo intentivo “hei” expressa intenção, propósito, etc.  Neste
+uso, “hei” é seguido somente por verbos transitivos ativos.
+• “Anei te oka hei tapahi i te mīti.” (Aqui está uma faca para cortar a
+  carne).
+• “Kua tae mai a Hēmi hei āwhina i a koe.” (Hemi veio aqui para ajudar
+  você).
+
+§§ Preverbo atentivo (“kei”)
+
+TODO.
+
+
+§ Preposições (pūtūmua)
+
+Preposições, ou partículas nominais, são uma categoria fechada de
+palavras usadas antes de um nome ou pronome para marcar sua função
+gramatical, formando um constituinte nominal.  As preposições são
+classificadas em três tipos: preposições locativas, preposições
+possessivas e as demais preposições.
+• Preposições locativas (“i, ki, i, kei, hei”):
+  Preposições locativas são terminadas em “-i”.  Quando recebem um nome
+  próprio como argumento, este deve ser precedido pelo artigo próprio; e
+  quando recebem um locativo como argumento, este não deve ser precedido
+  por qualquer determinante ou artigo.  Note que há duas preposições
+  “i”, a acusativa e a essiva.
+• Preposições possessivas (“nā, nō, mā, mō”):
+  Preposições possessivas são terminadas em ‘-ā’ ou ‘-ō’ e seguem o
+  paradigma de alienabilidade.
+• Outras preposições (“∅, ko, e, me”):
+  As demais preposições não comportam-se como as preposições locativas
+  quando antes de nomes próprios ou locativos; nem expressam possessão.
+  A ausência de preposição antes de um constituinte nominal pode ser
+  considerada como um constituinte marcado pela preposição nula “∅”.
+
+§§ Preposição nula (“∅”)
+
+A ausência de preposição (também chamada de preposição nula, ou “∅”)
+marca constituintes nominativos, como sujeitos e predicados.
+• “He ōrangi te rangi” (O céu é azul).
+• “He rōia a Rewi.” (“Rewi é um advogado”).
+• “He reka ngā kai.” (As comidas estão deliciosas).
+• “He matau anō rā tāku.” (Eu tenho outro anzol ali).
+• “He pai te āhua o taua kau, engari he pukupā.” (“A aparência de tal
+  vaca é boa, mas é infértil”, ou “a vaca parece bem, mas é infértil.”).
+
+
+§§ Preposição tópica (“ko”)
+
+A preposição tópica “ko” marca constituintes nominativos específicos,
+normalmente usados como tópico de uma oração.
+• “Ko hea tērā tāone?” (“Que cidade é aquela?”).
+• “Whiti atu ko tērā motu” (“Atravesse aquela ilha”).
+• “Ko reira au tū ai, kia tae ake anō koe” (“Ficarei lá até você chegar”).
+
+
+§§ Preposição agentiva (“e”)
+
+A preposição agentiva “e” marca o adjunto da forma passiva de um
+verbo dinâmico ou médio.
+• “Ka inumia te wai e te tangata” (A água é bebida pelo homem).
+• “Ka āwhinatia a Mere e Pita” (Maria é ajudada por Pedro).
+• “Kua kohia e ia ētahi waiata towhito” (Algumas canções antigas foram
+  colhidas por ele).
+
+§§ Preposição causativa (“i”)
+
+A preposição causativa “i” marca o objeto de predicados transitivos
+e complementos expressando causa ou origem.  Os diversos usos dessa
+preposição são listados a seguir.
+
+.Uso acusativo.
+A preposição causativa pode ser usada com sentido acusativa, marcando
+o paciente ou o tema de verbos dinâmicos.  Normalmente não há tradução
+para tal uso.
+• “Ka patu a Mere i a Pita” (Maria bate em Pedro).
+• “Ka puruma te kuia i te whare” (A senhora varre a casa).
+• “Ka tuku te heramana i te haika” (O marinheiro solta a âncora).
+• “Ka hoko te matua i ngā tīkiti” (O pai compra os ingressos).
+• “Kei te tuhi au i tāku reta ki a ia” (Estou escrevendo minha carta
+  para ele).
+
+.Uso causativo.
+A preposição causativa pode ser usada com sentido causativo, marcando a
+causa de verbos estativos adjetivos.  Tal uso é normalmente traduzido
+como “por/de”.
+• “Ka wera te whare i te ahi.” (A casa é destroída pelo fogo).
+• “Ka hōhā te whaea i tēnā kōrero” (A mãe está cansada dessa conversa).
+• “Ka mate te tamaiti i te whakamā” (A criança está morta de vergonha).
+• “Ka pai te rangatira i tērā piki” (O chefe está bem com aquele cocar).
+• “Ka mataku te tamaiti i te hōiho” (“A criança tem medo do cavalo”).
+• “Ka paru te tamaiti i te auahi” (“A criança está suja de terra”).
+
+.Uso agentivo.
+A preposição causativa pode ser usada com sentido agentivo, marcando
+o agente de verbos estativos neutros.  Tal uso é normalmente traduzido
+como “por”.
+• “Ka tuhera te tatau i a au” (“A porta é aberta por mim”, “Eu abro a porta”).
+• “I pakaru te wini i a Tamahae” (“Tamahae quebrou a janela”).
+
+.Uso ablativo.
+A preposição causativa pode ser usada com sentido ablativo, marcando
+lugar de origem ou lugar de ação, principalmente com verbos de
+movimento.  Tal uso é normalmente traduzido como “de”.
+• “E mahi ana ia i Pōneke” (Ela trabalha em Wellington).
+• “Kua tae mai te ope i Rotorua.” (O grupo já chegou de Rotorua).
+• “Kua puta mai rātou i roto i te whare” (Eles saíram de dentro da casa).
+• “I piki atu rātou i te pūtake o te maunga ki te tihi” (Eles escalaram da base
+  da montanha até o topo).
+
+.Uso comparativo.
+A preposição causativa pode ser usada com sentido comparativo,
+marcando padrão de comparação, principalmente com adjetivos.
+Tal uso é normalmente traduzido como “do que”.
+• “He nui ake tōku whare i tō Hoani.” (Minha casa é maior do que a do Hoani).
+• “He taumaha ake tēnei toka i tēnā.” (Esta pedra é mais pesada do que a outra).
+
+
+§§ Preposição final (“ki”)
+
+A preposição final “ki” marca o objeto de verbos mediais e complementos
+expressando alvo ou finalidade.  Os diversos usos dessa preposição são
+listados a seguir.
+
+.Uso acusativo.
+A preposição final pode ser usada com sentido acusativo, marcando
+o estímolo ou equação de verbos mediais.  Tal uso é normalmente
+interpretado como se o predicado diressionasse a atenção sentido
+ou sentimento do sujeito para algo.  Normalmente não há tradução
+para tal uso.
+• “Kei te pīrangi au ki tēnā pukapuka” (Eu quero o seu livro).
+• “Ka titiro mātou ki te rangi” (“Vemos o céu”).
+• “Ka aroha ia ki a koe” (“Ele te ama”).
+• “Ka rongo au i te waiata” (“Ouço à música”).
+• “Ka aroha au ki a koe” (“Tenho dó de você”).
+• “Ka harirū a Mere ki a Pita” (Maria comprimenta Pedro).
+• “Ka rite tēnei ki tēnā” (Isto é igual a isso).
+• “E mōhio au ki tēna waiata.” (Eu conheço aquela canção).
+
+.Uso dativo.
+A preposição final pode ser usada com sentido dativo, marcando alvo,
+direção ou recipiente, principalmente de verbos dinâmicos.  Tal uso
+é normalmente traduzido como “para” ou “até”.
+• “Ka haere au ki te whare” (Eu vou para casa).
+• “Ka hinga te rākau ki te whenua” (A árvore cai ao chão).
+• “Ka kōrero te rangatira ki te iwi” (O chefe fala para a tribo).
+• “Ka whawhai ia ki te taniwha” (Ele luta contra o monstro).
+• “E haere ana mātou ki Ngāruawāhia.” (Nós estamos indo para Ngāruawāhia).
+• “I whakamārama te kaiako i te pātai ki ngā ākonga.” (O professor
+  explicou a questão aos alunos).
+• “Kei konei ia tae noa atu ki te Mane” (Ela estará aqui até Segunda).
+
+.Uso final.
+A preposição final pode ser usada com sentido final, marcando finalidade
+ou propósito, principalmente de verbos estativos.  Tal uso é normalmente
+traduzido como “para”.
+• “Ka tū ngā piriti ki te kauhau” (Os padres ficam de pé para pregar).
+• “Ka haere te tamaiti ki te kaukau” (A criança vai banhar).
+• “I nanahi ka haere a Pita ki te whaiwhai poaka” (Ontem Pedro foi caçar enguia).
+• “I tū ia ki te kōrero ki a mātou” (Ele se levantou para falar conosco).
+• O uso final pode causar ambiguidade, dependendo do núcleo.
+  “Ka haere ia ki te kai” pode significar “ele foi comer” ou “ele foi
+  para a comida” (para onde a comida está), se “te kai” for considerado
+  um verbo nominalizado ou um nome comum, respectivamente.
+
+.Uso instrumental.
+A preposição final pode ser usada com sentido instrumental, marcando
+o instrumento, meio ou formato.  Tal uso é normalmente tradozido como
+“com” ou “em”.
+• “I tāraia te waka ki te toki.” (A canoa foi talhada com machado).
+• “He tohunga ia ki te raranga whāriki.” (Ela é perito em tecer tapete).
+• “He tino mōhio ia ki taua mahi” (Ele é muito inteligente nesse [tipo
+  de] trabalho).
+
+
+§§ Preposições essivas (“i, kei/kai, hei/hai, ā”)
+
+As preposições essivas “i”, “kei”, “hei” e “ā” marcam expressões
+adverbiais de estado, posição, tempo, posse ou condição.  Qual
+dessas preposições é usada depende do tempo: “kei” para presente,
+“i” para passado, e “hei/ā” para futuro.  Em alguns dialetos, as
+preposições essivas “kei” e “hei” são “kai” e “hai”, respectivamente.
+
+.Uso possessivo.
+As preposições essivas podem ser usadas com sentido possessivo, marcando
+posse ou carga.  Tal uso é normalmente traduzido como “estar com”.
+• “Kei a Pīta te toki” (O machado está com pedro).
+• “I a Mere te pukapuka” (O livro estava com maria).
+• “Kei a wai taku pōro?” (Com quem está a minha bola?).
+
+.Uso locativo.
+As preposições essivas podem ser usadas com sentido locativo, marcando
+lugar ou posição.  Tal uso é normalmente traduzido como “estar em” ou
+“ficar em”.
+• “I te kura ngā tamariki.” (As crianças estavam na escola).
+• “Kei hea te rangatira?” (Onde está o chefe?).
+• “Kei Ōwhata tōku kainga.” (Minha casa fica em Owhata).
+• “Kei hea koutou e noho ana?” (Onde vocês estão morando?)
+• “Kei konei ia tae noa atu ki te Mane” (Eles estarão aqui até Segunda).
+
+.Uso temporal.
+As preposições essivas podem ser usadas com sentido temporal, marcando
+tempo ou posição no tempo.  Tal uso é normalmente traduzido como “em”.
+• “I konei rāua i nanahi” (Eles dois estiveram aqui ontem).
+• “Kei te haere rātou ki runga ō te puke.” (Eles estão indo ao topo do monte).
+• “I nanahi ka kōhua te kuia” (A idosa cozinhou ontem).
+• “I te kāinga mātou i napō” (Estávamos em casa na noite passada).
+• “Kei ngā pō marama, e kitea ana a Rona” (Nas noites de lua, Rona é vista).
+• “I tīmata te kōnohete i te rua koraka.” (O concerto começou às 2 horas).
+• “Ka kai tātou ā te whitu karaka” (Comeremos às sete horas).
+
+.Uso progressivo.
+As preposições essivas podem ser usadas com sentido progressivo,
+junto de um verbo nominalizado, para expressar aspecto contínuo ou
+progressivo.  Normalmente traduzido como “estar … -ando”.
+• “Kei te takaro ngā tamariki” (As crianças estão jogando).
+• “Kei te pai te koroua.” (O idoso está bem).
+• “Kei te ngenge a Mama.” (Mamãe está cansada).
+• “Kei te mekemeke ngā tāngata“ (Os homens estão lutando).
+• “Kei te pēhea koe?” (Como você está?).
+• O uso progressivo pode causar ambiguidade, dependendo do núcleo.
+  “Kei te mahi ia” pode significar “ele está no trabalho” ou “ele está
+  trabalhando”, se “te mahi” for considerado um local ou um verbo
+  nominalizado, respectivamente.
+
+
+§§ Preposições causativas (“nō, nā”)
+
+As preposições causativas “nō” e “nā” marcam causa ou posse já
+concretizada ou local de origem ou meio.  Essas preposições são
+sujeitas às regras de possessão de tipo A e tipo O presentes na
+língua Māori.
+
+.Uso causativo.
+As preposições causativas podem ser usadas com sentido causativo,
+marcando causa de algo.  Tal uso é normalmente traduzido como “por”,
+“pelo(a)” ou “por causa de”.
+• “nō reira” (portanto).
+
+.Uso possessivo.
+As preposições causativas podem ser usadas com sentido possessivo,
+marcando pertinência já concretizada.  Tal uso é normalmente traduzido
+como “ser de”.
+• “Nō wai te pukapuka?” (De quem é este livro?).
+• “Nō te iwi katoa ngā whenua.” (Estas terras são de toda a tribo).
+• “Nā te rangatira tēnei tamaiti.” (Esta criança é do chefe).
+• “Nō Hone tenei hoiho i mua, nōku inaianei” (Este cavalo era do Hone,
+  mas agora é meu).
+
+.Uso locativo passivo.
+A preposição causativa de tipo O “nō” pode ser usada com sentido
+locativo, marcando origem.  Tal uso é normalmente traduzido como
+“ser de”.
+• “Nō hea tōu hoa?” (De onde seu amigo é?).
+• “Nō Ākarana a ia.” (Ele é de Auckland).
+• “Nō hea hoki tāu?” (De onde você tirou isso?), expressão usada quando
+  não se acredita no que foi dito.
+
+.Uso locativo ativo.
+A preposição causativa de tipo A “nā” pode ser usada com sentido
+locativo, marcando meio ou caminho.  Tal uso é normalmente traduzido
+como “ir por” ou “vir por”.
+• “Nā hea mai koutou?” (Por onde você veio?).
+
+.Uso temporal.
+A preposição causativa de tipo O “nō” pode ser usada com sentido
+temporal, marcando um acontecimento ou tempo por volta do qual algo
+aconteceu.
+• “Nō te tau 1769 a Kāpene Kuki i tae mai a ki konei” (Capitão Cook
+  chegou aqui em 1769).
+• “Nō te taenga mai o te Pākehā, ka ngaro haere taua tikanga.” (Quando o
+  Pākehā chegou aqui, tal costume começou a se perder).
+• “nō nanahi” (ontem).
+
+
+§§ Preposições benefactivas (mō, mā)
+
+As preposições benefactivas “mō” e “mā” marcam intenção, posse
+potencial, ou beneficiário.  Essas preposições são sujeitas às
+regras de possessão de tipo A e tipo O presentes na lingua Māori.
+
+.Uso benefactivo.
+As preposições benefactivas podem ser usadas com sentido benefactivo,
+marcando posse potencial, ou pessoa ou entidade a quem algo é
+pretendido.  Tal uso é normalmente traduzido como “para”.
+• “Mā Pita tēnei pukapuka” (Este livro é para o Pedro).
+• “Mō wai tērā whare?” (Para quem é/será aquela casa?).
+• “Mō ngā manuhiri tūārangi” (Para os forasteiros vindos de longe).
+• “Tīkina atu he wai mōku.” (Pegue uma água para mim).
+• “Mōna te wai” (A água é para ele).
+• “Kia tino nui te hōiho mō Pou” (O cavalo do Pou tem que ser bem grande).
+• “Nōku ēnei hū inaianei; inā kore e ō ki ahau, mōu” (Estes sapatos são meus;
+  mas quando não servir mais para mim, [serão] seus.).  Exemplo em que “mōu”
+  expressa uma posse potencial ou futura.
+
+.Uso descritivo.
+A preposição benefactiva de tipo O “mō” pode ser usada com sentido
+descritivo, marcando assunto.  Tal uso é normalmente traduzido como
+“sobre” ou “a respeito de”.
+• “He kōrero tēnei mō Pāpaka” (Esta é uma música sobre Pāpaka).
+• “Ko tēnei te waiata mō tōku iwi” (Esta é a canção sobre o meu povo).
+
+.Uso translativo.
+A preposição benefactiva de tipo A “mā” pode ser usada com sentido
+translativo, marcando meio ou transporte.  Tal uso é normalmente
+traduzido como “ir de”.  Note que meio de transporte é expresso com
+“mā runga” (por cima), como em “mā runga i te waka” (de canoa,
+literalmente “por cima da canoa”).
+• “Mā hea mai koutou?” (Vocês vieram via quê?).
+• “Mā runga i te waka o Pani.” (Com a canoa de Pani).
+• “Mā runga o te maunga.” (Pelo topo da montanha).
+• “Mā raro” (“A pé”, literalmente “pelo chão”).
+• “Mā hea mai tō koutou ara?” (Vocês vieram via que caminho?).
+• “Ka haere rātou mā Taupō.” (Eles virão por Taupō).
+• “Haere ai tō mātau pāpā ki tana mahi mā runga hōiho” (Nosso pai vai ao
+  trabalho de cavalo).
+• “I haere mai mātou mā te mānia o Kaingaroa, mā te ara ki Waiotapu”
+  (Nós viemos pela planície de Kaingaroa, pela estrada para Waiotapu).
+
+
+§ Genitivadores
+
+Genitivadores são uma categoria fechada de partículas usadas antes de um
+nome ou pronome para torná-lo adjunto de um núcleo.
+
+§§ Genitivador locativo (“i”)
+
+O genitivador locativo “i” é usado para complementar nomes locativos que
+denotam posição relativa.  Seu uso é normalmente traduzido como
+“de”.
+• “Kei runga i te tē tēpu” (Em cima da mesa).
+
+
+§§ Genitivador comitativo (“me”)
+
+O genitivador comitativo é usado para complementar bases, sejam elas
+nominais ou verbais, fornecendo sentido de conjunção e coordenação.
+Os diversos usos desse genitivador são listados a seguir.
+
+.Uso coordenativo.
+O genitivador comitativo pode ser usado com sentido coordenativo,
+marcando conjunto de nomes ou verbos.  Tal uso é normalmente traduzido
+como a conjunção coordenada “e”.
+• “Te ngeru me te kurī” (O cão e o gato).
+• Note que se ambos os nomes forem humanos, então coordenação por meio
+  de pronome é preferível.
+• “Ka ūmere me te kata” (gritar e rir).
+
+.Uso comitativo.
+O genitivador comitativo pode ser usado com sentido comitativo, marcando
+companhia ou acompanhamento.  Tal uso é normalmente traduzido como “com”
+ou “junto de”.
+• “I tae atu rātou ki reira me ā rātou pū” (Eles chegaram com suas armas).
+
+.Uso circunstancial.
+O genitivador comitativo pode ser usado com sentido circunstancial,
+marcando circunstância.  Tal uso é normalmente traduzido como “com”.
+• “Kaua e kōrero me tōu waha e kī ana” (Não fale com a boca cheia).
+
+
+§§ Genitivadores possessivos (“a/o”)
+
+Os genitivadores possessivos “o” e “a” marcam posse e genitivo.  Esses
+genitivadores são sujeitos às regras de possessão de tipo A e tipo O
+presentes na lingua Māori.
+• “Te tuanui o te whare” (O teto da casa).
+• “Te tuakana o Mere” (Irmã mais velha de Mere).
+• “Ngā kurī a te rangatira” (Os cachorros do chefe).
+• “Te waiata a Horomona” (A canção de salomão).

@@ -1,0 +1,457 @@
+                                 TE REO MĀORI
+
+Maori, membro do subgrupo Polinésio Oriental da família linguística
+Austronésia, é a principal língua indígena da Nova Zelândia, junto da
+agora extinta língua Mōriori das ilhas Chatham.
+
+Maori é falado fluentemente por aproximadamente trinta mil pessoas.
+Fatores como urbanização, mídia e educação em língua inglesa levaram
+ao declínio do conhecimento e uso da língua Maori ao ponto de que
+aproximadamente 90% da população étnica Maori é monolíngue em inglês.
+
+Recentemente ressurgiu o interesse na língua Maori e esforços
+consideráveis foram feitos para garantir sua sobrevivência.  Isso inclui
+a criação de escolas monolíngues em Maori, aumento da publicação e mídia
+em maori, uso da língua no setor público, e a oficialização da língua a
+nível nacional em 1987.  Nesse ano também estabeleceu-se a Comissão da
+Língua Maori (“Te Taura Whiri i te Reo Māori”).
+
+Existe certa variação dialetal em Maori, em parte de natureza fonológica
+e fonética, mas principalmente vocabular.  A forma padrão da língua é
+baseada no dialeto norte da Nova Zelândia, onde a atividade missionária
+começou.
+
+Em Māori ocorre muita homonimia, onde várias palavras diferentes são
+pronunciadas e escritas iguais.  O caso mais notável é o da partícula
+“i”, que pode ser tanto uma preposição genitiva, uma preposição
+acusativa, uma preposição essiva, ou um preverbo pretérito.  A análise
+sintática e o contexto determinam o nome correto.
+
+§ Materiais de Referencia
+
+Índices
+• «http://www.language-archives.org/language/mri».
+
+Exposições Linguisticas:
+• «Māori: A Linguistic Introduction», de Ray Harlow.
+
+Gramaticas de referencia:
+• «Maori», A.Winnifred Bauer, 1993
+• «Maori», de Ray Harlow, 1996
+• «The Reed Reference Grammar of Maori», A.Winnifred Bauer, 1997;
+• «A Māori Reference Grammar», de Ray Harlow (2001).
+
+Dicionarios.  Alguns dicionarios disponiveis na www também são disponiveis
+como livro em forma fisica.
+• «A Dictionary of the Maori Language», H. W. Willians 1971;
+• «English-Māori Dictionary: www:learningmedia.co.nz/ngata», de H. M. Ngata.
+• «Te Aka: www:maoridictionary.co.nz/», de John C. Moorfield.
+• Vocabulário legal e jurídico: www.legalmaori.net
+
+Cursos:
+• Recursos disponibilizados em http://www.maorilanguage.net
+• Recursos disponibilizados em https://kupu.maori.nz/
+• «Let's Learn Maori», Bruce Biggs, 1969.
+• Livro «Māori Made Easy: www:maorilanguage.net/maori-made-easy», de Scotty Morrison.
+• Livros «Te Rangatahi», de Hoani R. Waititi (1970 - 1974).
+• Livros «Te Whanake: www:tewhanake.maori.nz», de John C. Moorfield, 1988.
+• Audios «Te Whanake Podcasts: www:podcasts.tewhanake.maori.nz».
+• Videos «Te Whanake TV: www:tv.tewhanake.maori.nz», baseado no «Te Whanake»
+• Videos «Te Whanake Animations: www:animations.tewhanake.maori.nz».
+• Videos «Tōku Reo: www:tokureo.maori.nz», baseada no «Te Whanake».
+
+Guia de ensino.
+• http://tereomaori.tki.org.nz/Teacher-tools/Te-Whakaipurangi-Rauemi/Grammar-Progression-Table
+
+Artigos:
+• «The Structure of New Zealand Maaori», Bruce Biggs, 1961.  Tese de doutorado
+de Bruce Biggs que iniciou a pesquisa formal da lingua.
+• «Character and Structure of the Action in Maori», de J. Johansen (1948).
+
+Material historico, desenvolvido após os primeiros contatos com os nativos.
+Seguem o modelo gramatical indo-europeu em vez de um paradigma especifico,
+possuindo atualmente pouco valor para aprender a lingua:
+• «A Dictionary of the New Zealand Language», W. L. Williams, 1844
+• «New and Complete Manual of Maori Conversation», Madre Mary Aubert, 1885;
+• «First Lessons in Maori», W. L. Williams (1862)
+• «A Grammar of the New Zealand Language», Robert Maunsell (ed. 4 1894).
+
+
+§ Evolução
+
+Os colonizadores Māori chegaram à Nova Zelandia em cerca de 1300, vindos das
+ilhas Cook e do Arquipélago da Sociedade.  Segundo a tradição, a colonização
+se deu por varias migrações por canoa.  Quase toda tribo Māori se identifica
+com uma ou mais canoas que trouxeram seus ancestrais.  Tradições individuais
+apontam o local de onde as migrações ocorreram.
+
+Ao longo da evolução do Proto-Austrinésio para Proto-Malaio-Polinésio,
+Proto-Oceânico, Proto-Polinésio, e Māori, o inventário fonêmico foi
+continuamente reduzido ao combinar fonemas anteriormente distintos em um
+só fonema.  Assim, o Proto-Austronésio tem um inventário fonêmico mais
+elaborado, com cerca de 25 consoantes; enquanto que o Proto-Polinésio
+tem um inventário fonêmico menor; e a língua Māori tem apenas dez
+consoantes.
+
+{
+	            ⎧ Linguas Formosanas (Várias famílias)
+	            ⎪
+	            ⎪                  ⎧          ⎧ Tagalog
+	            ⎪                  ⎪ Filipino ⎨ Cebuano
+	            ⎪                  ⎪          ⎪ Filipino
+	            ⎪                  ⎪          ⎩ …
+	            ⎪                  ⎪
+	Austronésio ⎨                  ⎪        ⎧ Malagaxe (Madagascar)
+	            ⎪                  ⎪ Borneo ⎨ Brunei Bisaya
+	            ⎪                  ⎪        ⎩ …
+	            ⎪                  ⎪
+	            ⎪                  ⎪               ⎧ Sundanês
+	            ⎪                  ⎪               ⎪ Madurese
+	            ⎪                  ⎪               ⎪ Cham
+	            ⎪                  ⎪               ⎪ Malaio (Indonésio e Malásio)
+	            ⎩ Malaio-polinésio ⎨               ⎪ Balinês
+	                               ⎪ Sunda-Sulawês ⎨ Javanês
+	                               ⎪               ⎪ Buginês
+	                               ⎪               ⎪ Makassarês
+	                               ⎪               ⎪ Palauano
+	                               ⎪               ⎪ Chamorro
+	                               ⎪               ⎩ …
+	                               ⎪
+	                               ⎪ Malaio-polinésio central (Várias famílias)
+	                               ⎪
+	                               ⎪ Halmahera-Cenderawasih (Várias famílias)
+	                               ⎪
+	                               ⎪          ⎧ (Outros)
+	                               ⎩ Oceânico ⎨
+	                                          ⎪           ⎧ Tongano
+	                                          ⎪           ⎪ Niueano
+	                                          ⎪           ⎪ Samoano
+	                                          ⎪           ⎪ Tokelauano
+	                                          ⎩ Polinésio ⎨ Rapa nui
+	                                                      ⎪ Havaiano
+	                                                      ⎪ Tahitiano
+	                                                      ⎪ Māori
+	                                                      ⎩ …
+}
+
+Proto-Oceânico.
+O Proto-Oceânico (falado na costa norte da Nova-Guinea ~1500 a.C.)
+possuia um inventario fonetico de cinco vogais, duas glides, duas
+consoantes uvulares, um fricativo sibilante, e seis triplas homorgânicas
+(isto é, seis conjuntos de três consoantes com o mesmo ponto de
+articulação).  Cada tripla era formada por um interruptivo surdo, um
+interruptivo pré-nasalizado, e um ressonante.  Seu inventario fonetico
+era formado por 23 consoantes e 5 vogais:
+• `/a, e, i, o, u/`: Vogais
+• `/j, w/`:          Glides
+• `/q, ʀ/`:          Uvular
+• `/s/`:             Fricativo sibilante
+• `/p, ᵐb, m/`:      Tripla bilabial
+• `/pʷ,ᵐbʷ,mʷ/`:     Tripla bilabial labializada
+• `/k, ᵑg, ŋ/`:      Tripla coronal
+• `/c, ᶮɟ, ɲ/`:      Tripla palatal
+• `/t, ⁿd, n/`:      Tripla velar
+• `/r, ⁿr, l/`:      Tripla liquida
+
+Proto-Polinésio.
+Ao evoluir ao Proto-Polinesio, as glide `/j/` e o uvular `/ʀ/` do
+Proto-Oceanico foram eliminados.  As seis triplas homorgânicas sofreram
+alterações profundas até se transformarem em dois fricativos
+não-sibilantes (`/p,pʷ→f; c→h/`) e em quatro pares homorgânicas formados
+por um interruptivo surdo e um ressonante (`/n,ɲ→n; mʷ,ŋ→ŋ; ᵐb,ᵐbʷ→p;
+t,ⁿd,ᶮz→t; k,ᵑg→k; r,ⁿr→r/`).  As consoantes em final de palavra foram
+eliminadas (mas foram retidas em algumas formas afixadas).  Seu
+inventario fonético era formado por 13 consoantes e 5 vogais:
+• `/a, e, i, o, u/`: Vogais
+• `/∅/`:             Nulo
+• `/w/`:             Glide
+• `/Ɂ/`:             Glotal
+• `/s/`:             Fricativo sibilante
+• `/h, f/`:          Fricativos não-sibilantes
+• `/p, m/`:          Par bilabial
+• `/t, n/`:          Par coronal
+• `/k, ŋ/`:          Par velar
+• `/r, l/`:          Par liquido
+
+Maori.
+Ao evoluir ao Maori, a consoante glotal /Ɂ/ do Proto-Polinésio foi eliminada.
+As consoantes do par liquido se combinaram no vibrante simples /ɾ/.  O /h/ foi
+eliminado e o /s/ tornou-se o novo /h/.  Dependendo do contexto fonético e do
+dialeto, o /f/ tornou-se /h/ ou /w/ ou manteve-se inalterado: a transformação
+em "h" ocorreu geralmente antes de vogais posteriores (/*fo,fu → ho,hu/); e a
+sequência /faf/ transformou-se em /wah/ (por exemplo, /*fafine → wahine/).  O
+/w/ intervocálico foi eliminado após uma vogal posterior (/*ow,uw → o,u/).  A
+fonotatica maori passou a realizar uma sequencia de duas vogais iguais como
+uma vogal longa, que não ocorriam na fonotatica Proto-Polinesio (por exemplo,
+/*faɁaki → whāki/).  Em alguns contextos houve assimilação vocálica, como em
+/*tafulaɁa → tohorā/.  Seu inventario fonetico é formado por 10 consoantes, 5
+vogais curtas e 5 vogais longas:
+• a, e, i, o, u: Vogais curtas
+• ā, ē, ī, ō, ū: Vogais longas
+• ∅:             Nulo
+• w:             Glide
+• w:             Glide
+• h, f:          Fricativos
+• p, m:          Par bilabial
+• t, n:          Par coronal
+• k, ŋ:          Par velar
+• ɾ:             Liquido
+
+Devido às sucessivas deleções e combinações de consoantes, varios pares
+homófonos se desenvolveram, e.g., /PPN:*Ɂara → MAO:ara/ ("desperto") e
+/PPN:*hala → MAO:ara/ ("caminho").
+
+O proto-oceanico possuia consoantes em final de palavras, que foram eliminadas
+no proto-polinesio, exceto nas formas afixadas.  Por exemplo, o proto-oceanico
+/*inum/ ("beber") gerou o Māori /inu/, que não possui a consoante final /-m/,
+exceto na forma passiva acrescida do sufixo /-ia/: /inumia/ (“ser bebido”).
+Os dicionarios geralmente listam esse vocabulo como /inu(m)/ ou /inu(-mia);
+os demais vocabulos seguem o mesmo padrão.
+
+Os pronomes pessoais duais, como /rāua/ (“eles dois”), possuem a terminação
+"-ua", que é cognata do numeral "rua" (dois).  Os pronomes pessoais plurais,
+como "rātou" ("eles"), possuem a terminação "-ou", que é cognata do numeral
+"toru" (três).  A língua proto-polinésia tinha quatro números para pronomes
+pessoais: singular, dual, paucal e plural.  Os pronomes pessoais plurais do
+maōri e demais línguas polinésias descendem dos pronomes pessoais paucais do
+proto-polinésio.  Os pronomes pessoais plurais proto-polinésio não
+sobreviveram.
+
+
+§ Fenômenos gramaticais
+
+§§ Possessão
+
+Possessão é uma relação assimétrica entre dois termos.  Em Māori, a
+sintaxe de possessões depende da alienabilidade da posse, dominância
+relativa entre posse e possuidor, agência do possuidor em relação à
+posse, portabilidade da posse, etc.  Há dois tipos de possessão.  No
+tipo “A”, o possuidor geralmente é ativo, dominante, superior ou capaz
+de se desassociar da posse.  No tipo “O”, o possuidor geralmente é
+passivo, subordinado, inferior ou incapaz de se desassociar da posse).
+Em certos casos, a distinção não é óbvia.  Há também seis determinantes
+possessivos, todos denotando uma pessoa no singular, que são neutros e
+podem expressar ambos os tipos de posse.
+
+.Alienabilidade.
+Uma relação alienável é normalmente do tipo A quando o possessor possuir
+algo e tiver controle sobre essa posse.  Porém quando a posse é água ou
+vestimenta, usa-se o tipo O.
+• “Te pukapuka a terā kōtiro” (o livro daquela garota [que pertence a ela]).
+• “Te mere a te rangatira” (o tacape do chefe [que pertence a ele]).
+• “te kete a tērā wahine” (a cesta daquela mulher).
+• “Te wai māori o te puna” (água pura da fonte).
+• “Te pōtae o te kīngi” (o chapéu do rei).
+
+.Transportabilidade.
+Quando a posse for um vehículo, animal de montaria ou outra coisa capaz
+de transportar o possessor, a relação é do tipo O.
+• “te motokā o tērā wahine” (a moto da mulher).
+• “te hōiho o tērā wahine” (o cavalo daquela mulher).
+
+.Relação criativa.
+Uma relação criativa, na qual o possessor é o autor ou o criador, é do tipo A.
+• “Te Pukapuka a Tāniero” (“O Livro de Daniel”, livro biblico escrito
+  por Daniel).  Note que “te pukapuka a Tāniero” pode ser interpretado
+  como uma relação possessiva ("o livro que Daniel tem").
+
+.Relação temática.
+Uma relação tematica, na qual o possessor é o assunto ou tema de algo, é
+do tipo O.
+• “Te Pukapuka o Hopa” (“O Livro de Jó”, um livro biblico que fala sobre
+  Jó, mas que foi escrito por outra pessoa).
+
+.Relação partitiva.
+Uma relação partitiva, na qual o possessor é um corpo ou objeto do qual
+algo é parte, é do tipo O.
+• “ngā matimati o te manu” (“os dedos da ave”).
+• “te kakau o te toki” (“o cabo do machado”).
+
+.Relação essencial.
+Uma relação essencial, na qual o possessor tem uma propriedade ou
+qualidade inerente, é do tipo O.
+• “te ingoa o tēnā tangata” (o nome dessa pessoa).
+• “te reka o te huarākau” (o sabor da fruta).
+• “te ora o te tangata” (a vida do homem).
+
+.Relação dinâmica.
+Uma relação dinamica é do tipo A quando o possessor é o participante
+ativo de uma ação; e do tipo O quando o possessor é o participante
+passivo.
+• “te whaiwhai a te mangō” (a caça do tubarão [a caça feita pelo tubarão]).
+• “te whaiwhai o te mangō” (a caça do tubarão [a caça por tubarão]).
+
+.Relações hierárquicas.
+Uma relação hierárcia (como pai-filho, criador-animal, senhor-servo,
+lider-povo, etc) é do tipo A quando o possessor for hierarquicamente
+superior ou dominante; e do tipo O quando o possessor for inferior ou
+subordinado.  Cônjuges são dominantes um sobre os outros.
+• “Te tama a Kupe” (o filho de Kupe [de quem Kupe é superior]).
+• “Te matua a Kupe” (o pai de Kupe [de quem Kupe é inferior]).
+• “Te rangatira o te iwi” (o chefe da tribo).
+• “Te tāne a Mere” (o marido de Maria).
+• “Te wahine a Pita” (a mulher de Pedro).
+
+.Relações naturais.
+Uma relação natural, na qual o possessor é algo ou alguém relacionado a um bem
+cultural, natural, inato ou herdado (como olar, a terra, a família, o povo, a
+nação, a cultura, etc), é do tipo O
+• “Te whenua o Kupe" (a nação de Kupe, a nação à Kupe pertence)
+• “Te whānau o Hohepa” (a familia de Hohepa, a família da qual ele pertence).
+
+
+§§ Reduplicação
+
+Reduplicação.
+Há vários padrões de reduplicação.
+• Reduplicação parcial da primeira mora (em raízes bimoraicas):
+  ‘patu’ (bater) → ‘papatu’.
+• Reduplicação completa da raíz (em raízes bimoraicas):
+  ‘hoki’ (retornar) → ‘hokihoki’.
+• Reduplicação das duas moras iniciais (em raízes trimoraicas ou maiores):
+  ‘takahi’ (pisar) → ‘takatakahi’.
+• Reduplicação das duas últimas moras (em raízes trimoraicas ou maiores):
+  ‘haere’ (ir) → ‘haereere’.
+
+Reduplicação é um processo morfológico em que um morfema ou parte de um
+morfema é repetido.  É usada para expressar funções semânticas como, por
+exemplo, sentido figurativo, distributivo, plural, repetitivo, habitual,
+aumentativo, intensivo, ou contínuo.  Em maori há 3 tipos de reduplicação:
+reduplicação total, aplicada em um radical inteiro; reduplicação inicial,
+aplicada nas primeiras moras de um radical; e reduplicação final, aplicada
+nas duas últimas moras de uma raíz trimoraica ou maior com alongamento da
+primeira vogal, se não for longa.
+
+Exprimindo distributividade.
+Em modificadores, reduplicação pode expressar plural ou distributivo.
+Em verbos, reduplicação pode expressar distributividade do objeto (ou sujeito,
+se não houver objeto).
+• “I hokihoki rātou” (Eles retornaram [cada um a um lugar]), compare com
+“I hoki rātou” (Eles retornaram [todos a um lugar]).
+• “He tangata pai” (pessoa boa), compare com “tāngata papai” (pessoas, cada
+uma boa).
+
+Exprimindo repetição.
+Reduplicação total pode ser usada em certas palavras, normalmente verbos, para
+expressar repetição.
+
+Exprimindo moderação.
+Reduplicação total pode ser usada para desenfatizar uma palavra.
+• “wera” (quente) → “werawera” (quentinho, morno).
+
+
+
+§ Cultura
+
+§§ Iwi
+§§ Whānau
+
+Genealogia.
+Recitar whakapapa (genealogia) é uma habilidade importante e central em todas
+as instituições Māori.  Whakapapa é importante na sociedade Māori em termos de
+liderança, terra, parentesco e status.  Há diferentes termos para os tipos de
+whakapapa e diferente formas de recitá-los, incluindo os seguintes.
+• “tāhū”:       Recitar ancestralidade apenas pela linhagem direta de senhores.
+• “whakamoe”:   Recitar genealogia incluindo homens e suas mulheres.
+• “taotahi”:    Recitar genealogia em uma única linha de descendência.
+• “hikohiko”:   Recitar genealogia arbitrariamente, sem seguir linha de descendência.
+• “ure tārewa”: Linhagem de descendência masculina pelo primogênito de cada geração.
+
+§§ Marae
+
+Marae é uma área aberta onde as cerimônias e encontros formais são realizados.
+
+Wharenui.
+Wharenui (casa grande) é uma casa no marae onde os visitantes são acomodados.
+Tradicionalmente, o wharenui pertencia a um whānau (tribo) ou a umhapū (clã,
+conjunto de whānau).  Mas atualmente, especialmente em grandes áreas urbanas,
+wharenuis pertencem a grupos não tribais, como escolas e instituições.
+
+Wharemate.
+Wharemate (casa dos mortos) é uma casa no marae onde os mortos são enterrados.
+
+§§ Pōhiri
+
+Pōhiri (ou “pōwhiri”) é o ato de dar boas-vindas e receber visitantes.
+Haka pōhiri é a dança cerimonial realizada para receber os visitantes.
+O pōhiri é realizado no marae.
+
+Discurso.
+Whaikōrero é um discurso normalmente realizado por homens durante o pōhiri.
+É apreciado usar fala eloquente, imaginário, metáforas, whakataukī, pepeha,
+kupu whakaari, whakapapa (genealogia) relevantes e referências à história da
+tribo.  A estrutura básica de um whaikōrero é geralmente o seguinte.
+• (1) “tauparapara”, um tipo de karakia (cântico ritual).
+• (2) “mihi ki te whare tupuna”, prestar reconhecimento à casa dos ancestrais.
+• (3) “mihi ki a Papatūānuku”, prestar reconhecimento à Mãe Terra.
+• (4) “mihi ki te hunga mate”, prestar reconhecimento aos mortos.
+• (5) “mihi ki te hunga ora”, prestar reconhecimento aos vivos.
+• (6) “te take o te hui”, propósito do encontro.
+• (7) ao fim do discurso, um waiata (canto) tradicional geralmente é cantado.
+
+Oferta.
+Koha é um presente usado para manter relações sociais em certas tribos.
+O koha é posto no marae pelos visitantes durante o pōhiri como forma de oferta.
+Kōkuhu é a doação do koha pessoalmenteao rangatira para pagar os custos do hui.
+Algumas tribos preferem chamar tais doações de “whakaaro” ou “kohi”, devido às
+conotações de tapu associadas às palavras “takoha” ou sua abreviação “koha”.
+
+
+§§ Tangihanga
+
+Tangihanga (funeral) é uma das mais importantes instituições na sociedade
+Māori, com fortes imperativos culturais e protocolos.  Normalmente é realizado
+no marae.
+
+Durante o tangihanga, o corpo do morto é trazido ao marae pelo whānau do
+finado e fica em caixão aberto por cerca de três dias em um wharemate.
+Durante este tempo, grupos de visitantes vêm ao marae para se despedir
+do finado.
+
+Luto.
+Verde e folhagem representa o luto.  No tangihanga, mulheres e chefes fúnebres
+usam o pare kawakawa, um tipo de coroa ou adorno de flores e folhas.
+
+Sepultamento.
+O pū mihimihi é a noite final do tangihanga em que dá a despedida final ao
+finado e ocorre o sepultamento.  Atualmente, o pō mihimihi é quando o caixão é
+levado à igreja para e ao cemitério.
+
+Casa do finado.
+O takahi whare é uma cerimônia realizada após o sepultamento na casa do finado
+para limpar a casa do espírito do finado e o tapu da casa e suas posses.  É
+realizado por um tohunga, ou líder religioso, recitando um karakia (cântico)
+e salpicando água enquanto se anda pelos cômodos da casa.
+
+Banquete.
+Um hakari (banquete) encerra o tangihanga.
+
+
+§ Literatura
+
+Tradições orais que passaram a ser escritas:
+• Whakapapa (genealogias)
+• Cosmogonias;
+• Contos populares;
+
+Estilos literarios novos:
+• Karanga;
+• Whaikōrero;
+• Waiata
+
+Coleções:
+• Grey (1854, 1971), baseado em Te Rangikāheke, chefe de uma tribo
+descendente da canoa Te Arawa;
+• White (1887: 1891), baseado numa gama de fontes.
+• Ruatapu (1993)
+• Orbell (1992)
+• Coleção de poesia de Sir Apirana Ngata, "Ngata e Te Hurinui".
+• O produto de uma das ultimas "Whare Wānanga".
+• «He Whiriwhiringa: Selected Readings in Maori» (AUP, 1997)
+
+Livros infantis:
+• Kōhanga Reo
+• Kura Kaupapa M`aori
+
+Ficções:
+• Makorea, de Katarina Mataira (2002)
