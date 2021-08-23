@@ -1,19 +1,22 @@
                                  TE REO MĀORI
 
-§ Fonemas.
+§ Fonemas
 
 Maori tem cinco fonemas vocálicos, assim como as demais línguas da Polinésia.
 
-§ Mora.
+§ Mora
+
 A mora é a unidade ritmica da lingua Māori, isto é, cada mora é pronunciada
 com a mesma duração.  Uma mora é composta apenas por uma consoante seguida de
 uma vogal; e portanto não há encontros consonantais ou sílabas fechadas (que
 terminam em consoante) em Maori.  A consoante "C" que inicia a mora pode ser
 qualquer consoante do inventario fonemico, incluindo a consoante nula /∅/,
 que indica a ausencia de consoante.
-│ Mora (μ)    := C+V
+{
+	Mora (μ)    := C+V
+}
 
-Moras não nativas.
+.Moras não nativas.
 No vocabulario nativo herdado do Proto-Polinesio, as moras /fV/ e /wV/, em que
 V é uma vogal posterior (/o/ ou /u/) não ocorrem.  As moras /*fo, *fu/ ocorriam
 no proto-polinésio, mas evoluiram para /wo, wu/ em maori.  Enquanto que as
@@ -21,7 +24,7 @@ moras /wo, wu/ não ocorriam no PPN e portanto não aparecem no vocabulário
 nativo do maori.  Porém, essas moras ocorrem em neologismos e emprestimos do
 inglés.
 
-Combinações moraicas não nativas.
+.Combinações moraicas não nativas.
 No vocabulario nativo herdado do Proto-Polinesio, a /wV/ (onde V é uma vogal
 qualquer) não ocorre após as moras /Co, Cu/ (onde C é uma consoante qualquer),
 pois o /-w-/ intervocalico do proto-polinésio foi eliminado quando após uma
@@ -29,15 +32,17 @@ vogal posterior (isto é, /PPN:*owV,uwV → MAO:oV,uV/).  Porém, tais combinaç
 de moras ocorrem a neologismos e emprestimos do inglés.
 
 
-§ Palavra.
+§ Palavra
+
 Uma palavra fonologica é composta por uma ou mais moras quaisquer em qualquer
 combinação.  Palavras também podem ser interpretadas como sendo compostas por
 sílabas em vez de moras.  A acentuação de uma palavra (a ênfase relativa na
 pronúncia das sílabas) depende, obviamente, de sua estrutura silábica.
+{
+	Palavra (ω) := μ⁺
+}
 
-│ Palavra (ω) := μ⁺
-
-Sílaba.
+.Sílaba.
 Sílabas são unidades fonéticas que determinam a acentuação de uma palavra.
 Uma sílaba compreende de uma a três moras, onde apenas a primeira mora é
 iniciada por consoante, as moras seguintes são formadas apenas por vogais.
@@ -55,13 +60,15 @@ sílaba são os seguintes.
 • Núcleo ditongo longo: Mesmo que um núcleo ditongo curto, mas com a primeira
                       vogal longa.
 
-│ Silaba (ς):= [C]a[a][eoiu]
-│            | [C]e[e][oiu]
-│            | [C]o[o][eiu]
-│            | [C]i[i][u]
-│            | [C]u[u][i]
+{
+	Silaba (ς):= [C]a[a][eoiu]
+	           | [C]e[e][oiu]
+	           | [C]o[o][eiu]
+	           | [C]i[i][u]
+	           | [C]u[u][i]
+}
 
-Acento léxico.
+.Acento léxico.
 Māori é uma língua cujo acento léxico (isto é, a ênfase relativa das sílabas
 numa palavra isolada, fora de uma frase) é variável porém previsível.  Isso
 significa que o a sílaba acentuada de uma palavra é determinada por regras.
@@ -75,77 +82,80 @@ uma das sílabas que contêm as quatro moras anteriores às qutro últimas moras
 sétima ou oitava mora, contando desde o fim da palavra).  O acento primario
 ocorre sempre após o secundario.
 
-EXEMPLO.
 Por exemplo, a palavra "kaumātua" (velho, envelhecer) é formada 6 moras
 (ka-u-ma-a-tu-a) e por 4 sílabas (kau-maa-tu-a).
 
-│ Camada morfofonética: k a u m a a t u a
-│                       │╱  │  ╲│ │ │╱  │
-│ Camada moraica:       ka  u  ma a tu  a
-│                        ╲ ╱    ╲╱  │   │
-│ Camada silábica:       kau   maa  tu  a
-│                          ╲    ╱   ╱  ╱
-│ Camada fonêmica         /kau̯'maː.tu.a/
+{
+	Camada morfofonética: k a u m a a t u a
+	                      │╱  │  ╲│ │ │╱  │
+	Camada moraica:       ka  u  ma a tu  a
+	                       ╲ ╱    ╲╱  │   │
+	Camada silábica:       kau   maa  tu  a
+	                         ╲    ╱   ╱  ╱
+	Camada fonêmica         /kau̯'maː.tu.a/
+}
 
-EXEMPLO.
 A seguir, estão algumas palavras escritas segundo sua ortografia padrão;
 seguidas de suas respectivas divisões silábicas com as sílaba acentuadas
 em maiúsculo.  O acento primário ocorre sempre após o secundário; portanto,
 se uma palavra tiver duas sílabas em maiúsculo, a última delas é aquela com
 acento primário.
-• Kāpene (capitão):                  “KĀ-pe-ne”,          /ˈkaː.pe.ne/.
-• Kaumātua (velho, envelhecer):      “KAU-MĀ-tu-a”,       /ˌkau̯ˈmaːtu.a/.
-• Karauria (Claudia):                “KA-RAU-ri-a”,       /kaˈɾau̯.ɾi.a/.
-• Waiata (canto, cantar):            “WAI-a-ta”,          /ˈwai̯.a.ta/.
-• Tauranga (porto):                  “TAU-ra-nga”,        /ˈtau̯.ɾa.ŋa/.
-• Kanikani (dança, dançar):          “KA-ni-ka-ni”,       /ˈka.ni.ka.ni/.
-• Tangata (pessoa):                  “TA-nga-ta”,         /ˈta.ŋa.ta/.
-• Tāngata (pessoas):                 “TĀ-nga-ta”,         /ˈtaː.ŋa.ta/.
-• Marae (hospitaleiro, marae):       “MA-rae”,            /ˈma.ɾae̯/.
-• Temepara (templo):                 “TE-me-pa-ra”,       /ˈte.me.pa.ɾa/.
-• Wikitōria (vitória):               “WI-ki-TŌ-ri-a”,     /ˌwi.kiˈtoː.ɾi.a/.
-• Karaitiana (cristão, ser cristão): “ka-RAI-ti-A-na”,    /kaˌɾai̯.tiˈa.na/.
-• Kāramuramu (espremer com as mãos): “KĀ-RA-mu-ra-mu”,    /ˌkaːˈɾa.mu.ɾa.mu/.
-• Kohimaramara (Bastion Rock, NZ):   “KO-hi-MA-ra-ma-ra”, /ˌko.hiˈma.ɾa.ma.ɾa/.
-• Papā (batuque, batucar):           “PA-PĀ”,             /paˈpaː/.
-• Matā (obsidiana):                  “MA-TĀ”,             /maˈtaː/.
-• Pākehā (inglês, gringo):           “PĀ-ke-HĀ”,          /ˈpaːke.haː/.
-• Tamaiti (criança, garoto):         “ta-MAI-ti”,         /taˈmai̯.ti/.
-• Hauturu (Little Barrier Island):   “HAU-tu-ru”,         /ˈhau̯.tu.ɾu/.
-• Wahine (mulher, esposa):           “WA-hi-ne”,          /ˈwa.hi.ne/.
-• Wāhine (mulheres, esposas):        “WĀ-hi-ne”,          /ˈwaː.hi.ne/.
-• Tamariki (crianças):               “TA-ma-ri-ki”,       /ˈta.ma.ɾi.ki/.
-• Tūmatauenga (nome pessoal maori):  “TŪ-ma-TAU-e-nga”,   /ˌtuː.maˈtau̯.e.ŋa/.
-• Tūrangawaewae (lar por direito):   “TŪ-ra-nga-WAE-wae”, /ˌtuː.ɾa.ŋaˈwae̯.wae̯/.
+• Kāpene (capitão):                  “KĀ-pe-ne”,          `/ˈkaː.pe.ne/``.
+• Kaumātua (velho, envelhecer):      “KAU-MĀ-tu-a”,       `/ˌkau̯ˈmaːtu.a/`.
+• Karauria (Claudia):                “KA-RAU-ri-a”,       `/kaˈɾau̯.ɾi.a/`.
+• Waiata (canto, cantar):            “WAI-a-ta”,          `/ˈwai̯.a.ta/`.
+• Tauranga (porto):                  “TAU-ra-nga”,        `/ˈtau̯.ɾa.ŋa/`.
+• Kanikani (dança, dançar):          “KA-ni-ka-ni”,       `/ˈka.ni.ka.ni/`.
+• Tangata (pessoa):                  “TA-nga-ta”,         `/ˈta.ŋa.ta/`.
+• Tāngata (pessoas):                 “TĀ-nga-ta”,         `/ˈtaː.ŋa.ta/`.
+• Marae (hospitaleiro, marae):       “MA-rae”,            `/ˈma.ɾae̯/`.
+• Temepara (templo):                 “TE-me-pa-ra”,       `/ˈte.me.pa.ɾa/`.
+• Wikitōria (vitória):               “WI-ki-TŌ-ri-a”,     `/ˌwi.kiˈtoː.ɾi.a/`.
+• Karaitiana (cristão, ser cristão): “ka-RAI-ti-A-na”,    `/kaˌɾai̯.tiˈa.na/`.
+• Kāramuramu (espremer com as mãos): “KĀ-RA-mu-ra-mu”,    `/ˌkaːˈɾa.mu.ɾa.mu/`.
+• Kohimaramara (Bastion Rock, NZ):   “KO-hi-MA-ra-ma-ra”, `/ˌko.hiˈma.ɾa.ma.ɾa/`.
+• Papā (batuque, batucar):           “PA-PĀ”,             `/paˈpaː/`.
+• Matā (obsidiana):                  “MA-TĀ”,             `/maˈtaː/`.
+• Pākehā (inglês, gringo):           “PĀ-ke-HĀ”,          `/ˈpaːke.haː/`.
+• Tamaiti (criança, garoto):         “ta-MAI-ti”,         `/taˈmai̯.ti/`.
+• Hauturu (Little Barrier Island):   “HAU-tu-ru”,         `/ˈhau̯.tu.ɾu/`.
+• Wahine (mulher, esposa):           “WA-hi-ne”,          `/ˈwa.hi.ne/`.
+• Wāhine (mulheres, esposas):        “WĀ-hi-ne”,          `/ˈwaː.hi.ne/`.
+• Tamariki (crianças):               “TA-ma-ri-ki”,       `/ˈta.ma.ɾi.ki/`.
+• Tūmatauenga (nome pessoal maori):  “TŪ-ma-TAU-e-nga”,   `/ˌtuː.maˈtau̯.e.ŋa/`.
+• Tūrangawaewae (lar por direito):   “TŪ-ra-nga-WAE-wae”, `/ˌtuː.ɾa.ŋaˈwae̯.wae̯/`.
 
 
-§ Prosódia.
+§ Prosódia
+
 Unidade prosódia é uma unidade fonológica composta por uma ou mais palavras,
 e que corresponde aproximadamente a um constituinte sintático (sintagma).
 Geralmente, os falantes de maori não pronunciam cada palavra separadamente;
 eles pronunciam palavras continuamente com pausas no fim de cada unidade
 prosódica.  Uma unidade prosódica possui padrões de intonação indicado pelo
 acento prosódico.
+{
+	Prosodia (ι) := /ω⁺/
+}
 
-│ Prosodia (ι) := /ω⁺/
-
-Acento prosódico.
+.Acento prosódico.
 O acento prosódico é o pico de entonação que soa como o ponto mais proeminente
 da unidade prosódica.  Quando um falante de maori fala uma frase, os acentos
 léxicos das palavras são ignorados, e cada unidade prosódica é falada como se
 fosse uma única palavra, na qual o acento prosódico é relevante.  O acento
 prosódico é determinado segundo as seguintes regras.
 • Em unidades prosódicas no fim de um enunciado, o acento prosódico é
-determinado pelas mesmas regras do acento léxico, ignorando os limites
-entre palavras.
+  determinado pelas mesmas regras do acento léxico, ignorando os limites
+  entre palavras.
 • Nas unidades prosódicas anteriores, o acento prosódico cai na última sílaba
-bimoraica ou trimoraica.
+  bimoraica ou trimoraica.
 • Unidades prosódicas formadas unicamente por um pronome pessoal singular não
-possuem acento prosódico; e são clitizadas à unidade prosódica anterior (ou
-seja, anexado à unidade anterior).  Por exemplo, a frase "E pai ana au." se
-pronuncia /eˈpai.a.na.au/ em vez de /eˈpai.a.naˈau/).
+  possuem acento prosódico; e são clitizadas à unidade prosódica
+  anterior (ou seja, anexado à unidade anterior).  Por exemplo, a frase
+  "E pai ana au." se pronuncia /eˈpai.a.na.au/ em vez de
+  /eˈpai.a.naˈau/).
 
-Preenchimento rítmico.
+.Preenchimento rítmico.
 Bases deve ter no mínimo duas moras, e uma prosódia deve ter no mínimo três.
 Prosódia com duas moras são geralmente constituintes sem um marcador (como
 predicados imperativos e vocativos).  Caso uma prosódia tenha menos de três
@@ -154,45 +164,48 @@ estrutura rítmica da língua.  Há porém a exceção de que uma prosódia form
 unicamente por um pronome pessoal pode ter menos de três moras e não precisa
 usar a partícula “e”, quando fonologicamente considerados clíticos.
 • “E tū!” (Levante-se!) usa a partícula “e” para preservar o rítmo prosódico,
-enquanto que “Haere!” (Vá!) não usa.
+  enquanto que “Haere!” (Vá!) não usa.
 • Em “Whakapaitia te tēpu, e Mere!” (Arrume a mesa, Maria!), o vocativo “e
-Mere” usa a partícula “e”; mas em “Tangohia ō hū, Reweti!” (Tire os sapatos,
-David!), o vocativo “Reweti” não usa.
+  Mere” usa a partícula “e”; mas em “Tangohia ō hū, Reweti!” (Tire os sapatos,
+  David!), o vocativo “Reweti” não usa.
 • “E kake!” (Suba!) usa a partícula “e”, mas “Kake mai!” (Suba aqui!) não usa.
-Geralmente marcadores pós-postos contam como parte de uma base.
+  Geralmente marcadores pós-postos contam como parte de uma base.
 • Em “E oho koe!” (Acorde, você!), o vocativo “koe” não usa a partícula “e”
-apesar de ter duas moras, pois é clítico ao verbo (note a ausência da
-vírgula).  Porém, pode-se também dizer “E oho, e koe”, em que o vocativo não
-é clítico; isto é normalmente usado para enfatizar o vocativo, por exemplo
-no caso em que o ouvinte não está prestando atenção.
+  apesar de ter duas moras, pois é clítico ao verbo (note a ausência da
+  vírgula).  Porém, pode-se também dizer “E oho, e koe”, em que o
+  vocativo não é clítico; isto é normalmente usado para enfatizar o
+  vocativo, por exemplo no caso em que o ouvinte não está prestando
+  atenção.
 
-Alterações na pronúncia de um enunciado.
+.Alterações na pronúncia de um enunciado.
 Se a primeira palavra de uma prosódia for átona e composta somente por uma
 mora (normalmente um determinante, marcador ou preposição, como “a” e “ka”)
 e se o restante da prosódia tiver duas moras ou menos, então essa palavra é
 pronunciada longa e recebe o acento prosódico.
-• “ka pai” é pronunciado ‘/ˈkaː.pai̯/’ em vez de ‘/kaˈpai̯/’.
-• “a koe” é pronunciado ‘/ˈaː.koe̯/’ em vez de ‘/aˈkoe̯/’.
+• “ka pai” é pronunciado `/ˈkaː.pai̯/` em vez de `/kaˈpai̯/`.
+• “a koe” é pronunciado `/ˈaː.koe̯/` em vez de `/aˈkoe̯/`.
 
-Pronúncia de “au”.
-O pronome pessoal “au” é geralmente pronunciado ‘/wau/’ após vogais posteriores
-(‘/o, u/’).  Essa pronúncia não é indicada na ortografia.
+.Pronúncia de “au”.
+O pronome pessoal “au” é geralmente pronunciado `/wau/` após vogais posteriores
+(`/o, u/`).  Essa pronúncia não é indicada na ortografia.
 
-Exemplo.  A pausa prosodica é indicada por um /|/.
-• Ko te rangatira o tēnei marae:     /kotelaŋa'tila|otee̯nei̯'malae̯||/.
-• Ko te marae o tēnei rangatira:     /kotee̯nei̯ma'lae̯|ote'laŋatila||/.
-• He ātāhua te marae o te kāinga:    /heaa̯taa̯'hua|temalaeote'kaa̯i̯ŋa||/.
-• Ko te marae o te kāinga he ātāhua: /kotemalaeote'kaa̯i̯ŋa|heaa̯'taa̯hua||/.
-• Haere mai ki te whare:             /hae̯re'mai̯|kite'fale||/.
-• Kei hea tō kāinga:                 /'kei̯hea|too̯'kaa̯i̯ŋa||/.
-• Kei Ākarana tōku kāinga:           /kei̯aa̯ka'lana|too̯ku'kaa̯i̯ŋa||/.
+.Exemplo.
+A pausa prosodica é indicada por um /|/.
+• Ko te rangatira o tēnei marae:     `/kotelaŋa'tila|otee̯nei̯'malae̯||/`.
+• Ko te marae o tēnei rangatira:     `/kotee̯nei̯ma'lae̯|ote'laŋatila||/`.
+• He ātāhua te marae o te kāinga:    `/heaa̯taa̯'hua|temalaeote'kaa̯i̯ŋa||/`.
+• Ko te marae o te kāinga he ātāhua: `/kotemalaeote'kaa̯i̯ŋa|heaa̯'taa̯hua||/`.
+• Haere mai ki te whare:             `/hae̯re'mai̯|kite'fale||/`.
+• Kei hea tō kāinga:                 `/'kei̯hea|too̯'kaa̯i̯ŋa||/`.
+• Kei Ākarana tōku kāinga:           `/kei̯aa̯ka'lana|too̯ku'kaa̯i̯ŋa||/`.
 
 
-§ Enunciado.
+§ Enunciado
+
 Enunciado é uma frase fonológica completa composta por uma ou mais unidades
 prosódicas.  Cada unidade prosódica é encerrada por uma pausa, representada
-pelo símbolo ‘|’; e a pausa da unidade prosódica que encerra um enunciado é
-representada pelo símbolo ‘||’.
+pelo símbolo `|`; e a pausa da unidade prosódica que encerra um enunciado é
+representada pelo símbolo `||`.
 
 Alterações na pronúncia de um enunciado.
 Se a última palavra de um enunciado for uma monossílaba átona composta somente
@@ -200,31 +213,33 @@ por uma vogal longa (normalmente um modificador, como “rā” ou “nā”), t
 palavra é pronunciada curta.  A ortografia porém é invariável.
 
 Exemplos.
-• “He kererū ngā manu rā.” :  /he.ke.ɾeˈɾuː|ŋaːˈma.nu.ra/
-• “Haere mai ki te whare.”:   /ha.e̯.ɾeˈmai̯|ki.teˈfa.ɾe||/
-• “Kei hea tō kāinga.”:       /ˈkei̯sea|too̯ˈkaa̯i̯ŋa||/
-• “Ka pai te whare nei.”:     /kaˈpai̯|teˈfalenei̯||/
-• “Kei Ākarana tōku kāinga.”: /kei̯aa̯ka'lana|too̯ku''kaa̯i̯ŋa/
+• “He kererū ngā manu rā.” :  `/he.ke.ɾeˈɾuː|ŋaːˈma.nu.ra/`
+• “Haere mai ki te whare.”:   `/ha.e̯.ɾeˈmai̯|ki.teˈfa.ɾe||/`
+• “Kei hea tō kāinga.”:       `/ˈkei̯sea|too̯ˈkaa̯i̯ŋa||/`
+• “Ka pai te whare nei.”:     `/kaˈpai̯|teˈfalenei̯||/`
+• “Kei Ākarana tōku kāinga.”: `/kei̯aa̯ka'lana|too̯ku''kaa̯i̯ŋa/`
 
 
-§ Realização.
+§ Realização
 
 A tabela seguinte mostra como cada fonema é realizado na fala e na escrita.
-Fonema	Realização fonética	Realização ortográfica
-/p/		[p ~ b]			⟨p⟩
-/t/		[t ~ d]			⟨t⟩
-/k/		[k ~ g]			⟨k⟩
-/f/		[f ~ hʷ ~ ʍ]		⟨wh⟩
-/h/		[h ~ x ~ ç]		⟨h⟩
-/n/		[n]			⟨n⟩
-/m/		[m]			⟨m⟩
-/ŋ/		[ŋ]			⟨ng⟩
-/ɾ/		[ɾ ~ l]			⟨r⟩
-/w/		[w]			⟨w⟩
-/a/		[a ~ ɐ]			⟨a⟩
-/e/		[e]			⟨e⟩
-/i/		[i]			⟨i⟩
-/o/		[o]			⟨o⟩
-/u/		[u]			⟨u⟩
 
-
+┌─────────────┬───────────────────────┬────────────────────────┐
+│ Fonema      │ Realização fonética   │ Realização ortográfica │
+├─────────────┼───────────────────────┼────────────────────────┤
+│ `/p/`       │ `[p ~ b]`             │ `⟨p⟩`                  │
+│ `/t/`       │ `[t ~ d]`             │ `⟨t⟩`                  │
+│ `/k/`       │ `[k ~ g]`             │ `⟨k⟩`                  │
+│ `/f/`       │ `[f ~ hʷ ~ ʍ]`        │ `⟨wh⟩`                 │
+│ `/h/`       │ `[h ~ x ~ ç]`         │ `⟨h⟩`                  │
+│ `/n/`       │ `[n]`                 │ `⟨n⟩`                  │
+│ `/m/`       │ `[m]`                 │ `⟨m⟩`                  │
+│ `/ŋ/`       │ `[ŋ]`                 │ `⟨ng⟩`                 │
+│ `/ɾ/`       │ `[ɾ ~ l]`             │ `⟨r⟩`                  │
+│ `/w/`       │ `[w]`                 │ `⟨w⟩`                  │
+│ `/a/`       │ `[a ~ ɐ]`             │ `⟨a⟩`                  │
+│ `/e/`       │ `[e]`                 │ `⟨e⟩`                  │
+│ `/i/`       │ `[i]`                 │ `⟨i⟩`                  │
+│ `/o/`       │ `[o]`                 │ `⟨o⟩`                  │
+│ `/u/`       │ `[u]`                 │ `⟨u⟩`                  │
+└─────────────┴───────────────────────┴────────────────────────┘
