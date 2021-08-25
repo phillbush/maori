@@ -1,8 +1,13 @@
-                              TE REO MĀORI
+                         TE REO MĀORI: Sintaxe
 
-Māori é uma língua de núcleo inicial.
-A base principal ocorre antes da base que a modifica.
-• “He pukapulka reo Māori” (Um livro de língua Māori).
+Māori é uma língua de núcleo inicial.  A base principal ocorre antes
+da base que a modifica, e determinantes ocorrem antes da base.  Por
+exemplo, em “he pukapuka reo Māori” (Um livro de língua Māori) temos
+o determinante “he” seguido da base “pukapuka” (livro) e seus
+modificadores “reo Māori” (língua Māori).
+
+Māori segue normalmente a ordem VSO (verbo-sujeito-objeto).  A ordem
+porém pode ser SVO em orações negadas ou com sujeito evidenciado.
 
 Diferente de muitas linguas polinésias, que são ergativas, Māori é uma
 língua acusativa.  Sujeitos de predicados transitivos e intransitivos
@@ -12,30 +17,31 @@ marcados com uma preposição.
 
 § Predicados
 
-Predicados são negadas usando um conjunto de “verbos negativos”.
-Um verbo negativo forma o predicado da oração negativa,
-e o verbo positivo forma uma oração subordinada
-(cujo objeto passa a ser do predicado negativo);
-ou um sujeito do predicado negativo mais um adjunto preposicional.
-Qual verbo negativo é usado e o que se torna a oração positiva quando
-negada depende da natureza e marcação do predicado na forma positiva.
+Predicado é o constituinte verbal ou predicativo de uma oração.
+Como todo constituinte, um predicado é composto por uma base, seus
+modificadores e as partículas que a cerca.
+
+Predicados são negadas usando um conjunto de verbos negativos.  Quando
+uma oração positiva é transformada em negativa, um verbo negativo forma
+o predicado da oração negativa; o predicado original forma uma oração
+suboridnada; o sujeito e objetos da oração positiva original passam a
+ser da oração negativa.  Qual verbo negativo é usado e o que se torna
+a oração positiva quando negada depende da natureza e marcação do
+predicado na forma positiva.
 
 §§ Predicado verbal
 
 Predicados verbais são predicados formados por um constituinte verbal,
-precedido por um preverbo.
-
-Exemplos.
+normalmente marcado por um preverbo.
 • “E tangi ana te tamaiti” (A criança está chorando).
 • “Kua mate te koroua” (O senhor morreu).
 
-O verbo negativo “kāore” é usado para predicados indicativos,
-normalmente seguido pelo sujeito da oração positiva e pelo predicado
-verbal.  Em alguns casos, o tempo/aspecto da oração negativa difere
-do da oração positiva.
-• “E haere ana ia” (ele está indo)      → “Kāore ia e haere ana”
-• “I haere ia” (ele ia)                 → “Kāore ia i haere”
-• “Kua haere ia” (ele foi)              → “Kāore anō ia kia haere” (ele ainda não foi).
+O verbo negativo “kāore” é usado para predicados indicativos.  Em alguns
+casos, o tempo/aspecto da oração negativa difere do da oração positiva.
+• “E haere ana ia” (ele está indo) → “Kāore ia e haere ana” (ele não
+  está indo).
+• “I haere ia” (ele ia) → “Kāore ia i haere” (ele não ia).
+• “Kua haere ia” (ele foi) → “Kāore anō ia kia haere” (ele ainda não foi).
   Note que o preverbo “kua” é substituído por “kia”
 
 Para expressar futuro, há o negativo especial “kore”.
@@ -44,190 +50,129 @@ Para expressar futuro, há o negativo especial “kore”.
 
 §§ Predicado indefinido nominal
 
-Predicado indefinido nominal é formado pelo determinante indefinido “he” mais um nome.
-Tem o sentido de “Sujeito é um …”.
-
-Exemplo.
+Predicados indefinidos nominais são predicados nominais formado por um
+nome predicativo marcado pelo artigo indefinido “he”.  Tem o sentido de
+“Sujeito é um …”.
 • “He kaiwhakaako a Mere” (Mere é uma professora).
 
 A negação de um predicado indefinido nominal é construído por meio do
 verbo negativo “ehara”, após o qual o predicado original é marcado como
 oblíquo com a locução preposicional “i te”.
-
-Exemplo.
-• “He tohunga ia” (Ele é um expert)     → “Ehara ia i te tohunga”.
+• “He tohunga ia” (Ele é um expert) → “Ehara ia i te tohunga” (ele não é
+  um expert).
 
 
 §§ Predicado indefinido adjetivo
 
-Predicado indefinido adjetivo é formado pelo determinante indefinido “he” mais um adjetivo.
-Tem o sentido de “Sujeito é …”.
+Predicados indefinidos adjetivos são predicados nominais formados por um
+adjetivo predicativo marcado pelo artigo indefinido “he”.  Tem o sentido
+de “Sujeito é …”.
+• “He reka ēnei kai” (Estas comidas estão deliciosas).
 
-“
-	He reka ēnei kai
-	(Estas comidas estão deliciosas)
-”
-
-
-A negação de um predicado indefinido adjetivo é feito usando o padrão de predicados verbais.
-
-“
-	He  tika  tēnā kōrero       →   Kāore tēna kōrero e   tika  ana
-	DET certo DET  fala             NEG   DET  fala   T/A certo T/A
-	(O que dizes está certo)        (O que dizes não está certo)
-”
+A negação de um predicado indefinido adjetivo é feito usando o padrão de
+predicados verbais.
+• “He reka ēnei kai” → “Kāore ēnei kai e reka ana.” (Estas comidas não
+  estão deliciosas).
 
 
 §§ Predicado indefinido possessivo
 
-Predicado indefinido possessivo é formado pelo determinante indefinido “he” mais um nome;
-e tem como sujeito um determinante possessivo.
-Tem o sentido de “Sujeito tem …”.
-
-“
-	He moni āu? (Você tem algum dinheiro?).
-	He waka tō Rei (Rei tem um carro).
-”
+Predicados indefinidos possessivos são predicados nominais formado por
+um nome marcado pelo artigo indefinido “he”, e tem como sujeito um
+possessivo.  Tem o sentido de “Sujeito tem …”.
+• “He moni āu?” (“Você têm dinheiro?”).
+• “He waka tō Rei” (“Rei tem um carro”).
 
 Há dois padrões de negação de um predicado indefinido possessivo,
-dependendo se o possessor é um pronome pessoal ou um nome pessoal completo.
-Ambos os padrões usam “kāore” como verbo negativo.
-• No caso de um nome pessoal completo como sujeito, o “he + NOME” é mantido,
-  e seguido pelo predicado da posse.
-• No caso de um pronome pessoal como sujeito, o “he” substituído pelo sujeito.
-
-“
-	He  moni    ā  Hēmi.          → Kāore he  moni     a    Hēmi
-	DET dineiro de Hemi           → NEG   DET dinheiro PREP Hemi
-	(Hemi tem algum dinheiro)     → (Hemi não tem dinheiro)
-
-	He  moni     aku              → Kāore āku moni.
-	DET dinheiro meu              → NEG   meu dinheiro
-	(Eu tenho algum dinheiro)     → (Eu não tenho dinheiro).
-”
-
+dependendo de o sujeito ser um pronome pessoal ou um nome pessoal
+completo.  Ambos os padrões usam “kāore” como verbo negativo.  No
+caso de um nome pessoal completo como sujeito, o “he + NOME” é mantido,
+e seguido pelo predicado da posse.  No caso de um pronome pessoal como
+sujeito, o “he” substituído pelo sujeito.
+• “He moni ā Hēmi” (“Hemi tem dinheiro”) → “Kāore he moni a Hēmi” (“Hēmi
+  não tem dinheiro”).
+• “He moni āku” (“Eu tenho dinheiro”) → “Kāore āku moni” (“Eu não tenho
+  dinheiro”).
 
 
 §§ Predicado equativo
 
-Predicado nominal equativo é marcado pela preposição “ko”.
-Tem o sentido de “A é B”.
+Um predicado equativo é um predicado nominal marcado pela preposição
+“ko”.  Tem o sentido de “A é B”.
 • “Ko Rei tōku ingoa” (Meu nome é Rei).
 
-Predicados equativos são negados da mesma forma que predicados indefinidos nominais,
-usando “ehara”.
-
-“
-	Ko   te  Pirīmia  tēnei       → Ehara tēnei i    te  pirīmia
-	PREP DET ministro este        → NEG   este  PREP DET ministro
-	Este é o primeiro ministro    → Este é o primeiro ministro.
-”
+Predicados equativos são negados da mesma forma que predicados
+indefinidos nominais, usando “ehara”.
+• “Ko te Pirīmia tēnei” (“Este é o primeiro ministro”) → “Ehara tēnei i
+  te pirīmia” (Este não é o primeiro ministro).
 
 
 §§ Predicado locativo
 
-Predicados locativos, marcados por “i”, “kei” e “hei”, indicam
-localidade ou posse nos tempo pretérito, impretérito e futuro,
-respectivamente.
+Predicados locativos são predicados nominais marcados por uma das
+preposições locativas “i”, “kei” e “hei”; e indica localidade ou
+posse nos tempo pretérito, impretérito e futuro, respectivamente.
 “Hei” é opcional, já que “kei” pode sempre ser usado para futuro.
-• “I konei rāua i nanahi.” (Eles dois estiveram aqui ontem).
-• “Kei Pōneke ia” (Ela está em Wellington).
-• “Kei a koe” (Está com você/é sua vez).
+• “I konei rāua i nanahi.” (“Eles dois estiveram aqui ontem”).
+• “Kei Pōneke ia” (“Ela está em Wellington”).
+• “Kei a koe” (“Está com você/é sua vez”).
 
-Predicados locativos com “kei” e “i” são negados com “kāore”;
-e o predicado original transformado em oblíquo marcado com “i”.
-
-“
-	I    konei rāua  i    nanahi  → Kāore rāua  i    konei i    nanahi
-	PREP aqui  eles2 PREP ontem   → NEG   eles2 PREP aqui  PREP ontem
-	Eles dois estavam aqui ontem  → Eles dois não estavam aqui ontem.
-
-	Kei  Pōneke     ia      → Kāore ia  i    Pōneke
-	PREP Wellington ele     → NEG   ele PREP Wellington
-	Ele está em Wellington  → Ele não está em Wellington
-”
+Predicados locativos com “kei” e “i” são negados com “kāore”; e o
+predicado original transformado em oblíquo marcado com “i”.
+• “I konei rāua i nanahi” (“Eles dois estavam aqui ontem”) →
+  “Kāore rāua i konei i nanahi” (“Eles doi não estavam aqui ontem”).
+• “Kei Pōneke ia” (“Ele está em Wellington”) → “Kāore ia i Pōneke”
+  (Ele não está em Wellington).
 
 §§ Predicado causativo/benefactivo
 
-Predicados causativos e benefactivos são marcados por “nā/nō” e “mā/mō”;
-e são usados para indicar posseção atual e prospectiva, respectivamente.
-
-Exemplos.
-• “Nā wai tēnei pukapuka?” (Este livro é de quem?).
-• “Nō Hēmi tērā whare.” (Esta casa é de Hemio).
-• “Mō rātu tēnā waka” (Este carro é para eles).
+Predicados causativos e benefactivos são predicados nominais marcados
+por “nā/nō” e “mā/mō”; e são normalmente usados para indicar posseção
+atual e prospectiva, respectivamente.
+• “Nā wai tēnei pukapuka?” (“Este livro é de quem?”).
+• “Nō Hēmi tērā whare.” (“Esta casa é de Hemi”).
+• “Mō rātu tēnā waka” (“Este carro é para eles”).
 
 Predicados causativos e benefactivos são negados usando “ehara”.
-“Nā/nō” é normalmente trocado pela preposição “i”, apesar de poder ser opcionalmente mantido.
-“Mā/mō” é mantido na negação.
-
-“
-	Nō   Hēmi tērā   whare  → Ehara tērā   whare i    a   Hēmi
-	PREP Hemi aquela casa   → NEG   aquela casa  PREP DET Hemi
-	Aquela casa é do Hemi   → Aquela casa não é a do Hemi.
-
-	Mō   rātou tēnā waka    → Ehara mō   rātou tēnā waka
-	PREP eles  esse carro   → NEG   PREP eles  esse carro
-	Esse carro é para eles  → Esse carro não é para eles.
-”
+“Nā/nō” é normalmente trocado pela preposição “i”, apesar de poder
+ser opcionalmente mantido.  “Mā/mō” é mantido na negação.
+• “Nō Hēmi tērā whare” (Aquela casa é do Hemi) → “Ehara tērā whare i a
+  Hēmi” (Aquela casa não é a do Hemi).
+• “Mō rātou tēnā waka” → “Ehara mō rātou tēnā waka”.
 
 
-§§ Negação de constituintes
 
-Negação de constituintes simples é expressa por “kaua”.
-
-“
-	Nō   te  Mane    ia  i    tae    mai  ai, kaua i    te  Tūrei.
-	PREP DET Segunda ele PREV chegar aqui já, NEG  PREP DET Terça.
-	Foi segunda que ela chegou, não na Terça.
-”
-
-
-§ Oblíquos
+§ Complementos
 
 §§ Objetos
 
-Objetos de verbos dinâmicos transitivos são marcados por “i”.
+Predicados verbais com verbos dinâmicos transitivos requerem objetos
+diretos marcados pela preposição causativa “i”.
+• “Kei te tuhi au i tāku reta ki a ia” (Eu estou escrevendo minha carta
+  para ele).
 
-“
-	Kei  te  tuhi     au i    tāku reta  ki   a   ia.
-	PREP DET escrever eu PREP meu  carta PREP DET ele
-	Eu estou escrevendo minha carta para ele.
-”
+Predicados verbais com verbos dinâmicos ambitransitivos requerem um
+objeto direto marcado pela preposição causativa “i”, e um objeto
+indireto marcado pela preposição final “ki”.  O objeto indireto pode
+às vezes ser marcado por uma preposição benefactiva “mā/mō”.  O objeto
+direto normalmente ocorre antes do objeto indireto.
+• “I whakaatu ia i āna pukapuka ki ōna hoa” (“Ele mostrou seus livros
+  para seus amigos”).
 
-Verbos dinâmicos bitransitivos têm o objeto direto marcado por “i”,
-e o objeto indireto marcado por “ki”.
-O objeto indireto é às vezes marcado como benefactivo por “mā/mō”.
-O objeto direto normalmente ocorre antes do objeto indireto.
+Predicados verbais com verbos médios normalmente requerem objeto marcado
+pela preposição final “ki”.  Exceto “kite” (ver) e “rongo” (ouvir), que
+têm objeto marcado por “i”.
+• “Kei te pīrangi au ki tēnā pukapuka” (“Eu estou querendo esse livro”).
 
-“
-	I    whakaatu ia  i    āna  pukapuka ki   ōna  hoa.
-	PREV mostrar  ele PREP seus livro    PREP seus amigo.
-	Ele mostrou seus livros para seus amigos.
-”
-
-A maioria dos verbos médios têm objeto marcado por “ki”.
-Exceto “kite” (ver) e “rongo” (ouvir), que têm objeto marcado por “i”.
-
-“
-	Kei  te  pīrangi au ki   tēnā pukapuka.
-	PREP DET querer  eu PREP esse livro.
-	Eu estou querendo esse livro.
-”
-
-Objetos em proposições ativas devem ser definidos,
-pois o artigo indefinido “he” é incompatível com preposições.
-Objetos indefinidos são portanto realizados ou na passiva, ou via incorporação de objeto.
-O exemplo abaixo traduz “Eles estão procurando uma casa” usando incorporação de objeto.
-
-“
-	Kei  te  kimi     whare rātou
-	PREP DET procurar casa  eles
-	Eles estão procurando uma casa.
-”
+Note que objetos não podem ser indefinidos pelo artigo indefinido “he”,
+pois esse artigo é incompatível com preposições.  Objetos indefinidos
+são portanto realizados ou na forma passiva da oração, ou via
+incorporação de objeto.
+• “Kei te kimi whare rātou” (“Eles estão procurando uma casa”), exemplo
+  de objeto indefinido usando incorporação de objeto.
 
 
-§§ Complementos não-objetos
+§§ Oblíquos
 
 Muitos adjetivos, especialmente aqueles expressando similaridade, exigem complemento oblíquo.
 O complemento é normalmente marcado pela preposição “i” ou “ki”.
@@ -277,7 +222,7 @@ Alguns nomes comuns também requerem complementos com “ki”.
 ”
 
 
-§§ Adjuntos
+§ Adjuntos
 
 Adjuntos adnominais são normalmente complementos marcados com “a/o”.
 

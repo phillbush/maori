@@ -1,4 +1,4 @@
-SRCS = 0intro.txt 1morfofonetica.txt 2morfologia.txt 3sintaxe.txt 4vocabulario.txt
+SRCS = 0intro.txt 1fonetica.txt 2morfologia.txt 3sintaxe.txt 4vocabulario.txt
 DOCS = ${SRCS:.txt=.pdf}
 
 .SUFFIXES: .txt .ms .ps .pdf .html

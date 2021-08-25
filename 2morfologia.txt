@@ -23,8 +23,7 @@ Há dois grupos de categorias léxicas: as bases e as partículas.  Bases
 núcleo de um constituinte; incluem nomes e verbos.  Partículas (“kupu
 punga”) são palavras que expressam relações gramaticais ou delimitam o
 sentido de bases; incluem determinantes, modificadores, preverbos,
-preposições e genitivadores.  Seguem a seguir as categorias léxicas
-da língua Māori.
+preposições e genitivadores.
 
 § Nomes (tūingoa)
 
@@ -32,7 +31,7 @@ Nome é uma categoria de palavras que não podem ser usadas como núcleo de
 constituintes verbais.  Nomes são classificados em três subcategorias
 (comuns, locativos e pessoais) quanto a se ocorrem após o artigo próprio
 “a”.  Há ainda dois tipos de pronomes, os pronomes pessoais (que são,
-semanticamente, um tipo de nome pessoal) e os pronomes determinantes.
+semanticamente, um tipo de nome pessoal) e os pronomes determinados.
 A tabela a seguir mostra quais determinantes são disponíveis para cada
 tipo de nome dependendo da preposição após a qual ocorre (após nenhuma
 preposição (∅), após preposição locativa, ou após outra preposição)
@@ -40,7 +39,7 @@ preposição (∅), após preposição locativa, ou após outra preposição)
 ┌─────────────┬───────────────────────┬───────────────────────┬───────────────────────┐
 │ Nome        │ Determinante após ∅   │ Após prep' locativa   │ Após outra preposição │
 ╞═════════════╪═══════════════════════╪═══════════════════════╪═══════════════════════╡
-│ Comum       │ Qualquer um menos “a” │ Qualquer um menos “a” │ Qualquer um menos “a” │
+│ Comum       │ Todos exceto “a”      │ Todos exceto “a”      │ Todos exceto “a”      │
 ├─────────────┼───────────────────────┼───────────────────────┼───────────────────────┤
 │ Locativo    │ Artigo próprio (“a”)  │ Nenhum                │ Artigo próprio (“a”)  │
 ├─────────────┼───────────────────────┼───────────────────────┼───────────────────────┤
@@ -104,12 +103,12 @@ Um nome ou verbo acrescido do sufixo nominalizador “-Canga” produz um
 nome comum que pode denotar desde uma única ocorrência de um evento
 verbal, ou o resultado desse evento, ou o local onde normalmente ocorre,
 ou um nome abstrato.
-• “Ka patu” (bater) → “te patunga” (a batida, assalto).
-• “Ka moe” (dormir) → “te moenga” (a cama).
-• “Ka tae” (chegar) → “te taenga” (a chegada).
-• “Ka tuhi” (escrever) → “te tuhinga” (o texto).
-• “Ka tika” (ser próprio/correto) → “te tikanga” (o costume/procedimento).
-• “Ka koroua” (ser velho) → “te korouatanga” (a maioridade).
+• “Ka patu” (bater) → “te patunga” (batida, assalto).
+• “Ka moe” (dormir) → “te moenga” (cama).
+• “Ka tae” (chegar) → “te taenga” (chegada).
+• “Ka tuhi” (escrever) → “te tuhinga” (texto).
+• “Ka tika” (ser próprio/correto) → “te tikanga” (costume/procedimento).
+• “Ka koroua” (ser velho) → “te korouatanga” (maioridade).
 
 .Derivação por composição.
 Vários nomes comuns são formados por composição de outros nomes.  Muitas
@@ -826,7 +825,7 @@ forma não subordinada, expressa modo jussivo ou desiderativo.
 • “E pīrangi ana a Mere kia mutu te patu wēra.” (Mere quer que a matança
   de baleias pare).
 
-Uso jussivo.
+.Uso jussivo.
 O preverbo subjuntivo pode expressar modo imperativo (também chamado
 de ‘jussivo’ neste caso).  Tal uso ocorre somente com verbos médios e
 verbos estativos.
@@ -835,7 +834,7 @@ verbos estativos.
 • “Kia tapu tōu ingoa” (Santificado seja teu nome).
 • “Kia tere!” (Seja rápido).
 
-Uso adverbial.
+.Uso adverbial.
 O preverbo subjuntivo pode ser usado para formar adjunto temporal
 expressando condição ou quando algo ocorre, ou para expressar orações
 finais.
