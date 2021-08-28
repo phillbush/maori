@@ -7,7 +7,7 @@ o determinante “he” seguido da base “pukapuka” (livro) e seus
 modificadores “reo Māori” (língua Māori).
 
 Māori segue normalmente a ordem VSO (verbo-sujeito-objeto).  A ordem
-porém pode ser SVO em orações negadas ou com sujeito evidenciado.
+porém pode ser SVO em proposição negadas ou com sujeito evidenciado.
 
 Diferente de muitas linguas polinésias, que são ergativas, Māori é uma
 língua acusativa.  Sujeitos de predicados transitivos e intransitivos
@@ -60,6 +60,10 @@ verbo negativo “ehara”, após o qual o predicado original é marcado como
 oblíquo com a locução preposicional “i te”.
 • “He tohunga ia” (Ele é um expert) → “Ehara ia i te tohunga” (ele não é
   um expert).
+• “He kiwi tērā manu” (Aquel pássaro é um kiwi) → “Ehara tērā manu i te
+  kiwi”.
+• “He tamariki rātou” (Eles são crianças) → “Ehara rātou i te tamariki”
+  (Eles não são crianças).
 
 
 §§ Predicado indefinido adjetivo
@@ -105,6 +109,8 @@ Predicados equativos são negados da mesma forma que predicados
 indefinidos nominais, usando “ehara”.
 • “Ko te Pirīmia tēnei” (“Este é o primeiro ministro”) → “Ehara tēnei i
   te pirīmia” (Este não é o primeiro ministro).
+• “Ko te rangatira tēnei” (Este é o cheve) → “Ehara tēnei i te
+  rangatira” (este não é o chefe).
 
 
 §§ Predicado locativo
@@ -123,6 +129,10 @@ predicado original transformado em oblíquo marcado com “i”.
   “Kāore rāua i konei i nanahi” (“Eles doi não estavam aqui ontem”).
 • “Kei Pōneke ia” (“Ele está em Wellington”) → “Kāore ia i Pōneke”
   (Ele não está em Wellington).
+• “Kei konei te tangata” (O homem está aqui) → “Kāore te tangata i
+  konei” (O homem não está aqui).
+• “I konei te tangata” (O homem estava aqui) → “Kāore te tangata i
+  konei” (O homem não estava aqui).
 
 §§ Predicado causativo/benefactivo
 
@@ -139,27 +149,31 @@ ser opcionalmente mantido.  “Mā/mō” é mantido na negação.
 • “Nō Hēmi tērā whare” (Aquela casa é do Hemi) → “Ehara tērā whare i a
   Hēmi” (Aquela casa não é a do Hemi).
 • “Mō rātou tēnā waka” → “Ehara mō rātou tēnā waka”.
+• “Nā te tangata rā tērā kurī” (Aquele cão é do homem ali) → “Ehara tērā
+  kurī i te tangata rā” (Aquele cão não é do homem ali).
+• “Nō te rangatira tērā whare” (Aquela casa é do chefe) → “Ehara tērā
+  whare i te rangatira” (Aquela casa não é do chefe).
 
 
 
-§ Complementos
+§ Argumentos
 
 §§ Objetos
 
-Predicados verbais com verbos dinâmicos transitivos requerem objetos
+Predicados verbais com verbos dinâmicos transitivos exigem objetos
 diretos marcados pela preposição causativa “i”.
 • “Kei te tuhi au i tāku reta ki a ia” (Eu estou escrevendo minha carta
   para ele).
 
-Predicados verbais com verbos dinâmicos ambitransitivos requerem um
-objeto direto marcado pela preposição causativa “i”, e um objeto
-indireto marcado pela preposição final “ki”.  O objeto indireto pode
-às vezes ser marcado por uma preposição benefactiva “mā/mō”.  O objeto
-direto normalmente ocorre antes do objeto indireto.
+Predicados verbais com verbos dinâmicos ambitransitivos exigem um objeto
+direto marcado pela preposição causativa “i”, e um objeto indireto
+marcado pela preposição final “ki”.  O objeto indireto pode às vezes ser
+marcado por uma preposição benefactiva “mā/mō”.  O objeto direto
+normalmente ocorre antes do objeto indireto.
 • “I whakaatu ia i āna pukapuka ki ōna hoa” (“Ele mostrou seus livros
   para seus amigos”).
 
-Predicados verbais com verbos médios normalmente requerem objeto marcado
+Predicados verbais com verbos médios normalmente exigem objeto marcado
 pela preposição final “ki”.  Exceto “kite” (ver) e “rongo” (ouvir), que
 têm objeto marcado por “i”.
 • “Kei te pīrangi au ki tēnā pukapuka” (“Eu estou querendo esse livro”).
@@ -174,326 +188,186 @@ incorporação de objeto.
 
 §§ Oblíquos
 
-Muitos adjetivos, especialmente aqueles expressando similaridade, exigem complemento oblíquo.
-O complemento é normalmente marcado pela preposição “i” ou “ki”.
-A escolha entre as preposições é lexicamente condicionada pelo adjetivo, ou pelo dialeto.
+Muitos adjetivos, especialmente aqueles expressando similaridade, exigem
+argumento oblíquo, que é normalmente marcado pelas preposições “i” ou
+“ki”.  A escolha entre as preposições é lexicamente condicionada pelo
+adjetivo, ou pelo dialeto.
+• “He tangata pēnā i a koe nā” (“Uma pessoa como você ai”).
+• “Rite tonu ia ki tōna whaea” (“Ela é parecida com sua mãe”).
+• “He tino mōhio ia ki taua mahi” (“Ele é muito acostumado com tal trabalho”).
 
-“
-	He  tangata pēnā    i    a   koe nā
-	DET pessoa  como(A) PREP DET tu  LOC
-	Alguém como você ai.
+Para adjetivos comparativos, o padrão de comparação é um oblíquo marcado
+pela preposição “i”.
+• “He nui ake tōku whare i tō Hoani” (Minha casa é maior que a do Hoani).
 
-	Rite        tonu ia  ki   tōna whaea
-	Parecido(A) bem  ela PREP sua  mãe
-	Ela é que nem sua mãe.
+Nomes locativos indicando posição relativa são frequentemente seguidos
+de um oblíquo dependente marcado pela preposição “i”.
+• “Kei runga i te tēpu” (Está em cima da mesa).
+• “Ki mua i te whare” (Para frente da casa).
 
-	He  tino  mōhio      ia  ki   taua mahi.
-	DET muito acostumado ele PREP tal  trabalho.
-	Ele é muito acostumado com esse tipo de trabalho.
-”
-
-O padrão de comparação após adjetivos comparativos é um oblíquo marcado por “i”.
-
-“
-	He  nui    ake    tōku  whare i    tō Hoani.
-	DET grande COMPAR minha casa  PREP do Hoani.
-	Minha casa é maior que a do Hoani.
-”
-
-Nomes locativos indicando posição relativa são frequentemente
-seguidos de um oblíquo dependente marcado por “i”.
-
-“
-	Kei  runga i  te tēpu
-	PREP cima  de a  mesa
-	Está em cima da mesa.
-
-	Ki   mua    i  te whare
-	PREP frente de a  casa
-	Para frente da casa.
-”
-
-Alguns nomes comuns também requerem complementos com “ki”.
-
-“
-	He  tohunga ia  ki   te  tārai  waka
-	DET expert  ele PREP DET talhar canoa
-	Ele é um expert em talhar canoa.
-”
-
-
-§ Adjuntos
-
-Adjuntos adnominais são normalmente complementos marcados com “a/o”.
-
-Adjuntos adverbiais incluem agente da passiva, causa, local, tempo (marcados por “i”);
-além de instrumento e destino (marcados por “ki”);
-e de benefactivos (marcados por “mā/mō”).
-
-Adjuntos normalmente sucedem o sujeito e o objeto.
-Se o sujeito não é um agente, então um oblíquo agentivo pode precedê-lo;
-especialmente se o núcleo do oblíquo é um pronome e o sujeito é um nome completo.
-
-“
-	I    mau       i    a   koe te tāhae?
-	PREV pegar(VN) PREP DET tu  o  bandido?
-	Você capturou o bandido?
-”
+Alguns nomes comuns exigem argumento com “ki”.
+• “He tohunga ia ki te tārai waka” (Ele é um expert em talhar canoa).
 
 
 § Transformações
 
-§§ Voz passiva.
-Frases ativas podem ser apassivadas.
-Isso involve conjugar as bases e modificadores do predicado para a forma passiva
-(em Māori há concordância verbal aquanto à voz entre o verbo e seus modificadores);
-promover o objeto ou adjunto para sujeito;
-rebaixar o sujeito para o argumento oblíquo agentivo;
-e, opcionalmente, adequar a ordem da frase para a ordem VSX.
-Em geral, o sujeito (paciente) e o agente da passiva podem ocorrer em qualquer ordem.
-Fatores como saliência determinam qual ordem é melhor para uma ocasião.
+§§ Negação
 
-“
-	Kei te kai te kurī i te ika.          → Kei  te  kainga     te  ika   e  te  kurī.
-	PREP DET comer DET cão prep DET peixe → PREP DET comer.PASS DET peixe AG DET cão.
-	O cão está comendo o peixe.           → O peixe está sendo comido pelo cão.
+A negação de uma proposição positiva depende do tipo de seu predicado.
+Em geral, usa-se um pró-verbo, chamado negativo, para construir a forma
+negativa de uma proposição.  Para mais informações em como construir o
+negativo, veja as subseções da seção «§ Predicados».
 
-	E    mōhiotia      whānuitia  ana tēnā waiata.
-	PREV conhecer.PASS amplo.PASS MOD essa canção.
-	Essa canção é muito conhecida.
+§§ Voz passiva
 
-	E    kōrerotia  tonutia  ana taua take.
-	PREV falar.PASS bem.PASS MOD tal  assunto.
-	Esse assunto está sendo falado.
+A apassivação é uma transformação frequente em Māori, especialmente em
+textos narrativos.  Apassivação envolve conjungar a base e modificadores
+do predicado para a forma passiva (em Māori há concordância verbal
+quanto à voz entre o verbo e seus modificadores), promover o objeto ou
+adjunto para sujeito, rebaixar o sujeito para argumento oblíquo
+agentivo, e opcionalmente adequar a ordem da frase para a ordem VSO.
+Em geral, o sujeito (paciente) e o agente da passiva podem ocorrer em
+qualquer ordem.  Fatores como saliência determinam qual ordem é melhor
+para uma ocasião.
+• “Kei te kai te kurī i te ika” (O cachorro está comendo o peixe) → “Kei
+  te kainga te ika e te kurī” (O peixe está sendo comido pelo cachorro).
+• “E mōhiotia whānuitia ana tēnā waiata” (Essa canção é muito conhecida).
+• “E kōrerotia tonutia ana taua take” (“Esse assunto está sendo bem
+  falado”).
+• “Ka hokona ngā tīkiti e te matua” (“Os ingressos foram comprados pelo
+  pai”).
+• “Ka āwhinatia a Mere e Pita” (“Maria é ajudada por Pedro”).
 
-	Ka   hokona       ngā tīkiti   e    te matua.
-	PREV comprar.PASS os  ingresso PREP o  pai.
-	Os ingressos foram comprados pelo pai.
-
-	Ka   āwhinatia   a   Mere  e   Pita.
-	PREV ajudar.PASS DET Maria DET Pedro.
-	Maria é ajudada por pedro.
-”
-
-Passividade implícita
+.Passividade implícita
 A desinência passiva é geralmente incompatível com o preverbo “me”.
-E também não é usada para os verbos “waiho” (deixar), “hōmai” (dar-me) e “hoatu” (dar àlguém).
-Porém, a voz da oração pode ser determinada por outros fatores,
-como a presença da preposição “e” ou o sujeito paciente.
+E também não é usada para os verbos “waiho” (deixar), “hōmai” (dar-me)
+e “hoatu” (dar a alguém).  Nesses casos, a oração é apassivada sem
+conjugar o verbo à voz passiva.  Porém, a voz da oração pode ser
+determinada por outros fatores, como a presença da preposição “e” ou o
+sujeito paciente.
+• “Me tuku mai ngā tono i te 1 o Ākuhata” (“As aplicações devem ser
+  enviadas em 1º de Agosto”).
 
-“
-	Me   tuku   mai ngā tono      i    te  1 o    Ākuhata.
-	PREV enviar DIR DET aplicação PREP DET 1 GENV Agosto.
-	As aplicações devem ser enviadas em 1º de agosto.
-”
+.Nomes passivos.
+Verbos derivados a partir de um nome apassivado adquirem o sentido de
+tornar-se.
+• “I kōhatungia a Pānia” (“Pānia petrificou-se”).
 
-Nomes.
-Nomes apassivadas derivam uma base com sentido de tornar-se.
-
-“
-	I    kōhatungia    a   Pānia.
-	PREV petrificar-se DET Pānia.
-	Pānia petrificou-se.
-”
-
-Imperativos.
-Frases imperativas têm forma passiva quando expressa que uma ordem seja exercida sobre um objeto.
-
-“
-	Mā   te  matapihitia mai.
-	PREP DET janela-PASS DIR.
-	Passe pela janela.
-
-	Puritia      tēnei pukapuka!
-	Segurar-PASS este  livro!
-	Segure este livro!.
-”
-
-Frequência.
-Uma característica da construção passiva em Maori é sua alta frequência em texto,
-especialmente textos narrativos.
-Quando ambos sujeito e objeto são definidos, acessíveis, conhecidos, etc,
-a voz passiva é tem mais chance de ser usada do que a forma ativa correspondente.
+.Imperativos.
+Frases imperativas devem ter forma passiva quando expressa que uma ordem
+seja exercida sobre um objeto.
+• “Puritia tēnei pukapuka!” (Segure este livro!).
 
 
-§§ Sujeito frontalizado.
-Sujeitos definidos podem ser frontalizados e marcados com a preposição “ko”.
+§§ Sujeito frontalizado
 
-“
-	E    horoi ana a   Mere  i    ngā rīhi.  → Ko   Mere  e    horoi ana i    ngā rīhi.
-	PREV lavar MOD DET Maria PREP DET louça. → PREP Maria PREV lavar MOD PREP DET louça
-	Maria está lavando a louça.              → Maria é quem está lavando a louça.
-”
+Sujeitos definidos podem ser frontalizados e marcados com a preposição
+“ko”.
+• “E horoi ana a Mere i ngā rīhi” (Maria está lavando a louça) →
+  “Ko Mere e horoi ana i ngā rīhi” (Maria é quem está lavando a louça).
 
-Frontalizando sujeitos de predicados equativos.
-Note que “ko” também marca predicados equativos;
-orações com tais predicados podem sofrer esta transformação,
-e assim conter dois constituintes marcados com “ko”,
-onde o primeiro é sujeito do segundo.
-Tal transformação é considerada uma oração equativa, em que um nome é igualado ao sujeito da oração.
+Note que “ko” também marca predicados equativos.  Orações com tais
+predicados podem sofrer esta transformação, e assim conter dois
+constituintes marcados com “ko”, onde o primeiro é sujeito do segundo.
+• “Ko Rei tōku ingoa” (Meu nome é Rei) → “Ko tōku ingoa ko Rei”.
 
-“
-	Ko   Rei tōku ingoa.  → Ko   tōku ingoa ko   Rei.
-	PREP Rei meu  nome.   → PREP meu  nome  PREP Rei.
-	Meu nome é Rei.       → Meu nome é Rei.
-”
-
-Para a leitura de que o sujeito está em ênfase,
-assim como predicados equativos, tal construção é negada com “ehara”.
-Essa construção é negada simplesmente adicionando “ehara” no início.
-
-“
-	Ehara ko   Mere  e    horoi ana i    ngā rīhi.
-	NEG   PREP Maria PREV lavar MOD PREP DET louça.
-	Não é maria quem está lavando as louças.
-”
-
-Para a leitura de que o predicado está em ênfase,
-é o comentário que é negado, não a proposição inteira.
-
-“
-	Ko   Mere  kāore e    horoi ana i    ngā rīhi.
-	PREP Maria NEG   PREV lavar MOD PREP DET louça.
-	Maria não está lavando as louças (ela está lavando outra coisa).
-”
+Um sujeito frontalizado é considerado um predicado equativo e é negado
+como tal, adicionando “ehara” no início.  Tal negação dá a entender de
+que o que está sendo negado é o sujeito.
+• “Ko Mere e horoi ana i ngā rīhi” (Maria é quem está lavando a louça) →
+  “Ehara ko Mere e horoi ana i ngā rīhi” (Não é maria quem está lavando
+  a louça).
 
 
-§§ Ator enfático.
-Ator enfático é uma transformação que foca o sujeito agente de um verbo dinâmico ativo,
-movendo o sujeito para a frente da oração como um predicativo, e promove o objeto para sujeito.
+§§ Ator enfático
 
-Tal construção consiste de um agente frontalizado marcado com “nā” para
-o passado ou “mā” para o futuro, um predicado indicativo cujo preverbo é
-“i” para o passado ou “e” para o futuro, e um paciente como sujeito.
+Ator enfático é uma transformação sintática que foca o sujeito agente
+de um verbo dinâmico ativo, movendo o sujeito para a frente da oração
+como um predicativo, e promove o objeto para sujeito.  O sujeito
+original, agora predicativo, é marcado com “nā” para o pretérito ou “mā”
+para o futuro.  O predicado original deve ser marcado com “i” para o
+passado ou “e” para o futuro.
+• “I whakareri Pita i ngā kai” (Pita preparou a comida) → “Nā Pita i
+  whakareri ngā kai” (É Pita quem preparou a comida).
+• “Mā koutou e kimi he tikanga.” (É vocês quem vão achar um jeito).
+• “Mā wai e haere? Mā Pita e haere.” (Quem é que vai? Pedro é quem vai).
+• “Nā rātou i unahi ngā ika.” (Eles quem descamaram o peixe).
+• “Nāku i pupuri tēnā tangata.” (Eu quem deti aquele homem).
 
-Exemplos.
-Ator enfático da frase “I whakareri Pita i ngā kai” (Pita preparou a
-comida).
-
-“
-	Nā   Pita i    whakareri ngā kai.
-	PREP Pita PREV preparar  DET comida.
-	Foi Pita quem preparou a comida.
-
-	Mā   Pita e    whakareri ngā kai.
-	PREP Pita PREV preparar  DET comida.
-	É Pita quem preparará a comida.
-
-	Mā   koutou e    kimi   he  tikanga.
-	PREP vocês  PREV buscar DET meio.
-	É vocês quem vão achar um jeito.
-”
-
-O sujeito pode ser invertido com o predicado, especialmente se o sujeito for curto.
-Isso não ocorre, porém se o sujeito for indefinido (marcado por “he”).
-
-“
-	Nā   Pita ngā kai    i    whakareri.
-	PREP Pita DET comida PREV preparar.
-	Foi Pita quem preparou a comida.
-”
+O objeto original, transformado em sujeito, pode ser invertido com o
+predicado, especialmente se tal objeto for curto.  Isso não ocorre,
+porém se o objeto for indefinido (marcado por “he”).
+• “Nā Pita ngā kai i whakareri” (Foi pita quem preparou a comida).
+• “Mā rātou ngā ika e unahi.” (Eles que vão descamar o peixe).
+• “Nāku tēnā tangata i pupuri” (Eu quem deti aquele homem).
 
 O uso de ator enfático com verbos dinâmicos intransitivos é marginal;
 e é gramaticalmente questionável.
+• “Māu e haere” (É você quem vai).
 
-“
-	Māu     e    haere.
-	PREP-tu PREV ir.
-	É você quem vai.
-”
-
-Essas construções podem ser negadas da mesma forma que um “nā/mā” predicativo;
-isto é, com “ehara”.
-Após “ehara”, “nā” é normalmente substituído por “i”.
-“
-	Ehara i    a   Pita i    whakareri ngā kai.
-	NEG   PREP DET Pita PREV preparar  DET comida.
-	Não é Pita quem preparou a comida (foi outrem).
-
-	Ehara mā   Pita e    whakareri ngā kai.
-	NEG   PREP Pita PREV preparar  DET comida.
-	Não é Pita quem preparará a comida (será outrem).
-”
+Um sujeito ator enfático é considerado um predicado causativo ou
+benefactivo, e é negado como tal, usando ehara no início.  Após “ehara”,
+“nā” é normalmente substituído por “i”.  Tal negação dá a entender de
+que o que está sendo negado é o sujeito.
+• “Ehara i a Pita i whakareri ngā kai” (Não é Pita quem preparou a
+  comida).
+• “Ehara mā Pita e whakareri ngā kai”. (Não é Pita quem preparará a
+  comida).
 
 
-§§ Oblíquo frontalizado.
+§§ Oblíquo frontalizado
 
-Essa transformação move um constituinte oblíquo (objeto ou adjunto) para
-a frente da oração como um predicativo.
-Há duas construções disponíveis para oblíquo frontalizado:
-(1) uma com preverbo “i” (passado) ou “∅” (futuro) e o modificador “ai” seguindo o verbo;
-e (2) outra na qual um preverbo qualquer é usado e o modificador “ai” não segue.
-A primeira focaliza o oblíquo, a segunda o topicaliza
+A transformação de oblíquo frontalizado move um constituinte oblíquo
+para a frente da oração como um predicativo.  Há duas construções
+disponíveis para oblíquo frontalizado: (1) uma com preverbo “i”
+(passado) ou “∅” (futuro) e o modificador “ai” seguindo o verbo;
+e (2) outra na qual um preverbo qualquer é usado e o modificador “ai”
+não segue.  A primeira focaliza o oblíquo, a segunda o topicaliza
+• “Nō tērā Rāhoroi ka tae mai rātou.” (Neste sábado eles chegaram aqui)
+  → “Ā tērā Rāhoroi rātou tae mai ai”. (É neste sábado que eles chegarão
+  aqui).
+• “Nā te ua mātou i noho ai ki te kāinga” (Foi por causa da chuva que
+  ficamos em casa (é pressuposto que ficamos em casa)) → “Nā te ua ka
+  noho mātou ki te kāinga” (Foi por causa da chuva que ficamos em casa
+  (ficar em casa é informação nova)).
 
-“
-	Nō   tērā Rāhoroi rātou i    tae    mai ai.
-	PREP esse sábado  eles  PREV chegar DIR APH.
-	Foi nesse sábado que eles chegaram aqui.
-
-	Nō   tērā Rāhoroi ka   tae    mai rātou.
-	PREP esse sábado  PREV chegar DIR eles.
-	Foi nesse sábado que eles chegaram aqui.
-
-	Ā    tērā Rāhoroi rātou ∅    tae    mai ai.
-	PREP esse sábado  eles  PREV chegar DIR APH.
-	É neste sábado que eles chegarão aqui.
-”
-
-Oblíquos de causa também podem ser frontalizados, especialmente para eventos passados.
-
-“
-	Nā   te  ua    mātou i    noho  ai  ki   te  kāinga.
-	PREP DET chuva nós   PREV ficar APH PREP DET casa.
-	Foi por causa da chuva que ficamos em casa (é pressuposto que ficamos em casa).
-
-	Nā   te  ua    ka   noho  mātou ki   te  kāinga.
-	PREP DET chuva PREV ficar nós   PREP DET casa.
-	Foi por causa da chuva que ficamos em casa (ficar em casa é nova informação).
-”
-
-Oblíquos de meio introduzidos por “mā” podem ser frontalizados,
-especialmente aqueles indicando rota de movimento ou meio de transporte;
-e são seguidos pelo preverbo “ka”,
-ou marcados apenas com o modificador anafórico “ai”.
-
-“
-	Mā   runga pahi   mātou tae    mai ai.
-	PREP cima  ônibus nós   chegar DIR APH.
-	Foi de ônibus que nós chegamos aqui.
-
-	Mā   te  huruhuru ka   rere te  manu.
-	PREP DET pena     PREV voar DET ave.
-	É pela pena que voa a ave.
-”
+Oblíquos introduzidos por “mā” podem ser frontalizados, especialmente
+aqueles indicando rota de movimento ou meio de transporte; e são
+seguidos pelo preverbo “ka”, ou marcados apenas com o modificador
+anafórico “ai”.
+• “Mā runga pahi mātou tae mai ai” (Foi de ônibus que nós chegamos
+  aqui).
+• “Mā te huruhuru ka rere te manu.” (É pela pena que voa a ave).
 
 
-§§ Nome verbal
+§§ Nominalização
 
-Verbos podem ser transformado em nomes.  Isso involve inserir um determinante
-antes da base verbal para nominalizá-la e transformar seus argumentos em
-adjuntos adnominais de acordo.
+Uma oração verbal (isto é, uma oração cujo predicado é verbal) pode ser
+nominalizada, desde que esse verbo seja dinâmico ou médio.  Isso envolve
+derivar o verbo do predicado em um nome (inserindo um determinante antes
+dele) e transformar seus argumentos em adjuntos adnominais de acordo.
 
-Argumentos transformados em genitivos alienáveis (marcados por “a”).
-Sujeitos de predicados transitivos e intransitivos tornam-se genitivos
-alienáveis.
-• “Ka patu a Kupe i te wheke” → “te patunga a Kupe i te wheke”.
+Verbos dinâmicos têm seu argumento agente (sujeito na forma ativa, ou
+agente da passiva na forma passiva) transformado em adjuntos marcados
+pelo adjuntivo de tipo A “a”.  Enquanto que seu argumento paciente
+(objeto na forma ativa ou sujeito na forma passiva) é transformado
+em adjunto marcado pelo adjuntivo de tipo O “o”.
+• “Ka patu a Kupe i te wheke” (Kupe caça o polvo) → “te patunga a Kupe i
+  te wheke” (A caça de Kupe ao polvo).
+• “Ka patua te wheke e Kupe” (O polvo é caçado por Kupe) → “te patunga o
+  Kupe e te wheke” (A caça do polvo por Kupe).
 
-Argumentos transformados em genitivos inalienáveis (marcados por “o”).
-Objetos de predicados transitivos e mediais, e sujeitos de predicados
-passivos, neutros e adjetivos tornam-se genitivos alienáveis.
-• “Ka patua te wheke e Kupe” → “te patunga o Kupe e te wheke”.
-
-
-§§ Determinantes
-
-Certas palavras ou constituintes adnominais podem ser transformados em
-determinantes.
-
-Adjuntos genitivos transformados em determinantes genitivos.
-• “te waiata o Horomona” → “tō Horomona waiata”.
-• “ngā whakaaro o te wahine” → “ō te wahine whakaaro”
-• “ngā pukapuka a te kōtiro” → “ā kōtiro pukapuka”
-• “ngā tamariki a tērā wahine” → “ā tērā wahine tamariki”
+Verbos médios têm seu argumento experienciador (sujeito na forma ativa,
+ou agente da passiva na forma passiva) transformado em adjuntos marcados
+pelo adjuntivo de tipo O “o”.  Enquanto que seu argumento estímulo
+(objeto na forma ativa ou sujeito na forma passiva) é transformado
+em adjunto marcado pelo adjuntivo de tipo A “a”.
+• “Ka tiro te matua ki ngā tīkiti” (O pai observa os ingressos) →
+  “Te tirohanga o te matua ki ngā tīkiti” (A observação do pai aos
+  ingressos)
+• “Ka tirohia ngā tīkiti e te matua” (Os ingressos são observados pelo
+  pai) → “Te tirohanga a ngā tīkiti e te matua” (A observação dos
+  ingressos pelo pai).
 
 
 § Construções
@@ -508,19 +382,19 @@ copulares quanto à incidência da relação copular.  Cópulas são atemporais,
 não expressam tempo gramatical (“He pai te kōrero” pode significar tanto “a
 conversa estava boa” ou “A conversa está boa” dependendo do contexto).
 
-Cópula atributiva.
-Proposição copular atributiva (ou predicativa) é uma cópula cujo predicativo é
-uma descrição ou tipo do sujeito.  Cópulas atributivas usam um constituinte
-nominativo geral (marcado por “he”) como predicativo.  O predicativo pode
-descrever o sujeito (normalmente traduzido como adjetivo), ou classificar o
-sujeito (normalmente traduzido como um substantivo com artigo indefinido).
+.Cópula atributiva.
+Proposição copular atributiva é uma cópula cujo predicativo é uma
+descrição ou tipo do sujeito.  Cópulas atributivas usam um constituinte
+nominativo geral (marcado por “he”) como predicativo.  O predicativo
+pode descrever o sujeito (normalmente traduzido como adjetivo), ou
+classificar o sujeito (normalmente traduzido como um substantivo com
+artigo indefinido).
 • “He ātāhua ngā kōtiro”          (As meninas são bonitas).
 • “He pai te kōrero”              (A conversa está boa).
 • “He pirau ēnei kūmara”          (Estas batatas estão podres).
 • “He kino tērā tikanga”          (Aquele hábito é ruim).
 • “He nui te whare”               (A casa é grande).
 • “He paipera tēnei pukapuka”     (Este livro é uma bíblia).
-• “Ko Tamahae te toa.”            (Tamahae é o guerreiro).
 • “He hōiho tēnei kararehe”       (Aquele bicho é um cavalo).
 • “He kererū ngā manu rā”         (Aqueles pássaros ali são pombos).
 • “He kōtiro ātāhua a Mārama.”    (Mārama é uma linda menina).
@@ -532,11 +406,14 @@ sujeito (normalmente traduzido como um substantivo com artigo indefinido).
 • “He aha a Mārama?”              (Que é Mārama?).
 • “He hanga i te whare te mahi ā Horo.” (O trabalho de Horo é construir a casa).
 
-Cópula equativa.
-Proposição copular equativa é uma cópula cujo predicativo é o mesmo que o
-sujeito.  Ou seja, o sujeito e o predicativo são equivalentes.  Cópulas
-equativas usam um constituinte nominativo específico (marcado por “ko”) como
-predicativo.  Na fala rápida e informal, o marcador “ko” é geralmente omitido.
+.Cópula equativa.
+Proposição copular equativa é uma cópula cujo predicativo é o mesmo que
+o sujeito.  Ou seja, o sujeito e o predicativo são equivalentes.
+Cópulas equativas usam um constituinte nominativo específico (marcado
+por “ko”) como predicativo.  Na fala rápida e informal, o marcador “ko”
+é geralmente omitido.  Quando uma cópula equativa expressa identidade,
+não importa qual argumento da frase é o predicado.  Por exemplo, “ko
+tēnei tāku pukapuka” é o mesmo que “ko tāku pukapuka tēnei”
 • “Ko wai te ingoa o te tamaiti?” (Qual é o nome da criança?).
 • “Ko Hamo tōna ingoa.”           (Seu nome é Hamo).
 • “Ko tōku whare tērā.”           (Aquela é minha casa).
@@ -558,18 +435,18 @@ predicativo.  Na fala rápida e informal, o marcador “ko” é geralmente omit
 • “Tōku kāinga tēnei whare”       (Esta casa é a minha casa).
 • “Tēnei tāku pukapuka”           (Isso é o meu livro).
 • “Ko te tangata tērā i kitea e ahau.” (Aquele é o homem que eu vi).
-• Quando uma cópula equativa expressa identidade, não importa qual argumento
-da frase é o predicado.  Por exemplo, “ko tēnei tāku pukapuka” é o mesmo que
-“ko tāku pukapuka tēnei”
 
-Cópula essiva.
+.Cópula essiva.
 Proposições copulares podem ser usadas para expressar sentido essivo ou
 formal.  Nesses casos, expressa-se a forma que o algo é ou modo como o qual
 algo está sendo usado.
 • “Ko te hōro te whare pikitia.”  (O salão é [usado como] o cinema).
 • “Ko te kura te whare kanikani.” (A escola é [usada como] a pista de dança).
 
-Cópula locativa.
+.Cópula locativa.
+Proposições copulares podem ser usadas para expressar o lugar em que
+algo está.  Cópulas locativas tem o predicativo marcado por uma
+preposição locativa (“i, kei, hei”).
 • “Kei Tarangi a Turi.” (Turi está em Taurangi).
 • “Hei runga i te puke te whare.” (A casa ficará em cima do morro).
 • “Kei roto ngā rākau i te wao.” (As árvores ficam dentro da floresta).
@@ -578,175 +455,132 @@ Cópula locativa.
 • “Kei hea te waka?” (Onde está a canoa?).
 • “Kei tātahi te waka.” (A canoa está na praia).
 
-Cópula preposicional.
+.Cópula preposicional.
+Proposições copulares podem ligar um constituinte preposicionado com
+o sujeito.  Preposições bastante comuns neste tipo de cópula são as
+preposições causativas (“nā, nō”) e benefactivas (“mā, mō”).
 • “Nā Mere tēnā pukapuka.” (Esse livro é da Mere).
 • “Nā te makariri rātou i noho ai ki te kāinga” (Por causa do frio eles
-ficaram portanto em casa).
+  ficaram portanto em casa).
 • “Nā Mere tēnā pukapuka i tuhi.” (Foi Mere quem escreveu esse livro).
-Exemplo de agente enfático.
+  Exemplo de agente enfático.
 
-Existencial.
-Construções formadas unicamente por um predicativo marcado por “he” declaram a
-existência de algo, e são impessoais (não têm sujeito).  Certas construções
-copulares podem ser traduzidas com sentido existencial.
-• “He kai kei reira mā te tamaiti a Kuiwai.” (Tem comida ali para o filho de Kuwai).
-• “He rangi ōrangi” (Há céu azul).
-• “Kei roto ngā rākau i te wao.” (“Tem árvores na floresta”, lit' “As árvores
-ficam dentro da floresta”).  Exemplo de construção copular com sentido
+§§ Existencial
+
+Construções formadas unicamente por um predicativo marcado por “he”
+declaram a existência de algo, e são impessoais (não têm sujeito).
+Certas construções copulares podem ser traduzidas com sentido
 existencial.
-• Note que no Māori antigo havia um verbo estativo “ai” que expressava noção
-existencial.  Seu sujeito era iniciado por “he”.  Ex' “Kia ai he rangi
-ōrangi” (Que haja um céu azul).
+• “He kai kei reira mā te tamaiti a Kuiwai.” (Tem comida ali para o
+  filho de Kuwai).
+• “He rangi ōrangi” (Há céu azul).
+• “Kei roto ngā rākau i te wao.” (“Tem árvores na floresta”, lit' “As
+  árvores ficam dentro da floresta”).  Exemplo de construção copular com
+  sentido existencial.
+
+Note que no Māori antigo havia um verbo estativo “ai” que expressava
+noção existencial.  Seu sujeito era iniciado por “he”.  Ex' “Kia ai he
+rangi ōrangi” (Que haja um céu azul).
 
 
+§§ Coordenação de constituintes
 
-§§ Coordenação intra-constituinte
+Coordenação é expressa de diferentes maneiras de acordo com propriedades
+dos coordenandos.
 
-Coordenação é expressa de diferentes maneiras de acordo com propriedades dos coordenandos.
+.Coordenação de pronomes.
+Pronomes não podem ser coordenados.  Expressões como “eu e ele” devem
+ser traduzidas por um único pronome apropriado (“māua”).
 
-Coordenação de pronomes.
-Pronomes não podem ser coordenados.
-Expressões como “eu e ele” devem ser traduzidas por um único pronome apropriado (“māua”).
+.Coordenação de pronomes e nomes.
+Pronomes e nomes são coordenados com um pronome referindo a todo o
+grupo, e com cada nome precedido por “ko”.  Isso só é possível para
+nomes referindo a pessoas apenas.
+• “Māua ko Hemi” (“Hemi e eu”, literalmente “Nós dois, o Hemi”).
+• “Rātou ko ōna hoa” (“Ele e seus amigos”).
 
-Coordenação de pronomes e nomes.
-Pronomes e nomes são coordenados com um pronome referindo a todo o grupo,
-e com cada nome precedido por “ko”.
-Isso só é possível para nomes referindo a pessoas apenas.
-“
-	Māua      ko   Hemi.
-	Nós2.EXCL PREP Hemi.
-	Hemi e eu.
+.Coordenação de nomes.
+Nomes são coordenados com o primeiro coordenando seguido por um pronome
+referindo a todo grupo, e outros coordenandos precedidos por “ko”.  Isso
+só é possível para nomes referindo a pessoas apenas.
+• “Pita rātouko Mere ko Tāmati” (Pita, Mere e Tāmati).
+• “Ko Rawiri rāua ko Kingi āku tungane” (Rawiri e Kingi são meus irmãos).
 
-	Rātou ko   ōna  hoa.
-	Eles  PREP seus amigo.
-	Ele e seus amigos.
-”
+.Coordenação com “me”.
+Termos não humanos são coordenados com o adjuntivo “me”, que pode ser
+traduzido como “com”.
+• “Mō te marae me te wharenui” (Do mārae e wharenui).
 
-Coordenação de nomes.
-Nomes são coordenados com o primeiro coordenadndo seguido por um pronome referindo a todo grupo,
-e outros coordenandos precedidos por “ko”.
-Isso só é possível para nomes referindo a pessoas apenas.
-“
-	Pita rātou ko   Mere ko   Tāmati.
-	Pita eles  PREP Mere PREP Tāmati.
-	Pita, Mere e Tāmati.
-
-	Ko   Rawiri rāua  ko   Kingi āku  tungane.
-	PREP Rawiri eles2 PREP Kingi meus irmão.
-	Rawiri e Kingi são meus irmãos.
-”
-
-Coordenação com “me”.
-Termos não humanos são coordenados com “me” (com).
-“
-	Mō   te  marae me   te  wharenui.
-	PREP DET marae GENV DET wharenui.
-	Do marae e do wharenui.
-”
-
-Coordenação assindéticas.
-Coordenações sem conjunções (ditas assindéticas) são comuns entre frases,
-constituíntes e modificadores.  Normalmente o modificador “hoki” (também)
-é adicionado após o segundo coordenando.
-“
-	He  ātaahua, he  tāroaroa hoki   ia.
-	DET belo,    DET alto     também ela.
-	Ela é bela e alta.
-
-	He  tangata hūmārie,      whai-tikanga hoki.
-	DET pessoa  bem-apessoada importante   também.
-	Uma pessoa de boa índole e importante.
-
-	Mō   te  marae, mō   te  wharenui hoki.
-	PREP DET marae, PREP DET wharenui também.
-	Do marae e do farenui.
-
-	Kei  te  ua,     kei  te  makariri hoki.
-	PREP DET chover, PREP DET frio     também.
-	Estava chovendo e fazendo frio.
-”
+.Coordenação assindéticas.
+Coordenações sem conjunções (ditas assindéticas) são comuns entre
+constituíntes e modificadores.  Normalmente o modificador “hoki”
+(também) é adicionado após o segundo coordenando.
+• “He ātaahua, he tāroaroa hoki ia” (Ela é bela e alta [também]).
+• “He tangata hūmarie, whai-tikanga hoki” (Uma pessoa de boa índole e
+  importante).
+• “Mō te marae, mō te wharenui hoki” (Do marae e do wharenui).
+• “Kei te ua, kei te makaririhoki” (Estava chovendo e fazendo frio).
 
 
-§§ Coordenação inter-oração
+§§ Coordenação de proposições
 
-Conjunção “ā”
-Proposições inteiras podem ser unidas pela conjunção “ā” (e) ou “engari” (mas).
-“
-	I    noho  ia  ki   reira, ā, ko   ētahi  i    kohi.
-	PREV ficar ele PREP lá     e  PREP outros PREV voltar.
-	Ele ficou lá e os outros voltaram.
-
-	I    hiki   te  hui,      ā, i    haere te  katoa ki   te  kai.
-	PREV acabar DET encontro, e, PREV ir    DET todos PREP DET comer.
-	O encontro acabou, e todos foram comer.
-”
+Proposições inteiras podem ser unidas pela conjunção “ā” (e) ou “engari”
+(mas).
+• “I noho ia ki reira, ā, ko ētahi i kohi” (Ele ficou lá, e os outros
+  voltaram).
+• “I hiki te hui, ā, i haere te katoa ki te kai” (O encontro acabou, e
+  todos foram comer).
 
 Constituintes iniciais em orações, sejam predicados ou frontalizados,
-podem ser coordenados com “ā”,
-embora o segundo coordenando normalmente conterá o modificador “hoki” (também).
-“
-	Nā   mātou i    tangi,  ā, nā   koutou hoki.
-	PREP nós   PREV chorar, e, PREP vocês  também.
-	Nós choramos e vocês também.
-”
+podem ser coordenados com “ā”, embora o segundo coordenando normalmente
+conterá o modificador “hoki” (também).
+• “Nā mātou i tangi, ā, nā koutou hoki.”
 
-Coordenaçã odisjuntiva de orações e expressa pospondo “rānei” (ou) ao segundo coordenando.
-“
-	Kei  te  haere koe  ki   te  hui,      ki   te  kanikani rānei?
-	PREP DET ir    você PREP DET encontro, PREP DET dança    ou?
-	Você vai ao encontro ou à dança?
-”
+Coordenação disjuntiva de orações é expressa pospondo “rānei” (ou) ao
+segundo coordenando.
+• “Kei te haere koe ki te hui, ki te kanikani rānei?” (Você vai ao
+  encontro ou à dança?).
 
-
-§§ Subordinação
-
-Outro.
-• “Ka tae mai te waea ki a Hata kua mate tāna mokopuna.” (Chega para Hata o
-telefonema de que seu neto morrera).
-• “Lo te tangata tērā i kitea e ahau.” (“Aquele é o homem que eu vi”, lit'
-“Aquele é o homem que foi visto por mim”).
-
-Modificador subordinado.
-• “He maha ngā toa i mate i a ia” (Os guerreiros que foram mortos por ele são muitos).
-
-Objeto subordinado com “ki te”.
-Usa-se “ki te” quando o sujeito das orações principal e subordinada são os
-mesmo, e quando o verbo da oração subordinada não é passivo nem estativo.
-• “Kāore au e hiahia ki te haere ki reira” (Não quero ir para lá).
-
-Objeto subordinado com “kia”.
-Usa-se “kia” quando o sujeito das orações principal é diferente do sujeito da
-oração subordinada.
-• “Kāore au e hiahia kia haere ia ki reira.” (Não quero que vá para lá).
-• “Hiahia au kia wareware i a koe.” (Quero que você me esqueça).
-• “Ko tāku hiahia kia haere atu koe.” (Meu desejo é que você vá embora).
 
 §§ Possessão
 
-Existem várias formas de expressar posse em Māori.  Toda frase expressando
-posse é não-verbal.  Maori não tem verbos equivalentes a “ter” ou “possuir”,
-nem tem verbos de ligação.  Exceto pelas posse temporária, construções
-indicando posse vêm em duas formas distinguindo o tipo de posse.
+Existem várias formas de expressar posse em Māori.  Toda frase
+expressando posse é não-verbal.  Māori não tem verbos equivalentes a
+“ter” ou “possuir”, nem tem verbos de ligação.  Exceto pelas posse
+temporária, construções indicando posse vêm em duas formas distinguindo
+o tipo de posse.
 
-Posse existencial.
-Expressa a existência de algo possuido por alguém.  Pode ser traduzido como
-“ter”.  É composto por um predicativo indefinido denotando a posse e por um
-genitivo como sujeito.
+.Posse existencial.
+Expressa a existência de algo possuido por alguém.  Pode ser traduzido
+como “ter”.  É composto por um predicativo indefinido denotando a posse
+e por um genitivo como sujeito.
 • “He aha tā Hone?” (O que o João tem?).
 • “He pukapuka tā Hone.” (João tem um livro).
 • “He pukapuka.” (Um livro).
 • “He koti tō Hone.” (João tem um casaco).
 • “He koti.” (Um casaco).
 
-Posse numérica.
-Expressa que alguém tem tantos objetos.  É composto por um predicado formado
-por um numeral.
+.Posse atributiva.
+Expressa que algo que é uma posse de alguém.  Pode ser traduzido como
+“isto é o … do …”.  É composto por uma equação entre um nome,
+normalmente um pronome demonstrativo, e um constituinte nominal
+denotando a posse e seu possessor.
+• “Ko aha tēnei?” (O que é isto?).
+• “Ko tēnā te pukapuka a Hone.” (Isso é o livro do João).
+• “Ko tēnā tā Hone pukapuka.” (Isso é o livro do João), como o exemplo
+  anterior, mas usando um determinante genitivo.
+• “Ko tēnā te koti o Hone.” (Isso é o casaco do João).
+• “Ko tēnā tō Hone koti.” (Isso é o casaco do João).
+
+.Posse numérica.
+Expressa que alguém tem tantos objetos.  É composto por um predicado
+formado por um numeral.
 • “E rua ōku whare” (“Eu tenho duas casas”, lit' “minhas casas são duas”).
 
-Posse real.
-Expressa o real possessor de algo.  Pode ser traduzido como “ser do”.  É
-composto por um predicativo causativo (marcado por “nā” ou “nō”) denotando
-o possessor, e por um sujeito denotando a posse.
+.Posse concreta.
+Expressa o real possessor de algo.  Pode ser traduzido como “ser do”.
+É composto por um predicativo causativo (marcado por “nā” ou “nō”)
+denotando o possessor, e por um sujeito denotando a posse.
 • “Nā wai te pukapuka?” (De quem é o livro?).
 • “Nā Hone te pukapuka.” (O livro é do João).
 • “Nā Hone.” (É do João).
@@ -754,10 +588,10 @@ o possessor, e por um sujeito denotando a posse.
 • “Nō Hone te koti.” (O casaco é do João).
 • “Nō Hone.” (É do João).
 
-Posse potencial.
-Expressa o potencial possessor de algo.  Pode ser traduzido como “ser para”.
-É composto por um predicado benefactivo (marcado por “mā” ou “mō”) denotando
-o possessor, e por um sujeito denotando a posse.
+.Posse potencial.
+Expressa o potencial possessor de algo.  Pode ser traduzido como “ser
+para”.  É composto por um predicado benefactivo (marcado por “mā” ou
+“mō”) denotando o possessor, e por um sujeito denotando a posse.
 • “Mā wai te pukapuka?” (Para quem é o livro?).
 • “Mā Hone te pukapuka.” (O livro é pro João).
 • “Mā Hone.” (É para o João).
@@ -765,48 +599,33 @@ o possessor, e por um sujeito denotando a posse.
 • “Mō Hone te koti.” (O casaco é para o João).
 • “Mō Hone.” (É para o João).
 
-Posse temporária.
-Expressa o portador de algo.  Pode ser traduzido como “estar com”.  É composto
-por um predicativo locativo denotando o possessor e por um sujeito denotando a
-posse.  Como não é tratada como uma possessão de fato pela gramática maori mas
-como uma construção locativa, esta construção é alheia aos tipos de possessão,
-mas pode expressar tempo.
+.Posse temporária.
+Expressa o portador de algo.  Pode ser traduzido como “estar com”.  É
+composto por um predicativo locativo denotando o possessor e por um
+sujeito denotando a posse.  Como não é tratada como uma possessão de
+fato pela gramática maori mas como uma construção locativa, esta
+construção é alheia aos tipos de possessão, mas pode expressar tempo.
 • “Kei wai te pukapuka?” (Com quem está o livro?).
 • “Kei a Pou te pukapuka” (O livro está com Pou).
 • “Kei a Pou” (Está com Pou).
-• “I wai te pukapuka?” (Com quem estva o livro?).
-• “I a Pou te pukapuka” (O livro estva com Pou).
-• “I a Pou” (Estva com Pou).
-
-Posse atributiva.
-Expressa que algo que é uma posse de alguém.  Pode ser traduzido como “isto é
-o … do …”.  É composto por uma equação entre um nome, normalmente um pronome
-demonstrativo, e um constituinte nominal denotando a posse e seu possessor.
-• “Ko aha tēnei?” (O que é isto?).
-• “Ko tēnā te pukapuka a Hone.” (Isso é o livro do João).
-• “Ko tēnā tā Hone pukapuka.” (Isso é o livro do João), como o exemplo
-anterior, mas usando um determinante genitivo.
-• “Ko tēnā te koti o Hone.” (Isso é o casaco do João).
-• “Ko tēnā tō Hone koti.” (Isso é o casaco do João), como o exemplo anterior,
-mas usando um determinante genitivo.
+• “I wai te pukapuka?” (Com quem estava o livro?).
+• “I a Pou te pukapuka” (O livro estava com Pou).
+• “I a Pou” (Estava com Pou).
 
 
 §§ Imperativo
 
-Existem várias formas de expressar imperativo em Māori.
-A intonação destas construções consistem na queda a partir da primeira mora.
+Existem várias formas de expressar imperativo em Māori.  A intonação
+destas construções consistem na queda a partir da primeira mora.
 
-Imperativo de intransitivo.
-O imperativo de um verbo intransitivo é indicado por intonação, sem marcador verbal.
-Se o verbo tem duas moras ou menos, ele é precedido pela partícula rítmica “e”.
-Modificadores direcionais aparentemente contam como parte do verbo.
-• “E tū!” (Fique de pé!).
-• “E tū tātou!” (Fiquemos de pé!), ”tātou“ é sujeito.
-• “E tū koe!” (Fica de pé!), ”koe“ é sujeito.
-• “E tū, koe!” (Fique de pé, você!), ”koe“ é vocativo.
-• “E tū, e Mere!” (Fique de pé, Maria!), ”Mere“ é vocativo.
+.Imperativo de verbo dinâmico intransitivo.
+O imperativo de um verbo dinâmico intransitivo é indicado por intonação,
+sem marcador verbal.  Se o verbo tem duas moras ou menos, ele é
+precedido pela partícula rítmica “e”.  Modificadores direcionais
+aparentemente contam como parte do verbo.
 • “Haere tāua!” (Vamos [nós dois]!).
 • “Haere kōutou!” (Vão [vocês]!).
+• “E tū!” (Fique de pé!).
 • “E kake!” (Suba!).
 • “E noho!” (Sente-se!).
 • “E moe!” (Durma!).
@@ -821,20 +640,21 @@ Modificadores direcionais aparentemente contam como parte do verbo.
 • “Whakarongo!” (Escute!).
 • “Titiro mai!” (Veja aqui!).
 • “Haere koe!” (Vá você!).
-• “Hāmama tōu waha!” (Abra sua boca!).  Note que em Māori partes do corpo são
-vistas como agentes.  Portanto, em uma imperação para realizar algo com uma
-parte do corpo, tal parte é o sujeito da oração.
+• “Hāmama tōu waha!” (Abra sua boca!).  Note que em Māori partes do
+  corpo são vistas como agentes.  Portanto, em uma imperação para
+  realizar algo com uma parte do corpo, tal parte é o sujeito da oração.
 • “Rūrū te mahunga!” (Balance a cabeça!).
 
-Imperativo de transitivo.
-O imperativo de um verbo transitivo (ou de um verbo intransitivo com objeto
-interno) é marcado pela intonação, sem marcador verbal, e requer a forma
-passiva do verbo, com o objeto promovido a sujeito.  Há verbos que podem
-aparecer tanto em imperativos intransitivos quanto transitivos sem mudança
-de sentido; embora imperativos intransitivos são aparentemente orientados a
-ação, enquanto imperativos transitivos são orientados a objetos.  Como essa
-construção é passiva, o sujeito deve ser precedido pela preposição agentiva
-“e” (note que tal preposição “e” não é o mesmo que a partícula agentiva “e”).
+.Imperativo de verbo dinâmico transitivo.
+O imperativo de um verbo dinâmico transitivo (ou de um verbo
+intransitivo com objeto interno) é marcado pela intonação, sem marcador
+verbal, e requer a forma passiva do verbo, com o objeto promovido a
+sujeito.  Há verbos que podem aparecer tanto em imperativos
+intransitivos quanto transitivos sem mudança de sentido; embora
+imperativos intransitivos são aparentemente orientados a ação, enquanto
+imperativos transitivos são orientados a objetos.  Como essa construção
+é passiva, o sujeito, se houver, deve ser precedido pela preposição
+agentiva “e”.
 • “Nohoia!” (Sente aqui!).
 • “Moea!” (Case com ela!).
 • “Karangatia atu” (Chame-o).
@@ -853,231 +673,120 @@ construção é passiva, o sujeito deve ser precedido pela preposição agentiva
 • “Hopukia, patua kia mate!” (Capturem-no e batam-no à morte!).
 • “Tukua atu kia hoki ki tōna kāinga!” (Soltem-no para que retorne a sua casa!).
 
-Imperativo de estativo.
+.Imperativo de verbo médio ou estativo.
 O imperativo de um verbo adjetivo ou de um verbo médio é indicado pelo
 marcador subjuntivo “kia”.  Verbos neutros geralmente não ocorrem como
 imperativos, e devem ser derivados em transitivos.
 • “Kia maia!” (Seja forte!).
 • “Kia ora!” (“Salve!”, lit “Fique bem”).
 • “Kia tere!” (“Rápido/apresse!”, lit “Seja rápido”).
-• “Kia maumahara koe ki te rā whānau o tō whaea!” (Lembre-se do aniversário de
-tua mãe!).
-• A frase “*Kia mutu tenā mahi” (*Que esse trabalho termine) não é apropriada,
-e pode ser substituída por “whakamutua tenā mahi!” (Termine esse trabalho!).
+• “Kia maumahara koe ki te rā whānau o tō whaea!” (Lembre-se do
+  aniversário de tua mãe!).
+• A frase “*Kia mutu tenā mahi” (*Que esse trabalho termine) não é
+  apropriada, e pode ser substituída por “whakamutua tenā mahi!”
+  (Termine esse trabalho!).
 
-Imperativo negativo.
+.Imperativo negativo.
 Imperativo negativo é formado por “kaua” (ou por uma de suas variantes
-dialetais, como “kauaka”, “aua”, etc”) como o marcador negativo, seguido de
-uma construção declarativa com o marcador impretérito “e”.
+dialetais, como “kauaka”, “aua”, etc”) como o marcador negativo, seguido
+de uma construção declarativa com o marcador impretérito “e”.
 • “Kaua e tū” (Não fique de pé!).
 • “Kaua e haere atu!” (Não vá embora!).
 • “Kaua e patu i te kurī!” (Não bata no cachorro!).
-• “Kaua e patua te kurī!” (Não bata no cachorro!).  Note que um imperativo
-negativo pode ser tanto ativo quanto positivo, enquanto que um imperativo
-positivo não pode ser.
-• “Kaua e tere rawa te haere!” (Não vá tão rápido!).  Note que, nesse caso,
-o imperativo positivo “Kia āta haere!” (Vá devagar!) soa mais natural.
+• “Kaua e patua te kurī!” (Não bata no cachorro!).  Note que um
+  imperativo negativo pode ser tanto ativo quanto passivo, enquanto que
+  um imperativo positivo não pode ser.
+• “Kaua e tere rawa te haere!” (Não vá tão rápido!).  Note que, nesse
+  caso, o imperativo positivo “Kia āta haere!” (Vá devagar!) soa mais
+  natural.
 • “Kaua tāua e haere!” (Não vamos!).
 • “Kaua tātou e kai i tēnā āporo!” (Não comamos essa maçã!).
-• “Kaua e kainga e koutou tēnā āporo” (Não comamos essa maçã!), forma passiva
-do exemplo anterior.
+• “Kaua e kainga tēnā āporo e tātou” (Não comamos essa maçã!), forma
+  passiva do exemplo anterior.
 
-Imperativo declarativo.
-Uma construção declarativa, em vez de uma construção imperativa, pode ser
-usada como um artifício linguístico para expressar uma ordem.
-• “Kāore kē te pere o Mikaere e tangi!” (O sino de Michael não é para ser
-tocado!).
+.Imperativo declarativo.
+Uma construção declarativa, em vez de uma construção imperativa, pode
+ser usada como um artifício linguístico para expressar uma ordem.
+• “Kāore kē te pere o Mikaere e tangi!” (O sino de Michael não é para
+  ser tocado!).
 
 
 §§ Interrogativo
 
-Interrogativo em Māori têm nenhuma marcação ou estrutura particular.
-Interrogações diretas de sim-ou-não simplesmente têm a forma da declaração correspondente,
-falada com intonação crescente final.
+Proposições interrogativos em Māori não têm qualquer marcação ou
+estrutura particular.  Interrogações diretas de sim-ou-não simplesmente
+têm a forma da declaração correspondente, falada com intonação crescente
+final.
 
+.Tag question.
 Questões de sim-ou-não que requerem acordo com a declaração codificada
-podem ser seguidas pela partícula interrogativa “nē” ou “nē rā”.
+podem ser seguidas pela partícula interrogativa “nē” ou “nē rā”, que
+significa literalmente “né”.
+• “He tangata hūmārie a Rāhera, nē?” (Rahera é uma pessoa gentil, né?).
 
-“
-	He  tangata hūmārie a   Rāhera, nē?
-	DET pessoa  gentil  DET Rāhera, TAG?
-	Rahera é uma pessoa gentil, né?
-”
-
-Perguntas relativas são formadas usando um dos interrogativos.
-Māori tem um interrogativo para cada classe e subclasse de palavras,
-e tais interrogativos seguem exatamente a sintaxe da classe que representam.
-
-Ao formar uma pergunta relativa,
-o interrogativo apropriado é simplesmente colocado na posição do item questionado.
-Quando constituintes que podem ser frontalizados por foco são questionados,
-a construção frontalizada será geralmente usada com o efeito de que o interrogativo
-é o primeiro constituinte da oração.
-Porém, quando constituinte que não pode ser frontalizado é questionado,
-como objetos e alguns adjuntos,
-o interrogativo ocorrerá na posição usual na oração.
-
-(a) Questionando predicado verbal.
-“
-	Kei  te  aha koe?
-	PREP DET que você?
-	O que você está fazendo?
-
-	Kua  ahatia   te  kurī?
-	PREV que-PASS DET cão?
-	O que aconteceu com o cão?
-
-	E    pēhea ana koe?
-	PREV como  MOD você?
-	Como você está?
-”
-
-(b) Questionando predicado nominal.
-“
-	He  aha te  mea   rā?
-	DET que DET coisa lá?
-	Que coisa é aquela?
-”
-
-(c) Questionando predicado equativo.
-“
-	Ko   wai  tōu ingoa?
-	PREP quem teu nome?
-	Qual é teu nome?
-
-	He  aha ia  i    pērā  ai?
-	DET que ele PREV assim APH?
-	Por que ele é assim?
-”
-
-(d) Questionando predicado locativo.
-“
-	Kei  hea  te  ngeru?
-	PREP onde DET gato?
-	Onde está o gato?
-”
-
-(e) Questionando predicado causativo/benefactivo
-“
-	Nā   wai  tēnei pukapuka?
-	PREP quem este  livro?
-	Para quem é este livro?
-”
-
-(f) Questionando sujeito.
-Como sujeitos podem ser frontalizados para foco, essa é a posição preferida para tais interrogativos.
-“
-	Ko   wai  e    kōrero ana?
-	PREP quem PREV falar  MOD?
-	Quem está falando?
-
-	Ko   tēhea tima i    toa?
-	PREP qual  time PREV ganhar?
-	Qual time ganhou?
-
-	Nā   wai  tēnei waiata i    tito?
-	PREP quem esta  canção PREV compor?
-	Quem compôs esta canção?
-”
-
-(g) Questionando objeto.
-Objetos, diretos ou indiretos, não podem ser frontalizados.
-“
-	I    hoatu ngā moni     ki   a   wai?
-	PREV dar   DET dinheiro PREP DET quem?
-	A quem foi dado o dinheiro?
-
-	Kei  te  kimi     koe  i    te  aha?
-	PREP DET procurar você PREP DET que?
-	O que você está procurando?
-”
-
-(h) Questionando advérbios.
-Advérbios que podem ser frontalizados são frontalizados em interrogações.
-“
-	Nō   nahea  koe  i    tae    mai ai?
-	PREP quando você PREV chegar DIR APH?
-	Quando você veio?
-
-	Mā   hea  koe  tae    mai ai?
-	PREP onde você chegar DIR APH?
-	Por onde você veio?
-
-	Nā   te  aha koe  i    kore ai  e    tae    atu ki   te  hui?
-	PREP DET que você PREV NEG  APH PREV chegar DIR PREP DET encontro?
-	Por que você não feio ao encontro?
-
-	Kei  te  haere koe  ki   hea?
-	PREP DET ir    você PREP onde?
-	Você está indo para onde?
-
-	I    pakaru      te  matapihi i  a   wai?
-	PREV quebrar(VN) DET janela   AG DET quem?
-	Quem quebrou a janela?
-”
-
+.Perguntas relativas.
+Perguntas relativas são formadas usando um dos interrogativos.  Māori
+tem um interrogativo para cada classe e subclasse de palavras, e tais
+interrogativos seguem exatamente a sintaxe da classe que representam.
+Ao formar uma pergunta relativa, o interrogativo apropriado é
+simplesmente colocado na posição do item questionado.  Quando
+constituintes que podem ser frontalizados por foco são questionados,
+a construção frontalizada será geralmente usada com o efeito de que o
+interrogativo é o primeiro constituinte da oração.  Porém, quando
+constituinte que não pode ser frontalizado é questionado, como objetos e
+alguns adjuntos, o interrogativo ocorrerá na posição usual na oração.
+• “Kei te aha koe?” (O que você está fazendo?), verbo interrogativo.
+• “Kua ahatia te kurī?” (O que aconteceu com o cão?).
+• “E pēhea ana koe?” (Como você está?).
+• “He aha te mea rā?” (Que coisa é aquela?).
+• “Ko wai tōu ingoa?” (Qual é seu nome?).
+• “He aha ia i pērā ai?” (Por que ele é assim?).
+• “Kei hea te ngeru?” (Onde está o gato?).
+• “Nā wai tēnei pukapuka?” (Para quem é este livro?).
+• “Ko wai e kōrero ana?” (Quem está falando?).
+• “Ko tēhea tima i toa?” (Qual time ganhou?).
+• “Nā wai tēnei waiata i tito?” (Quem compôs essa canção?).
+• “I hoatu ngā moni ki a wai?” (A quem foi dado o dinheiro?).
+• “Kei te kimi koe i te aha?” (O que você está procurando?).
+• “Nō nahea koe i tae mai ai?” (Quando você veio?).
+• “Mā hea koe tae mai ai?” (Por onde você veio?).
+• “Nā te aha koe i koere ai e tae atu ki te hui?” (Por que você não veio
+  ao encontro?).
+• “I pakaru te matapihi i a wai?” (Quem quebrou a janela?).
 
 
 §§ Hortativo
 
-Hortativo é um tipo de construção que expressa modos jussivo, hortativo e
-demais modos deônticos não imperativos.  Tais construções podem ser traduzidas
-como “deve …” ou “é melhor …”.
+Hortativo é um tipo de construção que expressa modos jussivo, hortativo
+e demais modos deônticos não imperativos.  Tais construções podem ser
+traduzidas como “deve …” ou “é melhor …”.
 
-Hortativo positivo.
+.Hortativo positivo.
 Hortativo positivo (também chamado de “imperativo fraco” na maioria das
 gramáticas de Māori) é um tipo de construção que expressa modos jussivo,
-hortativo e demais modos deônticos não imperativos.  Tais construções são
-marcadas por “me” e não podem ter um verbo passivo; porém, o resto da
-construção pode ser idêntica a uma construção passiva, como se houvesse uma
-ergatividade superficial.
+hortativo e demais modos deônticos não imperativos.  Tais construções
+são marcadas por “me” e não podem ter um verbo passivo; porém, o resto
+da construção pode ser idêntica a uma construção passiva, como se
+houvesse uma ergatividade superficial.
 • “Me haere atu koe!” (Vocẽ deveria partir).
 • “Me haere tātou.” (É melhor irmos).
 • “Me karanga au.” (“É melhor eu ligar” ou “Eu deveria ligar”).
 • “Me hoki te tamaiti ki te kainga.” (A criança deveria voltar para casa).
-• “Me whai e koe te mātauranga” (Você deveria buscar conhecimento).  Compare
-com o imperativo passivo “Whaia e koe te mātauranga!” (Busque conhecimento).
+• “Me whai e koe te mātauranga” (Você deveria buscar conhecimento).
+  Compare com o imperativo passivo “Whaia e koe te mātauranga!” (Busque
+  conhecimento).
 • “Me kawe e koe taku kete.” (Você poderia carregar minha cesta).
 • “Me horoi ngā rīhi” (Deveriam lavar a louça), lit' “A louça deveria ser lavada”.
 
-Hortativo negativo.
-Hortativo negativo é composta pelo marcador admonitivo (isto é, o marcador de
-advertência) “kei”.
-• “Kei patua e koe te tangata rā mō te kore take noa iho!” (Não bata aquele
-homem sem uma razão qualquer!).
-• “Kei noho koe ka kōrero parau!” (“Você nunca deve dizer mentiras!”, lit'
-“Você não deve ficar dizendo mentiras!”).  Note que “kei noho” (não deve
-ficar) é um expressão idiomática que pode ser traduzida como “nunca deve”.
-
-
-§§ Sujeito indeterminado ou oculto
-
-A indeterminação do agente ou sujeito é quase sempre expressa com a voz
-passiva.  O sujeito também pode ser oculto se for óbvio pelo contexto.
-
-Sujeito indeterminado.
-• “I tīkina atu he wai mō rātou.” (Trouxeram-lhes um pouco de água).
-• “Kua tīkina tāku tamaiti.” (Buscaram meu filho).
-
-Imperativo.
-Quando o foco de uma imperação é o objeto, usa-se imperativo.
-• “Tīkina atu he wai mōku!” (Busque uma água para mim!).
-
-
-§§ Construções verbais
-
-Progressivo.
-“haere” (ir) pode ser usado como advérbio indicando mudança gradual ou
-progressiva.
-• “Kua piki haere te utu o ngā kai.”  (O preço da comida está crescendo aos poucos).
-
-
-§§ Reflexividade
-
-Reflexividade de um pronome pessoal pode ser explicitada pela posposição
-opicional do pronome pela partícula “anō” (si, mesmo) ou “ake” (acima).
-• “Kei te horoi a Mere i a ia (anō).” (Mere está se lavando).  Sem “anō”, o
-pronome é ambíguo entre referência reflexiva ou a outrem.
+.Hortativo negativo.
+Hortativo negativo é composta pelo marcador admonitivo (isto é, o
+marcador de advertência) “kei”.
+• “Kei patua e koe te tangata rā mō te kore take noa iho!” (Não bata
+  naquele homem sem uma razão qualquer!).
+• “Kei noho koe ka kōrero parau!” (“Você nunca deve dizer mentiras!”,
+  lit' “Você não deve ficar dizendo mentiras!”).  Note que “kei noho”
+  (não deve ficar) é um expressão idiomática que pode ser traduzida como
+  “nunca deve”.
 
 
 § TODO: EDIT ME!!!!
@@ -1162,4 +871,57 @@ pronome é ambíguo entre referência reflexiva ou a outrem.
   Exemplos de proposições com predicado 
   • “Ka pai tēnei kōrero.” (“Esta conversa está boa.”)
 
+
+
+§§ TODO Subordinação
+
+Outro.
+• “Ka tae mai te waea ki a Hata kua mate tāna mokopuna.” (Chega para Hata o
+telefonema de que seu neto morrera).
+• “Lo te tangata tērā i kitea e ahau.” (“Aquele é o homem que eu vi”, lit'
+“Aquele é o homem que foi visto por mim”).
+
+Modificador subordinado.
+• “He maha ngā toa i mate i a ia” (Os guerreiros que foram mortos por ele são muitos).
+
+Objeto subordinado com “ki te”.
+Usa-se “ki te” quando o sujeito das orações principal e subordinada são os
+mesmo, e quando o verbo da oração subordinada não é passivo nem estativo.
+• “Kāore au e hiahia ki te haere ki reira” (Não quero ir para lá).
+
+Objeto subordinado com “kia”.
+Usa-se “kia” quando o sujeito das orações principal é diferente do sujeito da
+oração subordinada.
+• “Kāore au e hiahia kia haere ia ki reira.” (Não quero que vá para lá).
+• “Hiahia au kia wareware i a koe.” (Quero que você me esqueça).
+• “Ko tāku hiahia kia haere atu koe.” (Meu desejo é que você vá embora).
+
+§§ Sujeito indeterminado ou oculto
+
+A indeterminação do agente ou sujeito é quase sempre expressa com a voz
+passiva.  O sujeito também pode ser oculto se for óbvio pelo contexto.
+
+Sujeito indeterminado.
+• “I tīkina atu he wai mō rātou.” (Trouxeram-lhes um pouco de água).
+• “Kua tīkina tāku tamaiti.” (Buscaram meu filho).
+
+Imperativo.
+Quando o foco de uma imperação é o objeto, usa-se imperativo.
+• “Tīkina atu he wai mōku!” (Busque uma água para mim!).
+
+
+§§ Construções verbais
+
+Progressivo.
+“haere” (ir) pode ser usado como advérbio indicando mudança gradual ou
+progressiva.
+• “Kua piki haere te utu o ngā kai.”  (O preço da comida está crescendo aos poucos).
+
+
+§§ Reflexividade
+
+Reflexividade de um pronome pessoal pode ser explicitada pela posposição
+opicional do pronome pela partícula “anō” (si, mesmo) ou “ake” (acima).
+• “Kei te horoi a Mere i a ia (anō).” (Mere está se lavando).  Sem “anō”, o
+pronome é ambíguo entre referência reflexiva ou a outrem.
 

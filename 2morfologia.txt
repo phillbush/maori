@@ -22,8 +22,7 @@ Há dois grupos de categorias léxicas: as bases e as partículas.  Bases
 (“kupu kiko”) são palavras dotadas de conteúdo léxico e que ocorrem como
 núcleo de um constituinte; incluem nomes e verbos.  Partículas (“kupu
 punga”) são palavras que expressam relações gramaticais ou delimitam o
-sentido de bases; incluem determinantes, modificadores, preverbos,
-preposições e genitivadores.
+sentido de bases; incluem todas as demais categorias léxicas.
 
 § Nomes (tūingoa)
 
@@ -118,7 +117,7 @@ mera adposição.
 • “Te rā horoi” (o dia de limpeza) → “Te Rāhoroi” (Sábado).
 
 
-§§ Nomes locativos (tūwāhi).
+§§ Nomes locativos (tūwāhi)
 
 Nomes locativos são nomes que, quando complementando uma preposição
 locativa (“ki”, “i”, “kei” ou “hei”), usam nenhum determinante; mas
@@ -164,7 +163,9 @@ Pronomes pessoais distinguém em número singular, dual e plural; com
 distinção de clusividade nas primeiras pessoas dual e plural; mas sem
 distinção de gẽnero.  Alguns dos pronomes possuem alomorfos cliticos
 (listados em parênteses), usados para compor contrações (“nā + au →
-nāku”).
+nāku”).  Há variações dialetais para os pronomes da segunda pessoa:
+“kourua” é usado no norte de Auckland; “kōtou” é usado na costa Leste.
+“au” é pronunciado ‘/wau/’ após vogais posteriores.
 
 ┌─────────────────────┬──────────────────┬───────────────┬───────────────┐
 │ Pessoa              │ Singular         │ Dual          │ Plural        │
@@ -195,8 +196,10 @@ tornam-se o próprio núcleo.
 
 Verbo é uma categoria de palavras que podem ser usadas como núcleo de
 constituintes verbais.  Verbos são classificados em três subcategorias
-quanto a se pode sofrer apassivação e que preverbo é usado em frases
-imperativas.  Māori possui ordem VSO.
+(dinâmicos, médios e estativos) quanto a se pode sofrer apassivação e
+que preverbo é usado em frases imperativas.  Há também outras categorias
+especiais, os numerais (que são um tipo de estativos) e os proverbos
+negativos (bases capases de substituir um constituinte verbal completo).
 
 ┌──────────┬──────────────────────┬────────────────────────────────────┐
 │ Verbo    │ Pode ser apassivado? │ Preverbo usado quando imperativo   │
@@ -313,8 +316,8 @@ o sujeito da frase, por ser o argumento de menor agência, é transformado em
 possessivo inalienável (do tipo O), enquanto que o estímulo mantém a
 preposição “ki”.
 • “Ka tiro te matua ki ngā tīkiti” (O pai observa os ingressos).
-• “Te tiro o te matua ki ngā tīkiti” (A observação do pai aos ingressos),
-  nominalização da frase do exemplo anterior.
+• “Te tirohanga o te matua ki ngā tīkiti” (A observação do pai aos
+  ingressos), nominalização da frase do exemplo anterior.
 
 .Forma passiva.
 Numa frase com um verbo médio na forma passiva, o estímulo é sujeito e
@@ -322,9 +325,9 @@ o experienciador é um adjunto agentivo (marcado com a preposição “e”).
 Quando nominalizado, o sujeito da frase, por ser o argumento de maior
 agência, é transformado em possessivo alienável (do tipo A), enquanto
 que o experienciador mantêm a preposição “e”.
-• “Ka tiro ngā tīkiti e te matua” (Os ingressos são observados pelo pai).
-• “Te tiro a ngā tīkiti e te matua” (A observação dos ingressos pelo pai),
-  nominalização da frase do exemplo anterior.
+• “Ka tirohia ngā tīkiti e te matua” (Os ingressos são observados pelo pai).
+• “Te tirohanga a ngā tīkiti e te matua” (A observação dos ingressos
+  pelo pai), nominalização da frase do exemplo anterior.
 
 .Derivação nula.
 Certos verbos estativos podem ser usados como médios adaptando a estrutura
@@ -402,6 +405,114 @@ opcional, como distributivo, ou como intensivo.
 • “ka whero” (ser vermelho) → “ka whewhero” (ser avermelhado).
 
 
+§§ Numerais
+
+Em Māori, numerais cardinais são verbos estativos adjetivos, e devem ser
+portanto usados com preverbos em um constituinte verbal.  Ordinais entre
+1 e 10 estão listados a seguir; cardinais entre 11 e 19 têm a forma
+“tekau mā Y”; múltiplos de 10 tem a forma “X tekau mā Y”.  Há ainda o
+numeral interrogativo “hia”.  Note que, como todos os numerais de 1 a 9
+têm apenas duas moras, a partícula rítmica “e” é necessária antes deles.
+• “tahi” (um).
+• “rua” (dois).
+• “toru” (três).
+• “whā” (quatro).
+• “rima” (cinco).
+• “ono” (seis).
+• “whitu” (sete).
+• “waru” (oito).
+• “iwa” (nove).
+• “tekau” (dez).
+• “tekau mā ono” (dezesseis).
+• “whā tekau mā ono” (quarenta e seis).
+• “kotahi rau” (cem).
+• “kotahi rau mā tahi” (cento e um).
+• “kotahi rau e rua tekau mā tahi” (cento e vinte e um).
+• “mano” (mil).
+• “hia” (quantos).
+
+Ao referir-se a pessoas, os numerais de 2 a 9 devem ser prefixados por
+“toko-”.
+• “Tokohia āu tamariki? Tokorua.” (Quantas crianças você tem? Duas.).
+• “Ka huna ngā tāngata tokorua i roto i te whare” (Os dois homens se
+  escondem dentro da casa).
+
+Ordinais são formados para os números de 1 a 9 pela prefixação de “tua-”
+ao cardinal.  Demais ordinais são usados como a forma cardinal.  A
+palavra resultante é usada como um modificador ou como um nome.
+• “Te rā tuatahi” (O primeiro dia).
+• “Te tuatahi o ngā r” (O primeiro dos dias).
+• “Te tekau mā rua o ngā rā o Tīhema” (O décimo segundo dia de Dezembro).
+
+
+§§ Negativos
+
+Māori usa pró-verbos, chamados ‘negativos’, para negar predicados.  Ao
+ser negado, um predicado passa seu sujeito ao negativo e transforma-se
+numa oração subordinada ao negativo.
+
+.Kāore.
+O negativo “kāore” (ou sua variação “kāhore”) é usado para negar
+predicados verbais, locativos, adjetivos e possessivos.  Em geral,
+construções pretéritas são subordinadas com “i”, construções presentes
+são subordinadas com “e … ana” e construções futuras são subordinadas
+com “e”.  Construções perfectivas (marcadas com “kua”) são subordinadas
+com o preverbo subjuntivo “kia” ao serem negadas, e o negativo
+normalmente adquire o modificador “anō” (ainda).
+• “He whero te pōtae” (O chapéu é vermelho) → “Kāore te pōtae e whero
+  ana” (O chapéu não é vermelho).
+• “Ka haere au ki te marae” (Eu vou ao marae) → “Kāore au e haere ki te
+  marae” (eu não vou ao marae).
+• “I hangaia te whare e ia” (A calsa foi construída por ele) → “Kāore te
+  whare i hangaia e ia” (A casa não foi construída por ele).
+• “Kei runga te pene i te tēpu” (A caneta está sobre a mesa) → “Kāore te
+  pene i runga i te tēpu” (A caneta não está sobre a mesa).
+• “Kua hū te wai” (A água evaporou) → “Kāore anō te wai kia hū” (A água
+  não evaporou ainda).
+
+.Ehara.
+O negativo “ehara” é usado para negar predicados nominais, equativos e
+causativos/benefactivos.  Construções de agente enfático (por ser um
+predicado causativo/benefactivo) e de sujeito frontalizado (por ser um
+predicado equativo) também formam negativo com “ehara”.  Predicados
+marcadas pelo preverbo intentivo “hei” também são negadas com “ehara”.
+• “Ko tērā tāne te rangatira” (O chefe é aquele homem) → “Ehara tērā
+  tāne i te rangatira” (O chefe não é aquele homem).
+• “Nā rātou i hanga te whare.” (Foram eles quem construíram a casa) →
+  “Ehara nā rātou i hanga te whare” (Não foram eles quem construíram a
+  casa).
+• “Ehara hei tapahi pepa tēnei naihi.” (Esta faca não é para cortar
+  papel).
+
+.Kaua.
+O negativo “kaua” é usado com sentido imperativo para negar comandos.
+• “Patua te taramu” (bata no tambor) → “Kaua e patua te taramu” (Não
+  bata no tambor).
+
+.Kīhai.
+O negativo “kīhai” é usado com sentido pretérito.
+• “Kīhai a Nātana i inu pia inapō” (Natan não bebeu cerveja na noite
+  passada).
+
+.Tē.
+O negativo “tē” é usado em construções verbais, normalmente em fala
+formal.  Quando usado com o modificador de modo imprevisível (“kē”),
+indica “em vez de” (às vezes “ai” é também adicionado).
+• “tē taea hoki te pēhea” (Nada pode ser feito).
+• “Kei te haere ia ki te kēmu, tē mahi kē ai i ana mahi” (Ela está indo
+  ao jogo em vez de fazer seu trabalho).
+
+Note que negativos, por serem pró-verbos, não admitem preverbos, pois
+substituem todo o constituinte verbal.  Se for necessário usar
+preverbos, usa-se o verbo “kore” que, apesar de não ser um pró-verbo,
+tem sentido negativo.
+• “Ki te kore a Pio e tae mai, ka raru tātou” (Se Pio não chegar aqui,
+  estamos com problemas).
+• “Kua kore au e haere ki Rānana” (Não estou mais indo a Londres),
+  quando após o preverbo perfectivo “kua”, “kore” tem sentido de “não
+  mais”.
+
+
 § Modificadores (tūāhua)
 
 Modificadores são uma categoria de palavras usadas para restringir
@@ -439,18 +550,17 @@ aplicado a um verbo.
 
 §§ Modificadores de modo
 
-Modificadores de modo são modificadores que aparecem logo após um nome
-ou verbo.  Alguns modificadores de modo são listados a seguir.
-
-• Tonu:    Modificador estritivo e estabilizante        ("ainda", "mesmo");
-• Kē:      Outro.
-• Rawa:    Intensivo.
+Modificadores de modo são modificadores que aparecem logo após uma base.
+Alguns modificadores de modo são listados a seguir.
 
 .Modificador de modo estritivo (“tonu”).
 O modificador de modo “Tonu” modifica uma base realçando sua precisão e
 exatidão, e/ou sua continuidade e estabilidade.  Pode ser traduzido por
 "ainda", "mesmo", "de fato" e derivados; também é usado para enfatizar,
 podendo ser traduzido de varias formas, de acordo com o contexto.
+Quando usado em contexto negativo, pode significar “nunca”.  “Tonu atu”
+e “tonu mai” pode indicar sentido imediato, podendo ser traduzido como
+“assim” ou “assim que”.
 • “E ora tonu ia” (“ele ainda vive”).
 • “Ahakoa tonu” (“apesar de que”, literalmente “embora ainda”).
 • “Ināianei tonu” (“ainda agora”).
@@ -460,18 +570,65 @@ podendo ser traduzido de varias formas, de acordo com o contexto.
 • “Haere tonu” (“continuar”, literalmente “ainda ir”).
 • “E hia āu kurī? Kotahi tonu.” (“Quantos cachorros tens? Só um.”).
 • “Kei te māuiui tonu a Mere.” (“Mere ainda está doente.”).
+• “E kore tonu au e whakaae” (Eu nunca vou concordar).
+• “Tae tonu atu ia, ka moe” (Assim que ele chegou, ele dormiu).
 
-.Modificador de modo alternativo (“kē”).
-TODO.
+.Modificador de modo imprevisível (“kē”).
+O modificador de modo imprevisível “kē” indica alternância, diferença ou
+imprevisibilidade.
+• “Kei hea kē ngā tamariki?” (Onde estão as crianças [elas não estão
+  onde eu esperava]).
+• “Kua haere kē ngā tamariki.” (As crianças já foram [para outro
+  lugar]).
+• “E aha kē ana koutou?” (O que [diabos] você está fazendo?).
+• “I te aha kē koe inanahi?” (O que [diabos] você estava fazendo ontem?).
+• “Kei Taranaki kē rātou e noho ana.” (Eles estão vivendo lá em Taranaki).
+• “Haere kē koe, haere kē ia.” (Você foi assim, ele foi assado).
+• “Me tango kē koe i tēnei” (Pegue este [não o outro]).
+• “Kaua koe e huri kē!” (Não se vire).
+• “Kua waiata kē tōu hoa.” (Seu amigo já cantou).
 
 .Modificador de modo intensivo (“rawa”).
-TODO.
+O modificador de modo intensivo “rawa” intensifica o sentido da base
+no núcleo do constituinte.  Pode ser traduzido como “diretamente” ou
+“muito”.
+• “He pukapuka pai tēnei? Āe, he pukapuka pai rawa.”
+  (Esse é um bom livro? Sim, um livro muito bom).
+• “Kua kore te kai? Āe, kua kore rawa” (Não há comida? Não, nenhuma
+  mesmo).
+• “He pēhea te kai nei? He pai rawa.” (Como está a comida? Muito boa).
+• “Ko te hiahia o Kupe, kia tae rawa atu ia ki Aotearoa.” (Era desejo de
+  Kupe ir direto a Nova Zelândia).
+• “I whara te tangata, kāhore i mate rawa.” (O homem foi machucado, mas
+  não morto).
+• “Kotahi te wahine pai rawa o tēnei ope” (Há uma mulher muito bonita
+  neste grupo).
 
 .Modificador de modo irrestrito (“noa”).
-TODO.
+O modificador de modo irrestrito “noa” denota falta de limites ou
+condições.  Geralmente ocorre junto de outros modificadores, como
+“noa iho”.  Pode ser traduzido como “apenas”, “livremente”, “em vão”,
+“facilmente”, “acidentalmente”, “sem motivo” etc.
+• “I haere noa mātou” (Nós voltamos [sem motivo especial]).
+• “I tukua te tangata kia haere noa” (O homemem foi liberado para ir
+  livremente).
+• “I makere noa iho te hua o te rākau” (O fruto caiu da árvore).
+• “Ehara ēnei wāhine i konei; nno tawhiti noa atu rātou” (Estas mulheres
+  não são daqui, mas de um lugar bem distante).
+• “I karanga noa atu au ki a ia” (Eu o chamei em vão).
+
+.Modificador de modo factual (“koa”).
+O modificador de modo factual “koa” denota intensidade e pode ser
+traduzido como “de fato”.  Também denota cortesia em imperativos, e pode
+ser traduzido como “por favor”.  “Koa” também ocorre em vários idiomas
+onde adiciona ênfase ou intensidade.
+• “Hōmai koa te pata” (Passe a manteiga por favor).
+• “Ko koe anō koa a Whakatau” (Você é de fato Whakatau).
 
 .Modificador de modo solitário (“kau”).
-TODO.
+O modificador de modo solitário “kau” denota a falta de outros fatores,
+e pode ser traduzido como “só”, “sozinho”, “vazio”, “somente”, “pura e
+simplesmente”, etc.
 
 
 §§ Modificadores direcionais
@@ -498,9 +655,10 @@ locutor.
 .Modificador direcional de distância (“atu”).
 O modificador direcional “atu” modifica uma base adicionando o fato de
 que seu sentido é aplicado para longe do locutor ou em posição distante
-do locutor.  O modificador “atu” pode significar também “outro” ou
-“além”, principalmente na expressão “tētahi atu”.  Este modificador
-também pode ser usada para implementar sentido comparativo.
+do locutor.  Pode ser traduzido como “embora”.  O modificador “atu” pode
+significar também “outro” ou “além”, principalmente na expressão “tētahi
+atu”.  Este modificador também pode ser usada para implementar sentido
+comparativo.
 • “Haere atu” (“Vá embora!”).
 • “Hoki atu ki tōu kāinga” (“Volte lá para sua casa!”).
 • “Kawea atu he wai mō mātou” (“Pega lá uma água para nós”).
@@ -518,15 +676,25 @@ também pode ser usada para implementar sentido comparativo.
 
 .Modificador direcional superior (“ake”).
 O modificador direcional “ake” modifica uma base adicionando o sentido
-de superioridade.  Este modificador também é usado para implementar
-sentido superlativo.
+de superioridade.  Quando seguido de um verbo de movimento, adiciona
+sentido para cima.  Este modificador também é usado para implementar
+sentido superlativo.  Pode também ser usado para reinforçar palavras
+com conotações positivas, como progresso e saúde, ou para indicar que
+uma ação é realizada rapidamente e facilmente.
+• “Piki ake ki konei!” (Suba aqui, por favor).
+• “Ka titiro ake ia ki ngā whetū e kapokapo mai ana i te rangi.” (Ela
+  olhou para cima para as estrelas piscando no céu).
+• “I ora ake ia” (ele sobreviveu).
 • “He pai ake tēnei i tēnā” (“Este é melhor do que esse”).
-• TODO.
 
 .Modificador direcional inferior (“iho”).
 O modificador direcional “iho” modifica uma base adicionando o sentido
-de inferioridade.
-• TODO.
+de inferioridade.  Quando seguido de um verbo de movimento, adiciona
+sentido para baixo.  Pode também ser usado para reinforçar palavras com
+conotações negativas, como problemas e doenças.
+• “Heke iho!” (Se abaixe).
+• “He iti iho te utu mō te tamariki i te pakeke.” (O preço para criança
+  é menor que para adultos).
 
 
 §§ Modificadores dêiticas
@@ -567,9 +735,13 @@ pelos preverbos pretérito (“é”) e impretérito (“i”).
 
 .Modificador aspectual progressivo (“ana”).
 O modificador aspectual “ana” modifica um verbo adicionando sentido
-progressivo ou continuativo.
+progressivo ou continuativo.  É normalmente usado com o preverbo
+impretérito “e”.  Também pode ser usado sem preverbo, em narrativa
+animada, em duas proposições distintas.
 • “E mātakitaki atu ana ngā tūroro i te whutupōro” (“Os pacientes estão
   assistindo o rugby”).
+• “Noho ana ia, tunu manu ana māna.” (Ele se senta e cozinha a ave para
+  ele).
 
 .Modificador aspectual habitual (“ai”).
 O modificador aspectual “ai” modifica um verbo adicionando sentido
@@ -580,6 +752,8 @@ deletado (seja por foco ou relativização).
 • “Nō nanahi nei rātou i tae mai ai” (“Foi ontem que eles chegaram”).
 • “Ko Tōrere te marae e tū ai te hui” (“Tōrere é o marae onde o encontro
   acontecerá”).
+• “Haere mai ki konei, noho ai” (Venha para cá e sente).
+• “Kei konei pea tāua mate ai” (Aqui talvez nós dois morramos).
 
 
 §§ Modificadores iterativos
@@ -606,9 +780,19 @@ e nenhum outro, ou para indicar que apenas um tipo de coisa é presente.
   still alive”).
 
 
-§§ Outros modificadores
+§§ Modificadores condicionais
 
-TODO (“hoki”, “pea”).
+Modificadores condicionais são modificadores que aparecem logo após um
+modificador dêitico, se houver.
+
+.Modificador condicional incerto (“pea”).
+O modificador condicional incerto “pea” denota incerteza.  Pode ser
+traduzido como “talvez” ou “provavelmente”.
+• “Āe, pea!” (Sim, talvez).
+• “E kore pea ia e pai mai ki ahau” (Talvez ele não goste de mim).
+• “Nē te tau 1980 pea i haere ai au ki Ingarangi” (Foi provavelmente o
+  ano de 1980 quando I fui para Inglaterra).
+• “E whā tekau noa iho pea rātou” (Há provavelmente uns quarenta deles).
 
 
 
@@ -871,15 +1055,21 @@ traduz-se como “se”, “caso” ou “quando”.
 §§ Preverbo intentivo (“hei”)
 
 O preverbo intentivo “hei” expressa intenção, propósito, etc.  Neste
-uso, “hei” é seguido somente por verbos transitivos ativos.
+uso, “hei” é seguido somente por verbos transitivos ativos, nunca com
+verbos intransitivos, verbos na passiva ou estativos.
 • “Anei te oka hei tapahi i te mīti.” (Aqui está uma faca para cortar a
   carne).
 • “Kua tae mai a Hēmi hei āwhina i a koe.” (Hemi veio aqui para ajudar
   você).
 
+
 §§ Preverbo atentivo (“kei”)
 
-TODO.
+O preverbo atentivo “kei” expressa atenção ou aviso.  Neste uso, “kei”
+sugere que algo pode acontecer, mas não irá necessariamente.  “Kei” pode
+também ser usado como um comando para não fazer algo, neste caso ele
+começará uma proposição e será seguido por um verbo.
+• “Kia tere, kei mākū koe i te ua.” (Rápido, ou se molhará pela chuva).
 
 
 § Preposições (pūtūmua)
@@ -1189,27 +1379,27 @@ literalmente “por cima da canoa”).
   (Nós viemos pela planície de Kaingaroa, pela estrada para Waiotapu).
 
 
-§ Genitivadores
+§ Adjuntivos
 
-Genitivadores são uma categoria fechada de partículas usadas antes de um
+Adjuntivos são uma categoria fechada de partículas usadas antes de um
 nome ou pronome para torná-lo adjunto de um núcleo.
 
-§§ Genitivador locativo (“i”)
+§§ Adjuntivo locativo (“i”)
 
-O genitivador locativo “i” é usado para complementar nomes locativos que
+O adjuntivo locativo “i” é usado para complementar nomes locativos que
 denotam posição relativa.  Seu uso é normalmente traduzido como
 “de”.
 • “Kei runga i te tē tēpu” (Em cima da mesa).
 
 
-§§ Genitivador comitativo (“me”)
+§§ Adjuntivo comitativo (“me”)
 
-O genitivador comitativo é usado para complementar bases, sejam elas
+O adjuntivo comitativo é usado para complementar bases, sejam elas
 nominais ou verbais, fornecendo sentido de conjunção e coordenação.
-Os diversos usos desse genitivador são listados a seguir.
+Os diversos usos desse adjuntivo são listados a seguir.
 
 .Uso coordenativo.
-O genitivador comitativo pode ser usado com sentido coordenativo,
+O adjuntivo comitativo pode ser usado com sentido coordenativo,
 marcando conjunto de nomes ou verbos.  Tal uso é normalmente traduzido
 como a conjunção coordenada “e”.
 • “Te ngeru me te kurī” (O cão e o gato).
@@ -1218,23 +1408,95 @@ como a conjunção coordenada “e”.
 • “Ka ūmere me te kata” (gritar e rir).
 
 .Uso comitativo.
-O genitivador comitativo pode ser usado com sentido comitativo, marcando
+O adjuntivo comitativo pode ser usado com sentido comitativo, marcando
 companhia ou acompanhamento.  Tal uso é normalmente traduzido como “com”
 ou “junto de”.
 • “I tae atu rātou ki reira me ā rātou pū” (Eles chegaram com suas armas).
 
 .Uso circunstancial.
-O genitivador comitativo pode ser usado com sentido circunstancial,
+O adjuntivo comitativo pode ser usado com sentido circunstancial,
 marcando circunstância.  Tal uso é normalmente traduzido como “com”.
 • “Kaua e kōrero me tōu waha e kī ana” (Não fale com a boca cheia).
 
 
-§§ Genitivadores possessivos (“a/o”)
+§§ Adjuntivos possessivos (“a/o”)
 
-Os genitivadores possessivos “o” e “a” marcam posse e genitivo.  Esses
-genitivadores são sujeitos às regras de possessão de tipo A e tipo O
+Os adjuntivos possessivos “o” e “a” marcam posse e genitivo.  Esses
+adjuntivos são sujeitos às regras de possessão de tipo A e tipo O
 presentes na lingua Māori.
 • “Te tuanui o te whare” (O teto da casa).
 • “Te tuakana o Mere” (Irmã mais velha de Mere).
 • “Ngā kurī a te rangatira” (Os cachorros do chefe).
 • “Te waiata a Horomona” (A canção de salomão).
+
+§ Conjunções
+
+Conjunção é uma categoria de palavras usada para conectar proposições.
+
+.Conjunção aditiva (“ā”).
+A conjunção aditiva “ā” é usada para conectar proposições, normalmente
+indicando ações sucessvas, e pode ser traduzida como “e”.  A conjunção
+aditiva é delimitada de ambos os lados por vírgula.
+• “Ka tangi te pere, ā, ka hokihoki atu ngā tamariki ki ō rātou kāinga”
+  (O sino tocou e as crianças retornaram a suas casas).
+
+.Conjunção adversativa (“engari”).
+A conjunção adversativa “engari” apresenta contraste ou exceção, e pode
+ser traduzida como “mas”.  “Engari” pode também significar “pelo
+contrário”.
+• “Kei hopu tōu ringa ki te aka tāepa, engari kia mau ki te aka matua”
+  (não segure suas mãos em vinha solta, mas agarre a vinha principal).
+
+.Conjunção alternativa (“rānei”).
+A conjunção alternativa “rānei” expressa ideia de alternância ou
+escolha, indicando fatos que se realizam separadamente.  Diferente
+das demais conjunções, esta não ocorre entre as proposições, mas é
+pós-posta à segunda opção (mas pode ocorrer após a primeira também).
+• “Ko tēnei te wā tika, kāore rānei” (Esta é a vez certa, ou não?).
+• “He kānga papā rānei, he aihikirīmi rānei hei timotimo māu?” ([Queres]
+  pipoca ou sorvete para você ir beliscando?).
+
+.Conjunção concessiva (“ahakoa”).
+A conjunção concesisva “ahakoa” expressa uma ação que admite um fato
+contrário a uma ação proposta.  Esta conjunção pode ser traduzida como
+“apesar de” ou “embora”.
+• “Ahakoa enei hapa, kia kaha!” (Apesar destes erros, mantenha-se forte!).
+
+
+§ Interjeições
+
+Interjeições são pró-proposições (ou pró-orações), isto é, são palavras
+capazes ocorrer como uma proposição inteira por si só.  São exemplo de
+interjeições os seguintes:
+• “nē?” (né?), usado no final de questões de sim-ou-não.
+• “kāo” (não), forma abreviada de “kāore”, usada somente como resposta
+  negativa a uma questão.
+• “āe” (sim), usado para concordar, ainda que com algo negativo.
+
+
+§ Partícula rítmica
+
+Uma prosódia (realização fonética de um constituinte) deve ter no mínimo
+três moras.  Caso uma prosódia tenha menos de três moras, usa-se a
+partícula rítmica “e” para preencher o espaço vazio e preservar a
+estrutura rítmica da língua.  Há porém a exceção de que uma prosódia
+formada unicamente por um pronome pessoal pode ter menos de três moras e
+não precisa usar a partícula “e”, quando fonologicamente considerados
+clíticos.  A partícula rítmica também pode ser usada para enfatizar um
+constituinte com mais de duas moras.
+
+.Uso vocativo.
+A partícula rítmica é usada antes de nomes pessoais de uma ou duas moras
+quando usados como vocativo. Também pode ser usado antes de outros nomes
+para dar ênfase ao vocativo (tal como a interjeição portuguesa “Oh”).
+• “E Rangi, keu hea ō mōhiti?” (Rangi, onde estão seus óculos?).
+• ”E hine, tīkina atu he kapu!“ (Garota, traga um copo, por favor!).
+• “E te rangatira, he mihi nui ki a koe.” (Oh chefe, muito obrigado a
+  você).
+
+.Uso numeral.
+A partícula rítmica é usada antes do numeral interrogativo “hia” e ao
+declarar número de coisas onde o número começa com uma palavra de uma
+ou duas moras.
+• “E hia āna tāmure” (Quantos peixes snappers ela tem?).
+• “E rua tekau mā tahi” (Vinte e um).

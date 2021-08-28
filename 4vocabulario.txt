@@ -29,7 +29,7 @@ Glossas.
 Correlativos.
 ┌──────────────────┬───────────────┬────────────────────────────────────────────┬──────────────────────────────────┐
 │                  │               │              Demonstrativo                 │           Quantificador          │
-│ Classe           │ Interrogativo ├──────────┬──────────┬──────────┬───────────├───────────┬──────────┬───────────┤
+│ Classe           │ Interrogativo ├──────────┬──────────┬──────────┬───────────┼───────────┬──────────┬───────────┤
 │                  │               │ Proximal │ Medial   │ Distal   │ Anafórico │ Negativo  │          │ Universal │
 ╞══════════════════╪═══════════════╪══════════╪══════════╪══════════╪═══════════╪═══════════╪══════════╪═══════════╡
 │ Determinante     │ (t)ēhea       │ (t)ēnei  │ (t)ēnā   │ (t)ērā   │ (t)aua    │           │          │           │
@@ -104,7 +104,7 @@ para Dunedin? De avião.”); “Mā hea mai to koutou ara? Mā te ara ki
 Waiotapu.” (“Por qual rota vocês vieram? Pela estrada para Waiotapu.”).
 
 
-§ Espaço, direção, tempo
+§ Espaço, direção, tempo.
 
 Espaço-tempo.
 • wā:     (COM) vez, período, intervalo, área, região, espaço definido.
@@ -122,7 +122,7 @@ Posição vertical.
 • runga:      (LOC) superior, topo, cima, acima.
 • raro:       (LOC) inferior, baixo, fundo, abaixo.
 
-Posição inessivo.
+Posição inessiva.
 • roto:       (LOC) interior, dentro.
 • waho:       (LOC) exterior, fora.
 
@@ -151,7 +151,7 @@ indicando ao mesmo tempo local e direção.  Tais sentidos são expressos
 usando preposições.
 • ki runga:   acima, para cima.
 • ki roto:    adentro, para dentro.
-• i roto:     afora, de dentro.
+• i roto:     de dentro.
 
 Modificadores locativos.
 Muitos modificadores podem ser usados modificando um locativo.
@@ -770,6 +770,9 @@ Armazenamento.
 • kete:       (COM) cesta.
 • tahā:       (COM) cabaça, cuia.
 
+Preparação.
+• tunu:       (DIN) cozinhar, assar, preparar.
+
 
 § Saúde, doença, hospital, medicamento
 
@@ -809,6 +812,9 @@ Música.
 • waiata tangi:   Lamento tocado no Tangihanga (velorio tradicional).
 • waiata arohi:   Canção de amor
 • waiata ngahau:  Canção de entretenimento, música.
+
+Esportes.
+• kau(-ria):    (DIN) nadar.
 
 
 § Ambiente, chão e céu, dia, noite, clima, hora
